@@ -2,7 +2,7 @@
   "characters": [
   {
     "id": "kjglxw",
-    "name": "Character_1",
+    "name": "Naruto Uzumaki",
     "location": "Iwa",
     "health": "Injured",
     "power": 7149,
@@ -10,7 +10,7 @@
   },
   {
     "id": "oe9vwp",
-    "name": "Character_2",
+    "name": "Sasuke Uchiha",
     "location": "Kumo",
     "health": "Injured",
     "power": 3544,
@@ -18,7 +18,7 @@
   },
   {
     "id": "t7pb4g",
-    "name": "Character_3",
+    "name": "Sakura Haruno",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5706,
@@ -26,7 +26,7 @@
   },
   {
     "id": "22burk",
-    "name": "Character_4",
+    "name": "Kakashi Hatake",
     "location": "Kiri",
     "health": "Injured",
     "power": 5195,
@@ -34,7 +34,7 @@
   },
   {
     "id": "onqqd5",
-    "name": "Character_5",
+    "name": "Goku",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1448,
@@ -42,7 +42,7 @@
   },
   {
     "id": "zuofsy",
-    "name": "Character_6",
+    "name": "Vegeta",
     "location": "Kumo",
     "health": "Injured",
     "power": 2701,
@@ -50,7 +50,7 @@
   },
   {
     "id": "9ccr8t",
-    "name": "Character_7",
+    "name": "Monkey D. Luffy",
     "location": "Kumo",
     "health": "Healthy",
     "power": 9269,
@@ -58,7 +58,7 @@
   },
   {
     "id": "yn7gym",
-    "name": "Character_8",
+    "name": "Roronoa Zoro",
     "location": "Konoha",
     "health": "Injured",
     "power": 9464,
@@ -66,7 +66,7 @@
   },
   {
     "id": "wq61k4",
-    "name": "Character_9",
+    "name": "Sanji",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6261,
@@ -74,7 +74,7 @@
   },
   {
     "id": "g3dmos",
-    "name": "Character_10",
+    "name": "Nami",
     "location": "Kumo",
     "health": "Healthy",
     "power": 8668,
@@ -82,7 +82,7 @@
   },
   {
     "id": "jw8b48",
-    "name": "Character_11",
+    "name": "Usopp",
     "location": "Kumo",
     "health": "Injured",
     "power": 5531,
@@ -90,7 +90,7 @@
   },
   {
     "id": "dowynm",
-    "name": "Character_12",
+    "name": "Tony Tony Chopper",
     "location": "Kiri",
     "health": "Injured",
     "power": 2398,
@@ -98,7 +98,7 @@
   },
   {
     "id": "deok8y",
-    "name": "Character_13",
+    "name": "Nico Robin",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3836,
@@ -106,7 +106,7 @@
   },
   {
     "id": "l1cybl",
-    "name": "Character_14",
+    "name": "Franky",
     "location": "Kiri",
     "health": "Injured",
     "power": 1410,
@@ -114,7 +114,7 @@
   },
   {
     "id": "2fro69",
-    "name": "Character_15",
+    "name": "Brook",
     "location": "Iwa",
     "health": "Healthy",
     "power": 6360,
@@ -122,7 +122,7 @@
   },
   {
     "id": "3nlbt4",
-    "name": "Character_16",
+    "name": "Jinbe",
     "location": "Suna",
     "health": "Healthy",
     "power": 4036,
@@ -130,7 +130,7 @@
   },
   {
     "id": "e7e6wt",
-    "name": "Character_17",
+    "name": "Portgas D. Ace",
     "location": "Konoha",
     "health": "Critical",
     "power": 7075,
@@ -138,7 +138,7 @@
   },
   {
     "id": "c2adu9",
-    "name": "Character_18",
+    "name": "Sabo",
     "location": "Konoha",
     "health": "Critical",
     "power": 1198,
@@ -146,7 +146,7 @@
   },
   {
     "id": "togaqp",
-    "name": "Character_19",
+    "name": "Trafalgar Law",
     "location": "Kumo",
     "health": "Critical",
     "power": 9580,
@@ -154,7 +154,7 @@
   },
   {
     "id": "vuqz2h",
-    "name": "Character_20",
+    "name": "Eustass Kid",
     "location": "Suna",
     "health": "Healthy",
     "power": 7338,
@@ -162,7 +162,7 @@
   },
   {
     "id": "xrjz3o",
-    "name": "Character_21",
+    "name": "Shanks",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7469,
@@ -170,7 +170,7 @@
   },
   {
     "id": "e7f356",
-    "name": "Character_22",
+    "name": "Whitebeard",
     "location": "Konoha",
     "health": "Healthy",
     "power": 7437,
@@ -178,7 +178,7 @@
   },
   {
     "id": "tt2viq",
-    "name": "Character_23",
+    "name": "Gol D. Roger",
     "location": "Konoha",
     "health": "Critical",
     "power": 5530,
@@ -186,7 +186,7 @@
   },
   {
     "id": "x4zpls",
-    "name": "Character_24",
+    "name": "Silvers Rayleigh",
     "location": "Iwa",
     "health": "Critical",
     "power": 9924,
@@ -194,7 +194,7 @@
   },
   {
     "id": "z11l40",
-    "name": "Character_25",
+    "name": "Sengoku",
     "location": "Kumo",
     "health": "Critical",
     "power": 3428,
@@ -202,7 +202,7 @@
   },
   {
     "id": "8gwoks",
-    "name": "Character_26",
+    "name": "Monkey D. Garp",
     "location": "Suna",
     "health": "Critical",
     "power": 7670,
@@ -210,7 +210,7 @@
   },
   {
     "id": "n5r8ji",
-    "name": "Character_27",
+    "name": "Son Goku",
     "location": "Kumo",
     "health": "Critical",
     "power": 8493,
@@ -218,7 +218,7 @@
   },
   {
     "id": "axxfs9",
-    "name": "Character_28",
+    "name": "Vegeta",
     "location": "Kiri",
     "health": "Injured",
     "power": 2591,
@@ -226,7 +226,7 @@
   },
   {
     "id": "9kgzd1",
-    "name": "Character_29",
+    "name": "Son Gohan",
     "location": "Iwa",
     "health": "Critical",
     "power": 2604,
@@ -234,7 +234,7 @@
   },
   {
     "id": "e6oxp4",
-    "name": "Character_30",
+    "name": "Piccolo",
     "location": "Suna",
     "health": "Injured",
     "power": 5294,
@@ -242,7 +242,7 @@
   },
   {
     "id": "yq9ety",
-    "name": "Character_31",
+    "name": "Krillin",
     "location": "Suna",
     "health": "Injured",
     "power": 1866,
@@ -250,7 +250,7 @@
   },
   {
     "id": "eerhfh",
-    "name": "Character_32",
+    "name": "Bulma",
     "location": "Iwa",
     "health": "Injured",
     "power": 6208,
@@ -258,7 +258,7 @@
   },
   {
     "id": "l3byk3",
-    "name": "Character_33",
+    "name": "Chi-Chi",
     "location": "Kumo",
     "health": "Injured",
     "power": 4822,
@@ -266,7 +266,7 @@
   },
   {
     "id": "ietb2d",
-    "name": "Character_34",
+    "name": "Master Roshi",
     "location": "Iwa",
     "health": "Injured",
     "power": 1049,
@@ -274,7 +274,7 @@
   },
   {
     "id": "pnkrw2",
-    "name": "Character_35",
+    "name": "Beerus",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7050,
@@ -282,7 +282,7 @@
   },
   {
     "id": "0dkywy",
-    "name": "Character_36",
+    "name": "Whis",
     "location": "Iwa",
     "health": "Injured",
     "power": 6087,
@@ -290,7 +290,7 @@
   },
   {
     "id": "k9zhw1",
-    "name": "Character_37",
+    "name": "Hinata Hyuga",
     "location": "Iwa",
     "health": "Injured",
     "power": 4039,
@@ -298,7 +298,7 @@
   },
   {
     "id": "vshzf7",
-    "name": "Character_38",
+    "name": "Shikamaru Nara",
     "location": "Kiri",
     "health": "Injured",
     "power": 6268,
@@ -306,7 +306,7 @@
   },
   {
     "id": "nk4gkk",
-    "name": "Character_39",
+    "name": "Choji Akimichi",
     "location": "Suna",
     "health": "Critical",
     "power": 7417,
@@ -314,7 +314,7 @@
   },
   {
     "id": "vz20m8",
-    "name": "Character_40",
+    "name": "Ino Yamanaka",
     "location": "Kumo",
     "health": "Injured",
     "power": 2084,
@@ -322,7 +322,7 @@
   },
   {
     "id": "4treni",
-    "name": "Character_41",
+    "name": "Asuma Sarutobi",
     "location": "Iwa",
     "health": "Injured",
     "power": 6202,
@@ -330,7 +330,7 @@
   },
   {
     "id": "idzyw5",
-    "name": "Character_42",
+    "name": "Kiba Inuzuka",
     "location": "Kiri",
     "health": "Critical",
     "power": 7504,
@@ -338,7 +338,7 @@
   },
   {
     "id": "osa3p9",
-    "name": "Character_43",
+    "name": "Shino Aburame",
     "location": "Kumo",
     "health": "Injured",
     "power": 9899,
@@ -346,7 +346,7 @@
   },
   {
     "id": "fgysh4",
-    "name": "Character_44",
+    "name": "Neji Hyuga",
     "location": "Konoha",
     "health": "Critical",
     "power": 6200,
@@ -354,7 +354,7 @@
   },
   {
     "id": "wnt10u",
-    "name": "Character_45",
+    "name": "Tenten",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1053,
@@ -362,7 +362,7 @@
   },
   {
     "id": "kklth0",
-    "name": "Character_46",
+    "name": "Rock Lee",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7446,
@@ -370,7 +370,7 @@
   },
   {
     "id": "zilvi0",
-    "name": "Character_47",
+    "name": "Anime Character 47",
     "location": "Suna",
     "health": "Injured",
     "power": 5660,
@@ -378,7 +378,7 @@
   },
   {
     "id": "t5a4qx",
-    "name": "Character_48",
+    "name": "Anime Character 48",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3977,
@@ -386,7 +386,7 @@
   },
   {
     "id": "8fazjf",
-    "name": "Character_49",
+    "name": "Anime Character 49",
     "location": "Suna",
     "health": "Injured",
     "power": 2892,
@@ -394,7 +394,7 @@
   },
   {
     "id": "cjz4of",
-    "name": "Character_50",
+    "name": "Anime Character 50",
     "location": "Kumo",
     "health": "Critical",
     "power": 9673,
@@ -402,7 +402,7 @@
   },
   {
     "id": "xuk0l0",
-    "name": "Character_51",
+    "name": "Anime Character 51",
     "location": "Kiri",
     "health": "Critical",
     "power": 4759,
@@ -410,7 +410,7 @@
   },
   {
     "id": "zxa1hx",
-    "name": "Character_52",
+    "name": "Anime Character 52",
     "location": "Iwa",
     "health": "Injured",
     "power": 1228,
@@ -418,7 +418,7 @@
   },
   {
     "id": "bhabcc",
-    "name": "Character_53",
+    "name": "Anime Character 53",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3780,
@@ -426,7 +426,7 @@
   },
   {
     "id": "ceqw8l",
-    "name": "Character_54",
+    "name": "Anime Character 54",
     "location": "Konoha",
     "health": "Injured",
     "power": 2593,
@@ -434,7 +434,7 @@
   },
   {
     "id": "3uuvdz",
-    "name": "Character_55",
+    "name": "Anime Character 55",
     "location": "Suna",
     "health": "Healthy",
     "power": 3546,
@@ -442,7 +442,7 @@
   },
   {
     "id": "kn50oi",
-    "name": "Character_56",
+    "name": "Anime Character 56",
     "location": "Iwa",
     "health": "Critical",
     "power": 4288,
@@ -450,7 +450,7 @@
   },
   {
     "id": "8tevk1",
-    "name": "Character_57",
+    "name": "Anime Character 57",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1092,
@@ -458,7 +458,7 @@
   },
   {
     "id": "ih9bbf",
-    "name": "Character_58",
+    "name": "Anime Character 58",
     "location": "Iwa",
     "health": "Injured",
     "power": 4293,
@@ -466,7 +466,7 @@
   },
   {
     "id": "61jg3x",
-    "name": "Character_59",
+    "name": "Anime Character 59",
     "location": "Suna",
     "health": "Injured",
     "power": 1727,
@@ -474,7 +474,7 @@
   },
   {
     "id": "elocb3",
-    "name": "Character_60",
+    "name": "Anime Character 60",
     "location": "Suna",
     "health": "Healthy",
     "power": 8533,
@@ -482,7 +482,7 @@
   },
   {
     "id": "4pky5c",
-    "name": "Character_61",
+    "name": "Anime Character 61",
     "location": "Suna",
     "health": "Injured",
     "power": 8166,
@@ -490,7 +490,7 @@
   },
   {
     "id": "w4ev94",
-    "name": "Character_62",
+    "name": "Anime Character 62",
     "location": "Iwa",
     "health": "Injured",
     "power": 2595,
@@ -498,7 +498,7 @@
   },
   {
     "id": "l5e28d",
-    "name": "Character_63",
+    "name": "Anime Character 63",
     "location": "Konoha",
     "health": "Healthy",
     "power": 7205,
@@ -506,7 +506,7 @@
   },
   {
     "id": "og2j12",
-    "name": "Character_64",
+    "name": "Anime Character 64",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1267,
@@ -514,7 +514,7 @@
   },
   {
     "id": "zjh0sl",
-    "name": "Character_65",
+    "name": "Anime Character 65",
     "location": "Iwa",
     "health": "Injured",
     "power": 3940,
@@ -522,7 +522,7 @@
   },
   {
     "id": "191rb4",
-    "name": "Character_66",
+    "name": "Anime Character 66",
     "location": "Kiri",
     "health": "Critical",
     "power": 1635,
@@ -530,7 +530,7 @@
   },
   {
     "id": "5a5zvr",
-    "name": "Character_67",
+    "name": "Anime Character 67",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7162,
@@ -538,7 +538,7 @@
   },
   {
     "id": "ubhioo",
-    "name": "Character_68",
+    "name": "Anime Character 68",
     "location": "Kumo",
     "health": "Critical",
     "power": 5077,
@@ -546,7 +546,7 @@
   },
   {
     "id": "e9k68y",
-    "name": "Character_69",
+    "name": "Anime Character 69",
     "location": "Suna",
     "health": "Critical",
     "power": 4928,
@@ -554,7 +554,7 @@
   },
   {
     "id": "wu5u9z",
-    "name": "Character_70",
+    "name": "Anime Character 70",
     "location": "Kiri",
     "health": "Critical",
     "power": 7660,
@@ -562,7 +562,7 @@
   },
   {
     "id": "x8gfhh",
-    "name": "Character_71",
+    "name": "Anime Character 71",
     "location": "Kiri",
     "health": "Critical",
     "power": 1787,
@@ -570,7 +570,7 @@
   },
   {
     "id": "4rlwdi",
-    "name": "Character_72",
+    "name": "Anime Character 72",
     "location": "Iwa",
     "health": "Critical",
     "power": 745,
@@ -578,7 +578,7 @@
   },
   {
     "id": "o4f9ds",
-    "name": "Character_73",
+    "name": "Anime Character 73",
     "location": "Iwa",
     "health": "Critical",
     "power": 6823,
@@ -586,7 +586,7 @@
   },
   {
     "id": "9660yj",
-    "name": "Character_74",
+    "name": "Anime Character 74",
     "location": "Kiri",
     "health": "Injured",
     "power": 6687,
@@ -594,7 +594,7 @@
   },
   {
     "id": "7epugb",
-    "name": "Character_75",
+    "name": "Anime Character 75",
     "location": "Suna",
     "health": "Critical",
     "power": 6887,
@@ -602,7 +602,7 @@
   },
   {
     "id": "o5c0n1",
-    "name": "Character_76",
+    "name": "Anime Character 76",
     "location": "Iwa",
     "health": "Critical",
     "power": 6062,
@@ -610,7 +610,7 @@
   },
   {
     "id": "6advas",
-    "name": "Character_77",
+    "name": "Anime Character 77",
     "location": "Kumo",
     "health": "Healthy",
     "power": 3026,
@@ -618,7 +618,7 @@
   },
   {
     "id": "crc34z",
-    "name": "Character_78",
+    "name": "Anime Character 78",
     "location": "Suna",
     "health": "Healthy",
     "power": 7782,
@@ -626,7 +626,7 @@
   },
   {
     "id": "ir7fz1",
-    "name": "Character_79",
+    "name": "Anime Character 79",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8537,
@@ -634,7 +634,7 @@
   },
   {
     "id": "maplkb",
-    "name": "Character_80",
+    "name": "Anime Character 80",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2570,
@@ -642,7 +642,7 @@
   },
   {
     "id": "2e8kbp",
-    "name": "Character_81",
+    "name": "Anime Character 81",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7345,
@@ -650,7 +650,7 @@
   },
   {
     "id": "pat10i",
-    "name": "Character_82",
+    "name": "Anime Character 82",
     "location": "Suna",
     "health": "Critical",
     "power": 7708,
@@ -658,7 +658,7 @@
   },
   {
     "id": "cpkt4b",
-    "name": "Character_83",
+    "name": "Anime Character 83",
     "location": "Iwa",
     "health": "Injured",
     "power": 9835,
@@ -666,7 +666,7 @@
   },
   {
     "id": "2544gb",
-    "name": "Character_84",
+    "name": "Anime Character 84",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1987,
@@ -674,7 +674,7 @@
   },
   {
     "id": "bfc3po",
-    "name": "Character_85",
+    "name": "Anime Character 85",
     "location": "Iwa",
     "health": "Injured",
     "power": 8676,
@@ -682,7 +682,7 @@
   },
   {
     "id": "256j1x",
-    "name": "Character_86",
+    "name": "Anime Character 86",
     "location": "Konoha",
     "health": "Critical",
     "power": 9952,
@@ -690,7 +690,7 @@
   },
   {
     "id": "3desa1",
-    "name": "Character_87",
+    "name": "Anime Character 87",
     "location": "Konoha",
     "health": "Critical",
     "power": 2887,
@@ -698,7 +698,7 @@
   },
   {
     "id": "li6bed",
-    "name": "Character_88",
+    "name": "Anime Character 88",
     "location": "Kiri",
     "health": "Injured",
     "power": 738,
@@ -706,7 +706,7 @@
   },
   {
     "id": "1krv6f",
-    "name": "Character_89",
+    "name": "Anime Character 89",
     "location": "Kiri",
     "health": "Healthy",
     "power": 3386,
@@ -714,7 +714,7 @@
   },
   {
     "id": "mg5gne",
-    "name": "Character_90",
+    "name": "Anime Character 90",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2145,
@@ -722,7 +722,7 @@
   },
   {
     "id": "qtzpz2",
-    "name": "Character_91",
+    "name": "Anime Character 91",
     "location": "Konoha",
     "health": "Critical",
     "power": 7125,
@@ -730,7 +730,7 @@
   },
   {
     "id": "ae110g",
-    "name": "Character_92",
+    "name": "Anime Character 92",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4043,
@@ -738,7 +738,7 @@
   },
   {
     "id": "h8kozu",
-    "name": "Character_93",
+    "name": "Anime Character 93",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2579,
@@ -746,7 +746,7 @@
   },
   {
     "id": "tm237g",
-    "name": "Character_94",
+    "name": "Anime Character 94",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2561,
@@ -754,7 +754,7 @@
   },
   {
     "id": "z01dlg",
-    "name": "Character_95",
+    "name": "Anime Character 95",
     "location": "Konoha",
     "health": "Critical",
     "power": 3931,
@@ -762,7 +762,7 @@
   },
   {
     "id": "fq7b68",
-    "name": "Character_96",
+    "name": "Anime Character 96",
     "location": "Kumo",
     "health": "Injured",
     "power": 439,
@@ -770,7 +770,7 @@
   },
   {
     "id": "2nck52",
-    "name": "Character_97",
+    "name": "Anime Character 97",
     "location": "Kiri",
     "health": "Healthy",
     "power": 9324,
@@ -778,7 +778,7 @@
   },
   {
     "id": "ctavzx",
-    "name": "Character_98",
+    "name": "Anime Character 98",
     "location": "Kiri",
     "health": "Injured",
     "power": 9184,
@@ -786,7 +786,7 @@
   },
   {
     "id": "zvbgh1",
-    "name": "Character_99",
+    "name": "Anime Character 99",
     "location": "Iwa",
     "health": "Healthy",
     "power": 4579,
@@ -794,7 +794,7 @@
   },
   {
     "id": "b6ty6n",
-    "name": "Character_100",
+    "name": "Anime Character 100",
     "location": "Kumo",
     "health": "Critical",
     "power": 8923,
@@ -802,7 +802,7 @@
   },
   {
     "id": "7jst1q",
-    "name": "Character_101",
+    "name": "Anime Character 101",
     "location": "Kiri",
     "health": "Injured",
     "power": 2259,
@@ -810,7 +810,7 @@
   },
   {
     "id": "53w08b",
-    "name": "Character_102",
+    "name": "Anime Character 102",
     "location": "Iwa",
     "health": "Injured",
     "power": 5303,
@@ -818,7 +818,7 @@
   },
   {
     "id": "iy61ji",
-    "name": "Character_103",
+    "name": "Anime Character 103",
     "location": "Kiri",
     "health": "Injured",
     "power": 2817,
@@ -826,7 +826,7 @@
   },
   {
     "id": "qdqxv9",
-    "name": "Character_104",
+    "name": "Anime Character 104",
     "location": "Suna",
     "health": "Injured",
     "power": 9316,
@@ -834,7 +834,7 @@
   },
   {
     "id": "pomif2",
-    "name": "Character_105",
+    "name": "Anime Character 105",
     "location": "Kumo",
     "health": "Critical",
     "power": 2336,
@@ -842,7 +842,7 @@
   },
   {
     "id": "5ct5r3",
-    "name": "Character_106",
+    "name": "Anime Character 106",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1403,
@@ -850,7 +850,7 @@
   },
   {
     "id": "oxuc4w",
-    "name": "Character_107",
+    "name": "Anime Character 107",
     "location": "Suna",
     "health": "Injured",
     "power": 434,
@@ -858,7 +858,7 @@
   },
   {
     "id": "p2jyzp",
-    "name": "Character_108",
+    "name": "Anime Character 108",
     "location": "Iwa",
     "health": "Healthy",
     "power": 9376,
@@ -866,7 +866,7 @@
   },
   {
     "id": "zl7t5y",
-    "name": "Character_109",
+    "name": "Anime Character 109",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2945,
@@ -874,7 +874,7 @@
   },
   {
     "id": "0krqcq",
-    "name": "Character_110",
+    "name": "Anime Character 110",
     "location": "Kiri",
     "health": "Injured",
     "power": 3342,
@@ -882,7 +882,7 @@
   },
   {
     "id": "t14b1l",
-    "name": "Character_111",
+    "name": "Anime Character 111",
     "location": "Kumo",
     "health": "Healthy",
     "power": 7372,
@@ -890,7 +890,7 @@
   },
   {
     "id": "rlchak",
-    "name": "Character_112",
+    "name": "Anime Character 112",
     "location": "Kumo",
     "health": "Healthy",
     "power": 3447,
@@ -898,7 +898,7 @@
   },
   {
     "id": "nla05v",
-    "name": "Character_113",
+    "name": "Anime Character 113",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2938,
@@ -906,7 +906,7 @@
   },
   {
     "id": "cjnukt",
-    "name": "Character_114",
+    "name": "Anime Character 114",
     "location": "Iwa",
     "health": "Critical",
     "power": 3908,
@@ -914,7 +914,7 @@
   },
   {
     "id": "sd703e",
-    "name": "Character_115",
+    "name": "Anime Character 115",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6487,
@@ -922,7 +922,7 @@
   },
   {
     "id": "kombjj",
-    "name": "Character_116",
+    "name": "Anime Character 116",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3043,
@@ -930,7 +930,7 @@
   },
   {
     "id": "scrf43",
-    "name": "Character_117",
+    "name": "Anime Character 117",
     "location": "Kiri",
     "health": "Injured",
     "power": 5109,
@@ -938,7 +938,7 @@
   },
   {
     "id": "um9ogp",
-    "name": "Character_118",
+    "name": "Anime Character 118",
     "location": "Kumo",
     "health": "Injured",
     "power": 6550,
@@ -946,7 +946,7 @@
   },
   {
     "id": "fddhr8",
-    "name": "Character_119",
+    "name": "Anime Character 119",
     "location": "Konoha",
     "health": "Injured",
     "power": 7778,
@@ -954,7 +954,7 @@
   },
   {
     "id": "xlncx2",
-    "name": "Character_120",
+    "name": "Anime Character 120",
     "location": "Suna",
     "health": "Injured",
     "power": 9440,
@@ -962,7 +962,7 @@
   },
   {
     "id": "pf7iwc",
-    "name": "Character_121",
+    "name": "Anime Character 121",
     "location": "Iwa",
     "health": "Critical",
     "power": 1564,
@@ -970,7 +970,7 @@
   },
   {
     "id": "e1azo5",
-    "name": "Character_122",
+    "name": "Anime Character 122",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4819,
@@ -978,7 +978,7 @@
   },
   {
     "id": "hgkgbx",
-    "name": "Character_123",
+    "name": "Anime Character 123",
     "location": "Iwa",
     "health": "Healthy",
     "power": 145,
@@ -986,7 +986,7 @@
   },
   {
     "id": "6892g9",
-    "name": "Character_124",
+    "name": "Anime Character 124",
     "location": "Konoha",
     "health": "Critical",
     "power": 6006,
@@ -994,7 +994,7 @@
   },
   {
     "id": "yr08zk",
-    "name": "Character_125",
+    "name": "Anime Character 125",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3135,
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "uulqe6",
-    "name": "Character_126",
+    "name": "Anime Character 126",
     "location": "Kiri",
     "health": "Injured",
     "power": 5968,
@@ -1010,7 +1010,7 @@
   },
   {
     "id": "pojfo9",
-    "name": "Character_127",
+    "name": "Anime Character 127",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5629,
@@ -1018,7 +1018,7 @@
   },
   {
     "id": "w5edyq",
-    "name": "Character_128",
+    "name": "Anime Character 128",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4930,
@@ -1026,7 +1026,7 @@
   },
   {
     "id": "1wjme4",
-    "name": "Character_129",
+    "name": "Anime Character 129",
     "location": "Kumo",
     "health": "Critical",
     "power": 527,
@@ -1034,7 +1034,7 @@
   },
   {
     "id": "jej4z4",
-    "name": "Character_130",
+    "name": "Anime Character 130",
     "location": "Kiri",
     "health": "Injured",
     "power": 6758,
@@ -1042,7 +1042,7 @@
   },
   {
     "id": "935b72",
-    "name": "Character_131",
+    "name": "Anime Character 131",
     "location": "Suna",
     "health": "Healthy",
     "power": 781,
@@ -1050,7 +1050,7 @@
   },
   {
     "id": "8y8fat",
-    "name": "Character_132",
+    "name": "Anime Character 132",
     "location": "Kumo",
     "health": "Injured",
     "power": 4114,
@@ -1058,7 +1058,7 @@
   },
   {
     "id": "fwuu16",
-    "name": "Character_133",
+    "name": "Anime Character 133",
     "location": "Suna",
     "health": "Injured",
     "power": 8753,
@@ -1066,7 +1066,7 @@
   },
   {
     "id": "5q9yya",
-    "name": "Character_134",
+    "name": "Anime Character 134",
     "location": "Iwa",
     "health": "Critical",
     "power": 3534,
@@ -1074,7 +1074,7 @@
   },
   {
     "id": "70fo7v",
-    "name": "Character_135",
+    "name": "Anime Character 135",
     "location": "Iwa",
     "health": "Critical",
     "power": 922,
@@ -1082,7 +1082,7 @@
   },
   {
     "id": "zhjvbq",
-    "name": "Character_136",
+    "name": "Anime Character 136",
     "location": "Kumo",
     "health": "Injured",
     "power": 3856,
@@ -1090,7 +1090,7 @@
   },
   {
     "id": "fnjsfs",
-    "name": "Character_137",
+    "name": "Anime Character 137",
     "location": "Konoha",
     "health": "Healthy",
     "power": 5624,
@@ -1098,7 +1098,7 @@
   },
   {
     "id": "imedrs",
-    "name": "Character_138",
+    "name": "Anime Character 138",
     "location": "Iwa",
     "health": "Injured",
     "power": 5087,
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "48adq0",
-    "name": "Character_139",
+    "name": "Anime Character 139",
     "location": "Iwa",
     "health": "Injured",
     "power": 8507,
@@ -1114,7 +1114,7 @@
   },
   {
     "id": "m9nrf2",
-    "name": "Character_140",
+    "name": "Anime Character 140",
     "location": "Kumo",
     "health": "Critical",
     "power": 1041,
@@ -1122,7 +1122,7 @@
   },
   {
     "id": "m0vakq",
-    "name": "Character_141",
+    "name": "Anime Character 141",
     "location": "Kiri",
     "health": "Injured",
     "power": 6223,
@@ -1130,7 +1130,7 @@
   },
   {
     "id": "ld54vl",
-    "name": "Character_142",
+    "name": "Anime Character 142",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4140,
@@ -1138,7 +1138,7 @@
   },
   {
     "id": "xjlscg",
-    "name": "Character_143",
+    "name": "Anime Character 143",
     "location": "Kumo",
     "health": "Injured",
     "power": 3580,
@@ -1146,7 +1146,7 @@
   },
   {
     "id": "g0c3b0",
-    "name": "Character_144",
+    "name": "Anime Character 144",
     "location": "Kiri",
     "health": "Injured",
     "power": 4304,
@@ -1154,7 +1154,7 @@
   },
   {
     "id": "0vizp5",
-    "name": "Character_145",
+    "name": "Anime Character 145",
     "location": "Suna",
     "health": "Healthy",
     "power": 8261,
@@ -1162,7 +1162,7 @@
   },
   {
     "id": "nevyo5",
-    "name": "Character_146",
+    "name": "Anime Character 146",
     "location": "Iwa",
     "health": "Healthy",
     "power": 214,
@@ -1170,7 +1170,7 @@
   },
   {
     "id": "u9ct2a",
-    "name": "Character_147",
+    "name": "Anime Character 147",
     "location": "Iwa",
     "health": "Critical",
     "power": 7972,
@@ -1178,7 +1178,7 @@
   },
   {
     "id": "ujbpcq",
-    "name": "Character_148",
+    "name": "Anime Character 148",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4343,
@@ -1186,7 +1186,7 @@
   },
   {
     "id": "o0b14n",
-    "name": "Character_149",
+    "name": "Anime Character 149",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6077,
@@ -1194,7 +1194,7 @@
   },
   {
     "id": "gw7fq0",
-    "name": "Character_150",
+    "name": "Anime Character 150",
     "location": "Iwa",
     "health": "Injured",
     "power": 694,
@@ -1202,7 +1202,7 @@
   },
   {
     "id": "s82p2t",
-    "name": "Character_151",
+    "name": "Anime Character 151",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7378,
@@ -1210,7 +1210,7 @@
   },
   {
     "id": "vuoz27",
-    "name": "Character_152",
+    "name": "Anime Character 152",
     "location": "Konoha",
     "health": "Injured",
     "power": 9442,
@@ -1218,7 +1218,7 @@
   },
   {
     "id": "98bzst",
-    "name": "Character_153",
+    "name": "Anime Character 153",
     "location": "Suna",
     "health": "Injured",
     "power": 5139,
@@ -1226,7 +1226,7 @@
   },
   {
     "id": "7n8chl",
-    "name": "Character_154",
+    "name": "Anime Character 154",
     "location": "Suna",
     "health": "Healthy",
     "power": 8066,
@@ -1234,7 +1234,7 @@
   },
   {
     "id": "kbae73",
-    "name": "Character_155",
+    "name": "Anime Character 155",
     "location": "Kiri",
     "health": "Healthy",
     "power": 8341,
@@ -1242,7 +1242,7 @@
   },
   {
     "id": "txwt4m",
-    "name": "Character_156",
+    "name": "Anime Character 156",
     "location": "Kiri",
     "health": "Healthy",
     "power": 5772,
@@ -1250,7 +1250,7 @@
   },
   {
     "id": "m9tm90",
-    "name": "Character_157",
+    "name": "Anime Character 157",
     "location": "Kumo",
     "health": "Healthy",
     "power": 7487,
@@ -1258,7 +1258,7 @@
   },
   {
     "id": "4ozmr4",
-    "name": "Character_158",
+    "name": "Anime Character 158",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9348,
@@ -1266,7 +1266,7 @@
   },
   {
     "id": "n6w925",
-    "name": "Character_159",
+    "name": "Anime Character 159",
     "location": "Kiri",
     "health": "Injured",
     "power": 1544,
@@ -1274,7 +1274,7 @@
   },
   {
     "id": "fpnbjg",
-    "name": "Character_160",
+    "name": "Anime Character 160",
     "location": "Kiri",
     "health": "Healthy",
     "power": 1565,
@@ -1282,7 +1282,7 @@
   },
   {
     "id": "pfeim2",
-    "name": "Character_161",
+    "name": "Anime Character 161",
     "location": "Suna",
     "health": "Injured",
     "power": 9808,
@@ -1290,7 +1290,7 @@
   },
   {
     "id": "1r310j",
-    "name": "Character_162",
+    "name": "Anime Character 162",
     "location": "Kumo",
     "health": "Healthy",
     "power": 2825,
@@ -1298,7 +1298,7 @@
   },
   {
     "id": "wv1e7p",
-    "name": "Character_163",
+    "name": "Anime Character 163",
     "location": "Kiri",
     "health": "Healthy",
     "power": 170,
@@ -1306,7 +1306,7 @@
   },
   {
     "id": "spikzh",
-    "name": "Character_164",
+    "name": "Anime Character 164",
     "location": "Iwa",
     "health": "Injured",
     "power": 2845,
@@ -1314,7 +1314,7 @@
   },
   {
     "id": "fpyq8x",
-    "name": "Character_165",
+    "name": "Anime Character 165",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4746,
@@ -1322,7 +1322,7 @@
   },
   {
     "id": "9n6ma5",
-    "name": "Character_166",
+    "name": "Anime Character 166",
     "location": "Iwa",
     "health": "Injured",
     "power": 624,
@@ -1330,7 +1330,7 @@
   },
   {
     "id": "onrsjn",
-    "name": "Character_167",
+    "name": "Anime Character 167",
     "location": "Suna",
     "health": "Injured",
     "power": 2815,
@@ -1338,7 +1338,7 @@
   },
   {
     "id": "7t32qy",
-    "name": "Character_168",
+    "name": "Anime Character 168",
     "location": "Kumo",
     "health": "Critical",
     "power": 9710,
@@ -1346,7 +1346,7 @@
   },
   {
     "id": "9kixs3",
-    "name": "Character_169",
+    "name": "Anime Character 169",
     "location": "Kumo",
     "health": "Injured",
     "power": 3985,
@@ -1354,7 +1354,7 @@
   },
   {
     "id": "e8db4q",
-    "name": "Character_170",
+    "name": "Anime Character 170",
     "location": "Konoha",
     "health": "Critical",
     "power": 4395,
@@ -1362,7 +1362,7 @@
   },
   {
     "id": "vdwfc0",
-    "name": "Character_171",
+    "name": "Anime Character 171",
     "location": "Suna",
     "health": "Critical",
     "power": 430,
@@ -1370,7 +1370,7 @@
   },
   {
     "id": "nkn28l",
-    "name": "Character_172",
+    "name": "Anime Character 172",
     "location": "Suna",
     "health": "Healthy",
     "power": 3003,
@@ -1378,7 +1378,7 @@
   },
   {
     "id": "v3z7y9",
-    "name": "Character_173",
+    "name": "Anime Character 173",
     "location": "Kumo",
     "health": "Injured",
     "power": 9302,
@@ -1386,7 +1386,7 @@
   },
   {
     "id": "wfj47n",
-    "name": "Character_174",
+    "name": "Anime Character 174",
     "location": "Iwa",
     "health": "Injured",
     "power": 4463,
@@ -1394,7 +1394,7 @@
   },
   {
     "id": "apl1nk",
-    "name": "Character_175",
+    "name": "Anime Character 175",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3560,
@@ -1402,7 +1402,7 @@
   },
   {
     "id": "3g8tm4",
-    "name": "Character_176",
+    "name": "Anime Character 176",
     "location": "Kiri",
     "health": "Injured",
     "power": 8414,
@@ -1410,7 +1410,7 @@
   },
   {
     "id": "cxdojz",
-    "name": "Character_177",
+    "name": "Anime Character 177",
     "location": "Suna",
     "health": "Critical",
     "power": 6638,
@@ -1418,7 +1418,7 @@
   },
   {
     "id": "pcwxmp",
-    "name": "Character_178",
+    "name": "Anime Character 178",
     "location": "Kiri",
     "health": "Critical",
     "power": 3750,
@@ -1426,7 +1426,7 @@
   },
   {
     "id": "nmug45",
-    "name": "Character_179",
+    "name": "Anime Character 179",
     "location": "Suna",
     "health": "Critical",
     "power": 8199,
@@ -1434,7 +1434,7 @@
   },
   {
     "id": "8f5f4w",
-    "name": "Character_180",
+    "name": "Anime Character 180",
     "location": "Kumo",
     "health": "Injured",
     "power": 1437,
@@ -1442,7 +1442,7 @@
   },
   {
     "id": "js80x1",
-    "name": "Character_181",
+    "name": "Anime Character 181",
     "location": "Konoha",
     "health": "Injured",
     "power": 7444,
@@ -1450,7 +1450,7 @@
   },
   {
     "id": "wir5gk",
-    "name": "Character_182",
+    "name": "Anime Character 182",
     "location": "Iwa",
     "health": "Healthy",
     "power": 9540,
@@ -1458,7 +1458,7 @@
   },
   {
     "id": "a12mmt",
-    "name": "Character_183",
+    "name": "Anime Character 183",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2774,
@@ -1466,7 +1466,7 @@
   },
   {
     "id": "20ovvd",
-    "name": "Character_184",
+    "name": "Anime Character 184",
     "location": "Suna",
     "health": "Critical",
     "power": 2271,
@@ -1474,7 +1474,7 @@
   },
   {
     "id": "05ma9i",
-    "name": "Character_185",
+    "name": "Anime Character 185",
     "location": "Iwa",
     "health": "Injured",
     "power": 5409,
@@ -1482,7 +1482,7 @@
   },
   {
     "id": "scmgj1",
-    "name": "Character_186",
+    "name": "Anime Character 186",
     "location": "Kiri",
     "health": "Injured",
     "power": 3170,
@@ -1490,7 +1490,7 @@
   },
   {
     "id": "d4sx5d",
-    "name": "Character_187",
+    "name": "Anime Character 187",
     "location": "Iwa",
     "health": "Injured",
     "power": 7050,
@@ -1498,7 +1498,7 @@
   },
   {
     "id": "vx9kvc",
-    "name": "Character_188",
+    "name": "Anime Character 188",
     "location": "Kumo",
     "health": "Healthy",
     "power": 984,
@@ -1506,7 +1506,7 @@
   },
   {
     "id": "7l5xf5",
-    "name": "Character_189",
+    "name": "Anime Character 189",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6799,
@@ -1514,7 +1514,7 @@
   },
   {
     "id": "gmnsgu",
-    "name": "Character_190",
+    "name": "Anime Character 190",
     "location": "Kiri",
     "health": "Injured",
     "power": 2263,
@@ -1522,7 +1522,7 @@
   },
   {
     "id": "h0gryi",
-    "name": "Character_191",
+    "name": "Anime Character 191",
     "location": "Kiri",
     "health": "Healthy",
     "power": 3642,
@@ -1530,7 +1530,7 @@
   },
   {
     "id": "51g5rq",
-    "name": "Character_192",
+    "name": "Anime Character 192",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9106,
@@ -1538,7 +1538,7 @@
   },
   {
     "id": "q4skje",
-    "name": "Character_193",
+    "name": "Anime Character 193",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4816,
@@ -1546,7 +1546,7 @@
   },
   {
     "id": "msrhd6",
-    "name": "Character_194",
+    "name": "Anime Character 194",
     "location": "Konoha",
     "health": "Healthy",
     "power": 7022,
@@ -1554,7 +1554,7 @@
   },
   {
     "id": "ui127w",
-    "name": "Character_195",
+    "name": "Anime Character 195",
     "location": "Iwa",
     "health": "Healthy",
     "power": 4857,
@@ -1562,7 +1562,7 @@
   },
   {
     "id": "vc3a6r",
-    "name": "Character_196",
+    "name": "Anime Character 196",
     "location": "Iwa",
     "health": "Critical",
     "power": 2989,
@@ -1570,7 +1570,7 @@
   },
   {
     "id": "wx1ig7",
-    "name": "Character_197",
+    "name": "Anime Character 197",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4508,
@@ -1578,7 +1578,7 @@
   },
   {
     "id": "rahiws",
-    "name": "Character_198",
+    "name": "Anime Character 198",
     "location": "Suna",
     "health": "Healthy",
     "power": 264,
@@ -1586,7 +1586,7 @@
   },
   {
     "id": "vpvb8p",
-    "name": "Character_199",
+    "name": "Anime Character 199",
     "location": "Konoha",
     "health": "Critical",
     "power": 6230,
@@ -1594,7 +1594,7 @@
   },
   {
     "id": "il5vh6",
-    "name": "Character_200",
+    "name": "Anime Character 200",
     "location": "Suna",
     "health": "Injured",
     "power": 7131,
@@ -1602,7 +1602,7 @@
   },
   {
     "id": "s3ccmu",
-    "name": "Character_201",
+    "name": "Anime Character 201",
     "location": "Iwa",
     "health": "Critical",
     "power": 9454,
@@ -1610,7 +1610,7 @@
   },
   {
     "id": "a9hvfr",
-    "name": "Character_202",
+    "name": "Anime Character 202",
     "location": "Kumo",
     "health": "Injured",
     "power": 5801,
@@ -1618,7 +1618,7 @@
   },
   {
     "id": "wo9zt8",
-    "name": "Character_203",
+    "name": "Anime Character 203",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5184,
@@ -1626,7 +1626,7 @@
   },
   {
     "id": "7onxs8",
-    "name": "Character_204",
+    "name": "Anime Character 204",
     "location": "Suna",
     "health": "Healthy",
     "power": 8251,
@@ -1634,7 +1634,7 @@
   },
   {
     "id": "lo2buo",
-    "name": "Character_205",
+    "name": "Anime Character 205",
     "location": "Iwa",
     "health": "Critical",
     "power": 9500,
@@ -1642,7 +1642,7 @@
   },
   {
     "id": "cbwllt",
-    "name": "Character_206",
+    "name": "Anime Character 206",
     "location": "Kiri",
     "health": "Healthy",
     "power": 1371,
@@ -1650,7 +1650,7 @@
   },
   {
     "id": "czooxu",
-    "name": "Character_207",
+    "name": "Anime Character 207",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5741,
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "exu96q",
-    "name": "Character_208",
+    "name": "Anime Character 208",
     "location": "Suna",
     "health": "Injured",
     "power": 9632,
@@ -1666,7 +1666,7 @@
   },
   {
     "id": "fuehb8",
-    "name": "Character_209",
+    "name": "Anime Character 209",
     "location": "Kiri",
     "health": "Critical",
     "power": 977,
@@ -1674,7 +1674,7 @@
   },
   {
     "id": "wj6l7t",
-    "name": "Character_210",
+    "name": "Anime Character 210",
     "location": "Kumo",
     "health": "Injured",
     "power": 5516,
@@ -1682,7 +1682,7 @@
   },
   {
     "id": "z2jvg2",
-    "name": "Character_211",
+    "name": "Anime Character 211",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9575,
@@ -1690,7 +1690,7 @@
   },
   {
     "id": "ug1ihf",
-    "name": "Character_212",
+    "name": "Anime Character 212",
     "location": "Iwa",
     "health": "Injured",
     "power": 9800,
@@ -1698,7 +1698,7 @@
   },
   {
     "id": "0y1tfo",
-    "name": "Character_213",
+    "name": "Anime Character 213",
     "location": "Suna",
     "health": "Critical",
     "power": 2942,
@@ -1706,7 +1706,7 @@
   },
   {
     "id": "s5zhjd",
-    "name": "Character_214",
+    "name": "Anime Character 214",
     "location": "Suna",
     "health": "Critical",
     "power": 8162,
@@ -1714,7 +1714,7 @@
   },
   {
     "id": "z7q7c3",
-    "name": "Character_215",
+    "name": "Anime Character 215",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1583,
@@ -1722,7 +1722,7 @@
   },
   {
     "id": "86660s",
-    "name": "Character_216",
+    "name": "Anime Character 216",
     "location": "Suna",
     "health": "Critical",
     "power": 7591,
@@ -1730,7 +1730,7 @@
   },
   {
     "id": "t9sgrt",
-    "name": "Character_217",
+    "name": "Anime Character 217",
     "location": "Konoha",
     "health": "Injured",
     "power": 5494,
@@ -1738,7 +1738,7 @@
   },
   {
     "id": "jxruuk",
-    "name": "Character_218",
+    "name": "Anime Character 218",
     "location": "Suna",
     "health": "Critical",
     "power": 2139,
@@ -1746,7 +1746,7 @@
   },
   {
     "id": "pqdagq",
-    "name": "Character_219",
+    "name": "Anime Character 219",
     "location": "Kumo",
     "health": "Injured",
     "power": 1540,
@@ -1754,7 +1754,7 @@
   },
   {
     "id": "cmpp69",
-    "name": "Character_220",
+    "name": "Anime Character 220",
     "location": "Suna",
     "health": "Critical",
     "power": 4977,
@@ -1762,7 +1762,7 @@
   },
   {
     "id": "dm10hg",
-    "name": "Character_221",
+    "name": "Anime Character 221",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1376,
@@ -1770,7 +1770,7 @@
   },
   {
     "id": "gsre0f",
-    "name": "Character_222",
+    "name": "Anime Character 222",
     "location": "Iwa",
     "health": "Injured",
     "power": 3187,
@@ -1778,7 +1778,7 @@
   },
   {
     "id": "if1nq4",
-    "name": "Character_223",
+    "name": "Anime Character 223",
     "location": "Suna",
     "health": "Critical",
     "power": 3922,
@@ -1786,7 +1786,7 @@
   },
   {
     "id": "3f5olh",
-    "name": "Character_224",
+    "name": "Anime Character 224",
     "location": "Kumo",
     "health": "Critical",
     "power": 4342,
@@ -1794,7 +1794,7 @@
   },
   {
     "id": "tke4rq",
-    "name": "Character_225",
+    "name": "Anime Character 225",
     "location": "Iwa",
     "health": "Critical",
     "power": 912,
@@ -1802,7 +1802,7 @@
   },
   {
     "id": "s19b3j",
-    "name": "Character_226",
+    "name": "Anime Character 226",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2683,
@@ -1810,7 +1810,7 @@
   },
   {
     "id": "7wf5xo",
-    "name": "Character_227",
+    "name": "Anime Character 227",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4377,
@@ -1818,7 +1818,7 @@
   },
   {
     "id": "25j6n7",
-    "name": "Character_228",
+    "name": "Anime Character 228",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7943,
@@ -1826,7 +1826,7 @@
   },
   {
     "id": "zadr8f",
-    "name": "Character_229",
+    "name": "Anime Character 229",
     "location": "Suna",
     "health": "Healthy",
     "power": 8574,
@@ -1834,7 +1834,7 @@
   },
   {
     "id": "3d0h97",
-    "name": "Character_230",
+    "name": "Anime Character 230",
     "location": "Kiri",
     "health": "Injured",
     "power": 1078,
@@ -1842,7 +1842,7 @@
   },
   {
     "id": "7n9bv8",
-    "name": "Character_231",
+    "name": "Anime Character 231",
     "location": "Kiri",
     "health": "Injured",
     "power": 6956,
@@ -1850,7 +1850,7 @@
   },
   {
     "id": "2i1bbx",
-    "name": "Character_232",
+    "name": "Anime Character 232",
     "location": "Kiri",
     "health": "Critical",
     "power": 3627,
@@ -1858,7 +1858,7 @@
   },
   {
     "id": "f3yfa8",
-    "name": "Character_233",
+    "name": "Anime Character 233",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6392,
@@ -1866,7 +1866,7 @@
   },
   {
     "id": "wf0s28",
-    "name": "Character_234",
+    "name": "Anime Character 234",
     "location": "Suna",
     "health": "Injured",
     "power": 7945,
@@ -1874,7 +1874,7 @@
   },
   {
     "id": "gk2ovc",
-    "name": "Character_235",
+    "name": "Anime Character 235",
     "location": "Kiri",
     "health": "Injured",
     "power": 6832,
@@ -1882,7 +1882,7 @@
   },
   {
     "id": "kz4n77",
-    "name": "Character_236",
+    "name": "Anime Character 236",
     "location": "Konoha",
     "health": "Healthy",
     "power": 7571,
@@ -1890,7 +1890,7 @@
   },
   {
     "id": "x0glvl",
-    "name": "Character_237",
+    "name": "Anime Character 237",
     "location": "Konoha",
     "health": "Critical",
     "power": 7276,
@@ -1898,7 +1898,7 @@
   },
   {
     "id": "4f43ex",
-    "name": "Character_238",
+    "name": "Anime Character 238",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3167,
@@ -1906,7 +1906,7 @@
   },
   {
     "id": "gttnwk",
-    "name": "Character_239",
+    "name": "Anime Character 239",
     "location": "Suna",
     "health": "Critical",
     "power": 7549,
@@ -1914,7 +1914,7 @@
   },
   {
     "id": "nwk60a",
-    "name": "Character_240",
+    "name": "Anime Character 240",
     "location": "Konoha",
     "health": "Critical",
     "power": 9611,
@@ -1922,7 +1922,7 @@
   },
   {
     "id": "ouv8rw",
-    "name": "Character_241",
+    "name": "Anime Character 241",
     "location": "Suna",
     "health": "Injured",
     "power": 7486,
@@ -1930,7 +1930,7 @@
   },
   {
     "id": "8pbirb",
-    "name": "Character_242",
+    "name": "Anime Character 242",
     "location": "Iwa",
     "health": "Injured",
     "power": 8102,
@@ -1938,7 +1938,7 @@
   },
   {
     "id": "2n7g2o",
-    "name": "Character_243",
+    "name": "Anime Character 243",
     "location": "Kiri",
     "health": "Injured",
     "power": 8667,
@@ -1946,7 +1946,7 @@
   },
   {
     "id": "9zmj5f",
-    "name": "Character_244",
+    "name": "Anime Character 244",
     "location": "Iwa",
     "health": "Injured",
     "power": 9875,
@@ -1954,7 +1954,7 @@
   },
   {
     "id": "ufee4s",
-    "name": "Character_245",
+    "name": "Anime Character 245",
     "location": "Suna",
     "health": "Healthy",
     "power": 733,
@@ -1962,7 +1962,7 @@
   },
   {
     "id": "8n90rh",
-    "name": "Character_246",
+    "name": "Anime Character 246",
     "location": "Kiri",
     "health": "Injured",
     "power": 7343,
@@ -1970,7 +1970,7 @@
   },
   {
     "id": "qu5x27",
-    "name": "Character_247",
+    "name": "Anime Character 247",
     "location": "Suna",
     "health": "Injured",
     "power": 1825,
@@ -1978,7 +1978,7 @@
   },
   {
     "id": "ktze99",
-    "name": "Character_248",
+    "name": "Anime Character 248",
     "location": "Kumo",
     "health": "Injured",
     "power": 3571,
@@ -1986,7 +1986,7 @@
   },
   {
     "id": "22aod6",
-    "name": "Character_249",
+    "name": "Anime Character 249",
     "location": "Iwa",
     "health": "Injured",
     "power": 1007,
@@ -1994,7 +1994,7 @@
   },
   {
     "id": "xd8l9w",
-    "name": "Character_250",
+    "name": "Anime Character 250",
     "location": "Kumo",
     "health": "Critical",
     "power": 1244,
@@ -2002,7 +2002,7 @@
   },
   {
     "id": "zfhh16",
-    "name": "Character_251",
+    "name": "Anime Character 251",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4452,
@@ -2010,7 +2010,7 @@
   },
   {
     "id": "88qa1p",
-    "name": "Character_252",
+    "name": "Anime Character 252",
     "location": "Kumo",
     "health": "Healthy",
     "power": 2329,
@@ -2018,7 +2018,7 @@
   },
   {
     "id": "fyiuoz",
-    "name": "Character_253",
+    "name": "Anime Character 253",
     "location": "Konoha",
     "health": "Critical",
     "power": 891,
@@ -2026,7 +2026,7 @@
   },
   {
     "id": "yaz7hv",
-    "name": "Character_254",
+    "name": "Anime Character 254",
     "location": "Kumo",
     "health": "Injured",
     "power": 7654,
@@ -2034,7 +2034,7 @@
   },
   {
     "id": "po9s2m",
-    "name": "Character_255",
+    "name": "Anime Character 255",
     "location": "Kiri",
     "health": "Critical",
     "power": 7011,
@@ -2042,7 +2042,7 @@
   },
   {
     "id": "x0pilu",
-    "name": "Character_256",
+    "name": "Anime Character 256",
     "location": "Suna",
     "health": "Critical",
     "power": 3179,
@@ -2050,7 +2050,7 @@
   },
   {
     "id": "x7x7w3",
-    "name": "Character_257",
+    "name": "Anime Character 257",
     "location": "Kumo",
     "health": "Critical",
     "power": 8008,
@@ -2058,7 +2058,7 @@
   },
   {
     "id": "ds8wc7",
-    "name": "Character_258",
+    "name": "Anime Character 258",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2958,
@@ -2066,7 +2066,7 @@
   },
   {
     "id": "bjvm9o",
-    "name": "Character_259",
+    "name": "Anime Character 259",
     "location": "Suna",
     "health": "Critical",
     "power": 3017,
@@ -2074,7 +2074,7 @@
   },
   {
     "id": "6rcxzj",
-    "name": "Character_260",
+    "name": "Anime Character 260",
     "location": "Suna",
     "health": "Healthy",
     "power": 5998,
@@ -2082,7 +2082,7 @@
   },
   {
     "id": "sip0mv",
-    "name": "Character_261",
+    "name": "Anime Character 261",
     "location": "Konoha",
     "health": "Critical",
     "power": 8789,
@@ -2090,7 +2090,7 @@
   },
   {
     "id": "cmrnkn",
-    "name": "Character_262",
+    "name": "Anime Character 262",
     "location": "Kumo",
     "health": "Critical",
     "power": 7890,
@@ -2098,7 +2098,7 @@
   },
   {
     "id": "n6c8y9",
-    "name": "Character_263",
+    "name": "Anime Character 263",
     "location": "Iwa",
     "health": "Healthy",
     "power": 443,
@@ -2106,7 +2106,7 @@
   },
   {
     "id": "b34hmo",
-    "name": "Character_264",
+    "name": "Anime Character 264",
     "location": "Iwa",
     "health": "Injured",
     "power": 9672,
@@ -2114,7 +2114,7 @@
   },
   {
     "id": "j5l5qt",
-    "name": "Character_265",
+    "name": "Anime Character 265",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4981,
@@ -2122,7 +2122,7 @@
   },
   {
     "id": "dtumy5",
-    "name": "Character_266",
+    "name": "Anime Character 266",
     "location": "Suna",
     "health": "Critical",
     "power": 2598,
@@ -2130,7 +2130,7 @@
   },
   {
     "id": "r6khn8",
-    "name": "Character_267",
+    "name": "Anime Character 267",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1765,
@@ -2138,7 +2138,7 @@
   },
   {
     "id": "fvuvbk",
-    "name": "Character_268",
+    "name": "Anime Character 268",
     "location": "Kumo",
     "health": "Injured",
     "power": 6528,
@@ -2146,7 +2146,7 @@
   },
   {
     "id": "y2t4ga",
-    "name": "Character_269",
+    "name": "Anime Character 269",
     "location": "Suna",
     "health": "Healthy",
     "power": 1384,
@@ -2154,7 +2154,7 @@
   },
   {
     "id": "rhp300",
-    "name": "Character_270",
+    "name": "Anime Character 270",
     "location": "Iwa",
     "health": "Critical",
     "power": 5915,
@@ -2162,7 +2162,7 @@
   },
   {
     "id": "i9ue5c",
-    "name": "Character_271",
+    "name": "Anime Character 271",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7703,
@@ -2170,7 +2170,7 @@
   },
   {
     "id": "yahw31",
-    "name": "Character_272",
+    "name": "Anime Character 272",
     "location": "Iwa",
     "health": "Critical",
     "power": 833,
@@ -2178,7 +2178,7 @@
   },
   {
     "id": "e7n8fj",
-    "name": "Character_273",
+    "name": "Anime Character 273",
     "location": "Kumo",
     "health": "Critical",
     "power": 8152,
@@ -2186,7 +2186,7 @@
   },
   {
     "id": "i9n1v0",
-    "name": "Character_274",
+    "name": "Anime Character 274",
     "location": "Iwa",
     "health": "Injured",
     "power": 1990,
@@ -2194,7 +2194,7 @@
   },
   {
     "id": "bvrxcv",
-    "name": "Character_275",
+    "name": "Anime Character 275",
     "location": "Iwa",
     "health": "Injured",
     "power": 7180,
@@ -2202,7 +2202,7 @@
   },
   {
     "id": "kawkt3",
-    "name": "Character_276",
+    "name": "Anime Character 276",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2048,
@@ -2210,7 +2210,7 @@
   },
   {
     "id": "zfq5wc",
-    "name": "Character_277",
+    "name": "Anime Character 277",
     "location": "Suna",
     "health": "Injured",
     "power": 613,
@@ -2218,7 +2218,7 @@
   },
   {
     "id": "fvbtl5",
-    "name": "Character_278",
+    "name": "Anime Character 278",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8685,
@@ -2226,7 +2226,7 @@
   },
   {
     "id": "j73xoa",
-    "name": "Character_279",
+    "name": "Anime Character 279",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7799,
@@ -2234,7 +2234,7 @@
   },
   {
     "id": "9phe95",
-    "name": "Character_280",
+    "name": "Anime Character 280",
     "location": "Kumo",
     "health": "Critical",
     "power": 8476,
@@ -2242,7 +2242,7 @@
   },
   {
     "id": "hxnt7d",
-    "name": "Character_281",
+    "name": "Anime Character 281",
     "location": "Kumo",
     "health": "Injured",
     "power": 7143,
@@ -2250,7 +2250,7 @@
   },
   {
     "id": "5g7qu9",
-    "name": "Character_282",
+    "name": "Anime Character 282",
     "location": "Kumo",
     "health": "Injured",
     "power": 2910,
@@ -2258,7 +2258,7 @@
   },
   {
     "id": "r4q46d",
-    "name": "Character_283",
+    "name": "Anime Character 283",
     "location": "Suna",
     "health": "Injured",
     "power": 6051,
@@ -2266,7 +2266,7 @@
   },
   {
     "id": "d4tuay",
-    "name": "Character_284",
+    "name": "Anime Character 284",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1831,
@@ -2274,7 +2274,7 @@
   },
   {
     "id": "kyb1u9",
-    "name": "Character_285",
+    "name": "Anime Character 285",
     "location": "Suna",
     "health": "Injured",
     "power": 5094,
@@ -2282,7 +2282,7 @@
   },
   {
     "id": "fnzy9v",
-    "name": "Character_286",
+    "name": "Anime Character 286",
     "location": "Kumo",
     "health": "Injured",
     "power": 1426,
@@ -2290,7 +2290,7 @@
   },
   {
     "id": "epy2si",
-    "name": "Character_287",
+    "name": "Anime Character 287",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6368,
@@ -2298,7 +2298,7 @@
   },
   {
     "id": "v8d7xb",
-    "name": "Character_288",
+    "name": "Anime Character 288",
     "location": "Suna",
     "health": "Injured",
     "power": 7389,
@@ -2306,7 +2306,7 @@
   },
   {
     "id": "t1bz3s",
-    "name": "Character_289",
+    "name": "Anime Character 289",
     "location": "Kiri",
     "health": "Injured",
     "power": 5823,
@@ -2314,7 +2314,7 @@
   },
   {
     "id": "jb163n",
-    "name": "Character_290",
+    "name": "Anime Character 290",
     "location": "Kumo",
     "health": "Injured",
     "power": 7383,
@@ -2322,7 +2322,7 @@
   },
   {
     "id": "vfg3pj",
-    "name": "Character_291",
+    "name": "Anime Character 291",
     "location": "Iwa",
     "health": "Critical",
     "power": 3414,
@@ -2330,7 +2330,7 @@
   },
   {
     "id": "4ucd16",
-    "name": "Character_292",
+    "name": "Anime Character 292",
     "location": "Konoha",
     "health": "Injured",
     "power": 3949,
@@ -2338,7 +2338,7 @@
   },
   {
     "id": "aucjku",
-    "name": "Character_293",
+    "name": "Anime Character 293",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1453,
@@ -2346,7 +2346,7 @@
   },
   {
     "id": "wwq6bu",
-    "name": "Character_294",
+    "name": "Anime Character 294",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7588,
@@ -2354,7 +2354,7 @@
   },
   {
     "id": "a102l3",
-    "name": "Character_295",
+    "name": "Anime Character 295",
     "location": "Kiri",
     "health": "Injured",
     "power": 8619,
@@ -2362,7 +2362,7 @@
   },
   {
     "id": "1yb126",
-    "name": "Character_296",
+    "name": "Anime Character 296",
     "location": "Konoha",
     "health": "Critical",
     "power": 3209,
@@ -2370,7 +2370,7 @@
   },
   {
     "id": "o9li6l",
-    "name": "Character_297",
+    "name": "Anime Character 297",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4736,
@@ -2378,7 +2378,7 @@
   },
   {
     "id": "0jhdf9",
-    "name": "Character_298",
+    "name": "Anime Character 298",
     "location": "Suna",
     "health": "Healthy",
     "power": 3761,
@@ -2386,7 +2386,7 @@
   },
   {
     "id": "911c9s",
-    "name": "Character_299",
+    "name": "Anime Character 299",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2055,
@@ -2394,7 +2394,7 @@
   },
   {
     "id": "j8vd9y",
-    "name": "Character_300",
+    "name": "Anime Character 300",
     "location": "Kumo",
     "health": "Healthy",
     "power": 2287,
@@ -2402,7 +2402,7 @@
   },
   {
     "id": "pp9dgh",
-    "name": "Character_301",
+    "name": "Anime Character 301",
     "location": "Kiri",
     "health": "Critical",
     "power": 8787,
@@ -2410,7 +2410,7 @@
   },
   {
     "id": "hz0hkj",
-    "name": "Character_302",
+    "name": "Anime Character 302",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5574,
@@ -2418,7 +2418,7 @@
   },
   {
     "id": "438t7o",
-    "name": "Character_303",
+    "name": "Anime Character 303",
     "location": "Iwa",
     "health": "Critical",
     "power": 3057,
@@ -2426,7 +2426,7 @@
   },
   {
     "id": "n87d9p",
-    "name": "Character_304",
+    "name": "Anime Character 304",
     "location": "Suna",
     "health": "Healthy",
     "power": 7518,
@@ -2434,7 +2434,7 @@
   },
   {
     "id": "ndicpe",
-    "name": "Character_305",
+    "name": "Anime Character 305",
     "location": "Suna",
     "health": "Critical",
     "power": 6202,
@@ -2442,7 +2442,7 @@
   },
   {
     "id": "9l4uuc",
-    "name": "Character_306",
+    "name": "Anime Character 306",
     "location": "Kumo",
     "health": "Healthy",
     "power": 159,
@@ -2450,7 +2450,7 @@
   },
   {
     "id": "1p2dw9",
-    "name": "Character_307",
+    "name": "Anime Character 307",
     "location": "Iwa",
     "health": "Injured",
     "power": 9343,
@@ -2458,7 +2458,7 @@
   },
   {
     "id": "fk5d8t",
-    "name": "Character_308",
+    "name": "Anime Character 308",
     "location": "Iwa",
     "health": "Healthy",
     "power": 2243,
@@ -2466,7 +2466,7 @@
   },
   {
     "id": "lvnroz",
-    "name": "Character_309",
+    "name": "Anime Character 309",
     "location": "Suna",
     "health": "Injured",
     "power": 6836,
@@ -2474,7 +2474,7 @@
   },
   {
     "id": "ywh4eh",
-    "name": "Character_310",
+    "name": "Anime Character 310",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1222,
@@ -2482,7 +2482,7 @@
   },
   {
     "id": "pt24wc",
-    "name": "Character_311",
+    "name": "Anime Character 311",
     "location": "Kumo",
     "health": "Injured",
     "power": 7844,
@@ -2490,7 +2490,7 @@
   },
   {
     "id": "xmiy11",
-    "name": "Character_312",
+    "name": "Anime Character 312",
     "location": "Iwa",
     "health": "Injured",
     "power": 9748,
@@ -2498,7 +2498,7 @@
   },
   {
     "id": "eaoafl",
-    "name": "Character_313",
+    "name": "Anime Character 313",
     "location": "Kiri",
     "health": "Critical",
     "power": 1269,
@@ -2506,7 +2506,7 @@
   },
   {
     "id": "jvuuf4",
-    "name": "Character_314",
+    "name": "Anime Character 314",
     "location": "Suna",
     "health": "Critical",
     "power": 6243,
@@ -2514,7 +2514,7 @@
   },
   {
     "id": "nhndub",
-    "name": "Character_315",
+    "name": "Anime Character 315",
     "location": "Iwa",
     "health": "Critical",
     "power": 6049,
@@ -2522,7 +2522,7 @@
   },
   {
     "id": "r6szu3",
-    "name": "Character_316",
+    "name": "Anime Character 316",
     "location": "Suna",
     "health": "Critical",
     "power": 1439,
@@ -2530,7 +2530,7 @@
   },
   {
     "id": "m1tm8q",
-    "name": "Character_317",
+    "name": "Anime Character 317",
     "location": "Kumo",
     "health": "Injured",
     "power": 9686,
@@ -2538,7 +2538,7 @@
   },
   {
     "id": "9er2xx",
-    "name": "Character_318",
+    "name": "Anime Character 318",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1390,
@@ -2546,7 +2546,7 @@
   },
   {
     "id": "qe0qgv",
-    "name": "Character_319",
+    "name": "Anime Character 319",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1826,
@@ -2554,7 +2554,7 @@
   },
   {
     "id": "7aqas9",
-    "name": "Character_320",
+    "name": "Anime Character 320",
     "location": "Konoha",
     "health": "Critical",
     "power": 9385,
@@ -2562,7 +2562,7 @@
   },
   {
     "id": "xy7u2x",
-    "name": "Character_321",
+    "name": "Anime Character 321",
     "location": "Kiri",
     "health": "Healthy",
     "power": 929,
@@ -2570,7 +2570,7 @@
   },
   {
     "id": "eu2nlb",
-    "name": "Character_322",
+    "name": "Anime Character 322",
     "location": "Suna",
     "health": "Healthy",
     "power": 4559,
@@ -2578,7 +2578,7 @@
   },
   {
     "id": "7ylgla",
-    "name": "Character_323",
+    "name": "Anime Character 323",
     "location": "Kiri",
     "health": "Healthy",
     "power": 5982,
@@ -2586,7 +2586,7 @@
   },
   {
     "id": "t4nqeu",
-    "name": "Character_324",
+    "name": "Anime Character 324",
     "location": "Kiri",
     "health": "Critical",
     "power": 5321,
@@ -2594,7 +2594,7 @@
   },
   {
     "id": "6lqvut",
-    "name": "Character_325",
+    "name": "Anime Character 325",
     "location": "Kumo",
     "health": "Critical",
     "power": 7095,
@@ -2602,7 +2602,7 @@
   },
   {
     "id": "hu0u2m",
-    "name": "Character_326",
+    "name": "Anime Character 326",
     "location": "Iwa",
     "health": "Critical",
     "power": 9883,
@@ -2610,7 +2610,7 @@
   },
   {
     "id": "sxojea",
-    "name": "Character_327",
+    "name": "Anime Character 327",
     "location": "Suna",
     "health": "Healthy",
     "power": 3416,
@@ -2618,7 +2618,7 @@
   },
   {
     "id": "g3567i",
-    "name": "Character_328",
+    "name": "Anime Character 328",
     "location": "Suna",
     "health": "Critical",
     "power": 3095,
@@ -2626,7 +2626,7 @@
   },
   {
     "id": "glp07v",
-    "name": "Character_329",
+    "name": "Anime Character 329",
     "location": "Kumo",
     "health": "Injured",
     "power": 2537,
@@ -2634,7 +2634,7 @@
   },
   {
     "id": "b0odqf",
-    "name": "Character_330",
+    "name": "Anime Character 330",
     "location": "Suna",
     "health": "Critical",
     "power": 3373,
@@ -2642,7 +2642,7 @@
   },
   {
     "id": "cdl0uv",
-    "name": "Character_331",
+    "name": "Anime Character 331",
     "location": "Iwa",
     "health": "Injured",
     "power": 4166,
@@ -2650,7 +2650,7 @@
   },
   {
     "id": "lgr47a",
-    "name": "Character_332",
+    "name": "Anime Character 332",
     "location": "Suna",
     "health": "Critical",
     "power": 5450,
@@ -2658,7 +2658,7 @@
   },
   {
     "id": "dypo1k",
-    "name": "Character_333",
+    "name": "Anime Character 333",
     "location": "Suna",
     "health": "Healthy",
     "power": 4631,
@@ -2666,7 +2666,7 @@
   },
   {
     "id": "oly5am",
-    "name": "Character_334",
+    "name": "Anime Character 334",
     "location": "Konoha",
     "health": "Critical",
     "power": 6053,
@@ -2674,7 +2674,7 @@
   },
   {
     "id": "7ls8vy",
-    "name": "Character_335",
+    "name": "Anime Character 335",
     "location": "Kumo",
     "health": "Injured",
     "power": 669,
@@ -2682,7 +2682,7 @@
   },
   {
     "id": "524sdr",
-    "name": "Character_336",
+    "name": "Anime Character 336",
     "location": "Iwa",
     "health": "Injured",
     "power": 3922,
@@ -2690,7 +2690,7 @@
   },
   {
     "id": "uptb0y",
-    "name": "Character_337",
+    "name": "Anime Character 337",
     "location": "Kiri",
     "health": "Injured",
     "power": 3171,
@@ -2698,7 +2698,7 @@
   },
   {
     "id": "1xjqgc",
-    "name": "Character_338",
+    "name": "Anime Character 338",
     "location": "Konoha",
     "health": "Critical",
     "power": 4382,
@@ -2706,7 +2706,7 @@
   },
   {
     "id": "ppun0q",
-    "name": "Character_339",
+    "name": "Anime Character 339",
     "location": "Suna",
     "health": "Healthy",
     "power": 427,
@@ -2714,7 +2714,7 @@
   },
   {
     "id": "457wvn",
-    "name": "Character_340",
+    "name": "Anime Character 340",
     "location": "Iwa",
     "health": "Critical",
     "power": 2257,
@@ -2722,7 +2722,7 @@
   },
   {
     "id": "48ar46",
-    "name": "Character_341",
+    "name": "Anime Character 341",
     "location": "Konoha",
     "health": "Injured",
     "power": 8294,
@@ -2730,7 +2730,7 @@
   },
   {
     "id": "t8pz7o",
-    "name": "Character_342",
+    "name": "Anime Character 342",
     "location": "Kumo",
     "health": "Healthy",
     "power": 703,
@@ -2738,7 +2738,7 @@
   },
   {
     "id": "yzsl08",
-    "name": "Character_343",
+    "name": "Anime Character 343",
     "location": "Suna",
     "health": "Healthy",
     "power": 8217,
@@ -2746,7 +2746,7 @@
   },
   {
     "id": "my8nhd",
-    "name": "Character_344",
+    "name": "Anime Character 344",
     "location": "Kumo",
     "health": "Critical",
     "power": 3266,
@@ -2754,7 +2754,7 @@
   },
   {
     "id": "zwzylr",
-    "name": "Character_345",
+    "name": "Anime Character 345",
     "location": "Suna",
     "health": "Injured",
     "power": 3609,
@@ -2762,7 +2762,7 @@
   },
   {
     "id": "zvlajl",
-    "name": "Character_346",
+    "name": "Anime Character 346",
     "location": "Kumo",
     "health": "Healthy",
     "power": 7646,
@@ -2770,7 +2770,7 @@
   },
   {
     "id": "vkoph5",
-    "name": "Character_347",
+    "name": "Anime Character 347",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2710,
@@ -2778,7 +2778,7 @@
   },
   {
     "id": "gxh7gu",
-    "name": "Character_348",
+    "name": "Anime Character 348",
     "location": "Kiri",
     "health": "Critical",
     "power": 9801,
@@ -2786,7 +2786,7 @@
   },
   {
     "id": "cuar6t",
-    "name": "Character_349",
+    "name": "Anime Character 349",
     "location": "Konoha",
     "health": "Critical",
     "power": 5868,
@@ -2794,7 +2794,7 @@
   },
   {
     "id": "uua3g5",
-    "name": "Character_350",
+    "name": "Anime Character 350",
     "location": "Iwa",
     "health": "Injured",
     "power": 1035,
@@ -2802,7 +2802,7 @@
   },
   {
     "id": "pa2d3n",
-    "name": "Character_351",
+    "name": "Anime Character 351",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3082,
@@ -2810,7 +2810,7 @@
   },
   {
     "id": "y7udv1",
-    "name": "Character_352",
+    "name": "Anime Character 352",
     "location": "Kiri",
     "health": "Injured",
     "power": 6297,
@@ -2818,7 +2818,7 @@
   },
   {
     "id": "q870by",
-    "name": "Character_353",
+    "name": "Anime Character 353",
     "location": "Kumo",
     "health": "Critical",
     "power": 6206,
@@ -2826,7 +2826,7 @@
   },
   {
     "id": "tgrwxl",
-    "name": "Character_354",
+    "name": "Anime Character 354",
     "location": "Suna",
     "health": "Critical",
     "power": 9026,
@@ -2834,7 +2834,7 @@
   },
   {
     "id": "xnc76e",
-    "name": "Character_355",
+    "name": "Anime Character 355",
     "location": "Kumo",
     "health": "Critical",
     "power": 6535,
@@ -2842,7 +2842,7 @@
   },
   {
     "id": "v84xa2",
-    "name": "Character_356",
+    "name": "Anime Character 356",
     "location": "Suna",
     "health": "Injured",
     "power": 8062,
@@ -2850,7 +2850,7 @@
   },
   {
     "id": "2psnt0",
-    "name": "Character_357",
+    "name": "Anime Character 357",
     "location": "Iwa",
     "health": "Critical",
     "power": 5834,
@@ -2858,7 +2858,7 @@
   },
   {
     "id": "nra1gw",
-    "name": "Character_358",
+    "name": "Anime Character 358",
     "location": "Suna",
     "health": "Critical",
     "power": 4894,
@@ -2866,7 +2866,7 @@
   },
   {
     "id": "72ctkr",
-    "name": "Character_359",
+    "name": "Anime Character 359",
     "location": "Iwa",
     "health": "Critical",
     "power": 6582,
@@ -2874,7 +2874,7 @@
   },
   {
     "id": "5wxm6z",
-    "name": "Character_360",
+    "name": "Anime Character 360",
     "location": "Iwa",
     "health": "Injured",
     "power": 8146,
@@ -2882,7 +2882,7 @@
   },
   {
     "id": "3rsr01",
-    "name": "Character_361",
+    "name": "Anime Character 361",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1829,
@@ -2890,7 +2890,7 @@
   },
   {
     "id": "r1cx0n",
-    "name": "Character_362",
+    "name": "Anime Character 362",
     "location": "Kumo",
     "health": "Injured",
     "power": 5144,
@@ -2898,7 +2898,7 @@
   },
   {
     "id": "j5rwlp",
-    "name": "Character_363",
+    "name": "Anime Character 363",
     "location": "Suna",
     "health": "Healthy",
     "power": 5076,
@@ -2906,7 +2906,7 @@
   },
   {
     "id": "0b2ip7",
-    "name": "Character_364",
+    "name": "Anime Character 364",
     "location": "Kumo",
     "health": "Injured",
     "power": 7136,
@@ -2914,7 +2914,7 @@
   },
   {
     "id": "fxsyr8",
-    "name": "Character_365",
+    "name": "Anime Character 365",
     "location": "Kumo",
     "health": "Injured",
     "power": 2955,
@@ -2922,7 +2922,7 @@
   },
   {
     "id": "1nlr9j",
-    "name": "Character_366",
+    "name": "Anime Character 366",
     "location": "Kiri",
     "health": "Critical",
     "power": 4299,
@@ -2930,7 +2930,7 @@
   },
   {
     "id": "h81cwc",
-    "name": "Character_367",
+    "name": "Anime Character 367",
     "location": "Kiri",
     "health": "Healthy",
     "power": 338,
@@ -2938,7 +2938,7 @@
   },
   {
     "id": "xqcpte",
-    "name": "Character_368",
+    "name": "Anime Character 368",
     "location": "Kumo",
     "health": "Healthy",
     "power": 7070,
@@ -2946,7 +2946,7 @@
   },
   {
     "id": "24op6x",
-    "name": "Character_369",
+    "name": "Anime Character 369",
     "location": "Kumo",
     "health": "Critical",
     "power": 2228,
@@ -2954,7 +2954,7 @@
   },
   {
     "id": "5j89dg",
-    "name": "Character_370",
+    "name": "Anime Character 370",
     "location": "Konoha",
     "health": "Injured",
     "power": 9645,
@@ -2962,7 +2962,7 @@
   },
   {
     "id": "7kapm0",
-    "name": "Character_371",
+    "name": "Anime Character 371",
     "location": "Kiri",
     "health": "Injured",
     "power": 795,
@@ -2970,7 +2970,7 @@
   },
   {
     "id": "48kio7",
-    "name": "Character_372",
+    "name": "Anime Character 372",
     "location": "Kiri",
     "health": "Injured",
     "power": 2548,
@@ -2978,7 +2978,7 @@
   },
   {
     "id": "w8rzyw",
-    "name": "Character_373",
+    "name": "Anime Character 373",
     "location": "Konoha",
     "health": "Injured",
     "power": 940,
@@ -2986,7 +2986,7 @@
   },
   {
     "id": "hyb5bn",
-    "name": "Character_374",
+    "name": "Anime Character 374",
     "location": "Suna",
     "health": "Healthy",
     "power": 1186,
@@ -2994,7 +2994,7 @@
   },
   {
     "id": "8tvm3y",
-    "name": "Character_375",
+    "name": "Anime Character 375",
     "location": "Kiri",
     "health": "Injured",
     "power": 3681,
@@ -3002,7 +3002,7 @@
   },
   {
     "id": "yg3x5v",
-    "name": "Character_376",
+    "name": "Anime Character 376",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3765,
@@ -3010,7 +3010,7 @@
   },
   {
     "id": "k9jdv2",
-    "name": "Character_377",
+    "name": "Anime Character 377",
     "location": "Konoha",
     "health": "Critical",
     "power": 1352,
@@ -3018,7 +3018,7 @@
   },
   {
     "id": "hz4hsl",
-    "name": "Character_378",
+    "name": "Anime Character 378",
     "location": "Konoha",
     "health": "Injured",
     "power": 9147,
@@ -3026,7 +3026,7 @@
   },
   {
     "id": "yyil3t",
-    "name": "Character_379",
+    "name": "Anime Character 379",
     "location": "Iwa",
     "health": "Injured",
     "power": 9139,
@@ -3034,7 +3034,7 @@
   },
   {
     "id": "789gnp",
-    "name": "Character_380",
+    "name": "Anime Character 380",
     "location": "Konoha",
     "health": "Critical",
     "power": 6295,
@@ -3042,7 +3042,7 @@
   },
   {
     "id": "t06cpi",
-    "name": "Character_381",
+    "name": "Anime Character 381",
     "location": "Kumo",
     "health": "Critical",
     "power": 9959,
@@ -3050,7 +3050,7 @@
   },
   {
     "id": "otrkkq",
-    "name": "Character_382",
+    "name": "Anime Character 382",
     "location": "Suna",
     "health": "Injured",
     "power": 8317,
@@ -3058,7 +3058,7 @@
   },
   {
     "id": "prtagu",
-    "name": "Character_383",
+    "name": "Anime Character 383",
     "location": "Konoha",
     "health": "Healthy",
     "power": 6419,
@@ -3066,7 +3066,7 @@
   },
   {
     "id": "5h9gg1",
-    "name": "Character_384",
+    "name": "Anime Character 384",
     "location": "Iwa",
     "health": "Critical",
     "power": 7719,
@@ -3074,7 +3074,7 @@
   },
   {
     "id": "l3guzp",
-    "name": "Character_385",
+    "name": "Anime Character 385",
     "location": "Kiri",
     "health": "Critical",
     "power": 7317,
@@ -3082,7 +3082,7 @@
   },
   {
     "id": "3436bd",
-    "name": "Character_386",
+    "name": "Anime Character 386",
     "location": "Kiri",
     "health": "Injured",
     "power": 4419,
@@ -3090,7 +3090,7 @@
   },
   {
     "id": "xjrndr",
-    "name": "Character_387",
+    "name": "Anime Character 387",
     "location": "Kiri",
     "health": "Healthy",
     "power": 504,
@@ -3098,7 +3098,7 @@
   },
   {
     "id": "83lln4",
-    "name": "Character_388",
+    "name": "Anime Character 388",
     "location": "Suna",
     "health": "Injured",
     "power": 3486,
@@ -3106,7 +3106,7 @@
   },
   {
     "id": "pdnge7",
-    "name": "Character_389",
+    "name": "Anime Character 389",
     "location": "Konoha",
     "health": "Injured",
     "power": 4100,
@@ -3114,7 +3114,7 @@
   },
   {
     "id": "8g6hvp",
-    "name": "Character_390",
+    "name": "Anime Character 390",
     "location": "Konoha",
     "health": "Injured",
     "power": 1155,
@@ -3122,7 +3122,7 @@
   },
   {
     "id": "m50ecg",
-    "name": "Character_391",
+    "name": "Anime Character 391",
     "location": "Konoha",
     "health": "Healthy",
     "power": 800,
@@ -3130,7 +3130,7 @@
   },
   {
     "id": "fkqnoc",
-    "name": "Character_392",
+    "name": "Anime Character 392",
     "location": "Suna",
     "health": "Healthy",
     "power": 8670,
@@ -3138,7 +3138,7 @@
   },
   {
     "id": "sepywd",
-    "name": "Character_393",
+    "name": "Anime Character 393",
     "location": "Konoha",
     "health": "Critical",
     "power": 9679,
@@ -3146,7 +3146,7 @@
   },
   {
     "id": "9khtfw",
-    "name": "Character_394",
+    "name": "Anime Character 394",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5031,
@@ -3154,7 +3154,7 @@
   },
   {
     "id": "qixcis",
-    "name": "Character_395",
+    "name": "Anime Character 395",
     "location": "Konoha",
     "health": "Injured",
     "power": 1745,
@@ -3162,7 +3162,7 @@
   },
   {
     "id": "xkju9w",
-    "name": "Character_396",
+    "name": "Anime Character 396",
     "location": "Iwa",
     "health": "Critical",
     "power": 5541,
@@ -3170,7 +3170,7 @@
   },
   {
     "id": "0wf327",
-    "name": "Character_397",
+    "name": "Anime Character 397",
     "location": "Kumo",
     "health": "Injured",
     "power": 8715,
@@ -3178,7 +3178,7 @@
   },
   {
     "id": "yz66iy",
-    "name": "Character_398",
+    "name": "Anime Character 398",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1224,
@@ -3186,7 +3186,7 @@
   },
   {
     "id": "xjjqj8",
-    "name": "Character_399",
+    "name": "Anime Character 399",
     "location": "Konoha",
     "health": "Critical",
     "power": 6840,
@@ -3194,7 +3194,7 @@
   },
   {
     "id": "8eqaj8",
-    "name": "Character_400",
+    "name": "Anime Character 400",
     "location": "Iwa",
     "health": "Critical",
     "power": 4985,
@@ -3202,7 +3202,7 @@
   },
   {
     "id": "mxy05j",
-    "name": "Character_401",
+    "name": "Anime Character 401",
     "location": "Konoha",
     "health": "Healthy",
     "power": 8186,
@@ -3210,7 +3210,7 @@
   },
   {
     "id": "gn0wi2",
-    "name": "Character_402",
+    "name": "Anime Character 402",
     "location": "Suna",
     "health": "Critical",
     "power": 3059,
@@ -3218,7 +3218,7 @@
   },
   {
     "id": "4d7dzo",
-    "name": "Character_403",
+    "name": "Anime Character 403",
     "location": "Suna",
     "health": "Injured",
     "power": 2290,
@@ -3226,7 +3226,7 @@
   },
   {
     "id": "80ofc2",
-    "name": "Character_404",
+    "name": "Anime Character 404",
     "location": "Kiri",
     "health": "Injured",
     "power": 4636,
@@ -3234,7 +3234,7 @@
   },
   {
     "id": "k11v5d",
-    "name": "Character_405",
+    "name": "Anime Character 405",
     "location": "Iwa",
     "health": "Injured",
     "power": 8077,
@@ -3242,7 +3242,7 @@
   },
   {
     "id": "doq76u",
-    "name": "Character_406",
+    "name": "Anime Character 406",
     "location": "Kiri",
     "health": "Critical",
     "power": 2387,
@@ -3250,7 +3250,7 @@
   },
   {
     "id": "ewsn4c",
-    "name": "Character_407",
+    "name": "Anime Character 407",
     "location": "Iwa",
     "health": "Healthy",
     "power": 528,
@@ -3258,7 +3258,7 @@
   },
   {
     "id": "wtjqil",
-    "name": "Character_408",
+    "name": "Anime Character 408",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5668,
@@ -3266,7 +3266,7 @@
   },
   {
     "id": "aimuxl",
-    "name": "Character_409",
+    "name": "Anime Character 409",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5786,
@@ -3274,7 +3274,7 @@
   },
   {
     "id": "t8kh8p",
-    "name": "Character_410",
+    "name": "Anime Character 410",
     "location": "Konoha",
     "health": "Critical",
     "power": 7562,
@@ -3282,7 +3282,7 @@
   },
   {
     "id": "v3i51e",
-    "name": "Character_411",
+    "name": "Anime Character 411",
     "location": "Konoha",
     "health": "Healthy",
     "power": 8079,
@@ -3290,7 +3290,7 @@
   },
   {
     "id": "y5mf5y",
-    "name": "Character_412",
+    "name": "Anime Character 412",
     "location": "Kiri",
     "health": "Injured",
     "power": 1446,
@@ -3298,7 +3298,7 @@
   },
   {
     "id": "b7rp4r",
-    "name": "Character_413",
+    "name": "Anime Character 413",
     "location": "Konoha",
     "health": "Injured",
     "power": 4498,
@@ -3306,7 +3306,7 @@
   },
   {
     "id": "4y20sq",
-    "name": "Character_414",
+    "name": "Anime Character 414",
     "location": "Konoha",
     "health": "Injured",
     "power": 5060,
@@ -3314,7 +3314,7 @@
   },
   {
     "id": "2yijtc",
-    "name": "Character_415",
+    "name": "Anime Character 415",
     "location": "Konoha",
     "health": "Critical",
     "power": 9128,
@@ -3322,7 +3322,7 @@
   },
   {
     "id": "arxfuw",
-    "name": "Character_416",
+    "name": "Anime Character 416",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7148,
@@ -3330,7 +3330,7 @@
   },
   {
     "id": "ioc216",
-    "name": "Character_417",
+    "name": "Anime Character 417",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4287,
@@ -3338,7 +3338,7 @@
   },
   {
     "id": "5q53lt",
-    "name": "Character_418",
+    "name": "Anime Character 418",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7442,
@@ -3346,7 +3346,7 @@
   },
   {
     "id": "8xw61z",
-    "name": "Character_419",
+    "name": "Anime Character 419",
     "location": "Konoha",
     "health": "Critical",
     "power": 8073,
@@ -3354,7 +3354,7 @@
   },
   {
     "id": "dz09pp",
-    "name": "Character_420",
+    "name": "Anime Character 420",
     "location": "Iwa",
     "health": "Critical",
     "power": 477,
@@ -3362,7 +3362,7 @@
   },
   {
     "id": "lt91ra",
-    "name": "Character_421",
+    "name": "Anime Character 421",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9362,
@@ -3370,7 +3370,7 @@
   },
   {
     "id": "dq62rd",
-    "name": "Character_422",
+    "name": "Anime Character 422",
     "location": "Konoha",
     "health": "Injured",
     "power": 2882,
@@ -3378,7 +3378,7 @@
   },
   {
     "id": "4jpbdg",
-    "name": "Character_423",
+    "name": "Anime Character 423",
     "location": "Iwa",
     "health": "Healthy",
     "power": 2559,
@@ -3386,7 +3386,7 @@
   },
   {
     "id": "p13p2i",
-    "name": "Character_424",
+    "name": "Anime Character 424",
     "location": "Iwa",
     "health": "Critical",
     "power": 5810,
@@ -3394,7 +3394,7 @@
   },
   {
     "id": "sxfb8g",
-    "name": "Character_425",
+    "name": "Anime Character 425",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8918,
@@ -3402,7 +3402,7 @@
   },
   {
     "id": "7ztyt1",
-    "name": "Character_426",
+    "name": "Anime Character 426",
     "location": "Kumo",
     "health": "Injured",
     "power": 6893,
@@ -3410,7 +3410,7 @@
   },
   {
     "id": "e1ov6m",
-    "name": "Character_427",
+    "name": "Anime Character 427",
     "location": "Suna",
     "health": "Injured",
     "power": 7784,
@@ -3418,7 +3418,7 @@
   },
   {
     "id": "8n8ro8",
-    "name": "Character_428",
+    "name": "Anime Character 428",
     "location": "Iwa",
     "health": "Critical",
     "power": 8762,
@@ -3426,7 +3426,7 @@
   },
   {
     "id": "kn0bd8",
-    "name": "Character_429",
+    "name": "Anime Character 429",
     "location": "Iwa",
     "health": "Injured",
     "power": 4443,
@@ -3434,7 +3434,7 @@
   },
   {
     "id": "3hwvej",
-    "name": "Character_430",
+    "name": "Anime Character 430",
     "location": "Kumo",
     "health": "Critical",
     "power": 5465,
@@ -3442,7 +3442,7 @@
   },
   {
     "id": "b7mj9v",
-    "name": "Character_431",
+    "name": "Anime Character 431",
     "location": "Iwa",
     "health": "Injured",
     "power": 5203,
@@ -3450,7 +3450,7 @@
   },
   {
     "id": "tirfi6",
-    "name": "Character_432",
+    "name": "Anime Character 432",
     "location": "Kumo",
     "health": "Injured",
     "power": 3901,
@@ -3458,7 +3458,7 @@
   },
   {
     "id": "l0847a",
-    "name": "Character_433",
+    "name": "Anime Character 433",
     "location": "Kiri",
     "health": "Critical",
     "power": 2402,
@@ -3466,7 +3466,7 @@
   },
   {
     "id": "vl083u",
-    "name": "Character_434",
+    "name": "Anime Character 434",
     "location": "Kumo",
     "health": "Critical",
     "power": 8352,
@@ -3474,7 +3474,7 @@
   },
   {
     "id": "7h5jb5",
-    "name": "Character_435",
+    "name": "Anime Character 435",
     "location": "Suna",
     "health": "Critical",
     "power": 3642,
@@ -3482,7 +3482,7 @@
   },
   {
     "id": "737mpn",
-    "name": "Character_436",
+    "name": "Anime Character 436",
     "location": "Kumo",
     "health": "Healthy",
     "power": 8601,
@@ -3490,7 +3490,7 @@
   },
   {
     "id": "fzv14p",
-    "name": "Character_437",
+    "name": "Anime Character 437",
     "location": "Konoha",
     "health": "Injured",
     "power": 3746,
@@ -3498,7 +3498,7 @@
   },
   {
     "id": "z27pzp",
-    "name": "Character_438",
+    "name": "Anime Character 438",
     "location": "Iwa",
     "health": "Critical",
     "power": 5559,
@@ -3506,7 +3506,7 @@
   },
   {
     "id": "01ajom",
-    "name": "Character_439",
+    "name": "Anime Character 439",
     "location": "Kumo",
     "health": "Critical",
     "power": 1987,
@@ -3514,7 +3514,7 @@
   },
   {
     "id": "0nma5y",
-    "name": "Character_440",
+    "name": "Anime Character 440",
     "location": "Kumo",
     "health": "Critical",
     "power": 7865,
@@ -3522,7 +3522,7 @@
   },
   {
     "id": "wa8xq8",
-    "name": "Character_441",
+    "name": "Anime Character 441",
     "location": "Iwa",
     "health": "Injured",
     "power": 5554,
@@ -3530,7 +3530,7 @@
   },
   {
     "id": "zhpdmx",
-    "name": "Character_442",
+    "name": "Anime Character 442",
     "location": "Konoha",
     "health": "Injured",
     "power": 4374,
@@ -3538,7 +3538,7 @@
   },
   {
     "id": "xb0dnq",
-    "name": "Character_443",
+    "name": "Anime Character 443",
     "location": "Kumo",
     "health": "Injured",
     "power": 4632,
@@ -3546,7 +3546,7 @@
   },
   {
     "id": "3zz1bm",
-    "name": "Character_444",
+    "name": "Anime Character 444",
     "location": "Kiri",
     "health": "Injured",
     "power": 8459,
@@ -3554,7 +3554,7 @@
   },
   {
     "id": "r8ar9w",
-    "name": "Character_445",
+    "name": "Anime Character 445",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5675,
@@ -3562,7 +3562,7 @@
   },
   {
     "id": "kz2b1l",
-    "name": "Character_446",
+    "name": "Anime Character 446",
     "location": "Suna",
     "health": "Healthy",
     "power": 4658,
@@ -3570,7 +3570,7 @@
   },
   {
     "id": "fhtnao",
-    "name": "Character_447",
+    "name": "Anime Character 447",
     "location": "Konoha",
     "health": "Critical",
     "power": 3139,
@@ -3578,7 +3578,7 @@
   },
   {
     "id": "x42yqh",
-    "name": "Character_448",
+    "name": "Anime Character 448",
     "location": "Kiri",
     "health": "Injured",
     "power": 8027,
@@ -3586,7 +3586,7 @@
   },
   {
     "id": "tofh35",
-    "name": "Character_449",
+    "name": "Anime Character 449",
     "location": "Kiri",
     "health": "Injured",
     "power": 7314,
@@ -3594,7 +3594,7 @@
   },
   {
     "id": "6w2lon",
-    "name": "Character_450",
+    "name": "Anime Character 450",
     "location": "Suna",
     "health": "Critical",
     "power": 276,
@@ -3602,7 +3602,7 @@
   },
   {
     "id": "kjk08k",
-    "name": "Character_451",
+    "name": "Anime Character 451",
     "location": "Kiri",
     "health": "Critical",
     "power": 8542,
@@ -3610,7 +3610,7 @@
   },
   {
     "id": "tolgie",
-    "name": "Character_452",
+    "name": "Anime Character 452",
     "location": "Kumo",
     "health": "Healthy",
     "power": 3889,
@@ -3618,7 +3618,7 @@
   },
   {
     "id": "f4crgn",
-    "name": "Character_453",
+    "name": "Anime Character 453",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6034,
@@ -3626,7 +3626,7 @@
   },
   {
     "id": "o5xfvj",
-    "name": "Character_454",
+    "name": "Anime Character 454",
     "location": "Konoha",
     "health": "Critical",
     "power": 9827,
@@ -3634,7 +3634,7 @@
   },
   {
     "id": "fdk6wn",
-    "name": "Character_455",
+    "name": "Anime Character 455",
     "location": "Konoha",
     "health": "Healthy",
     "power": 769,
@@ -3642,7 +3642,7 @@
   },
   {
     "id": "h8a1ao",
-    "name": "Character_456",
+    "name": "Anime Character 456",
     "location": "Konoha",
     "health": "Injured",
     "power": 6704,
@@ -3650,7 +3650,7 @@
   },
   {
     "id": "ogo19l",
-    "name": "Character_457",
+    "name": "Anime Character 457",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4193,
@@ -3658,7 +3658,7 @@
   },
   {
     "id": "14wkw5",
-    "name": "Character_458",
+    "name": "Anime Character 458",
     "location": "Suna",
     "health": "Injured",
     "power": 1463,
@@ -3666,7 +3666,7 @@
   },
   {
     "id": "ebbbkt",
-    "name": "Character_459",
+    "name": "Anime Character 459",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1141,
@@ -3674,7 +3674,7 @@
   },
   {
     "id": "eaftgx",
-    "name": "Character_460",
+    "name": "Anime Character 460",
     "location": "Kumo",
     "health": "Injured",
     "power": 413,
@@ -3682,7 +3682,7 @@
   },
   {
     "id": "cdzx8p",
-    "name": "Character_461",
+    "name": "Anime Character 461",
     "location": "Iwa",
     "health": "Critical",
     "power": 3311,
@@ -3690,7 +3690,7 @@
   },
   {
     "id": "uatx7l",
-    "name": "Character_462",
+    "name": "Anime Character 462",
     "location": "Suna",
     "health": "Critical",
     "power": 2401,
@@ -3698,7 +3698,7 @@
   },
   {
     "id": "tnjgn7",
-    "name": "Character_463",
+    "name": "Anime Character 463",
     "location": "Konoha",
     "health": "Healthy",
     "power": 6115,
@@ -3706,7 +3706,7 @@
   },
   {
     "id": "5kqtci",
-    "name": "Character_464",
+    "name": "Anime Character 464",
     "location": "Kiri",
     "health": "Critical",
     "power": 5560,
@@ -3714,7 +3714,7 @@
   },
   {
     "id": "iyligm",
-    "name": "Character_465",
+    "name": "Anime Character 465",
     "location": "Konoha",
     "health": "Healthy",
     "power": 771,
@@ -3722,7 +3722,7 @@
   },
   {
     "id": "0x1y1g",
-    "name": "Character_466",
+    "name": "Anime Character 466",
     "location": "Konoha",
     "health": "Critical",
     "power": 3846,
@@ -3730,7 +3730,7 @@
   },
   {
     "id": "gzhwll",
-    "name": "Character_467",
+    "name": "Anime Character 467",
     "location": "Kiri",
     "health": "Healthy",
     "power": 1655,
@@ -3738,7 +3738,7 @@
   },
   {
     "id": "u1cdsm",
-    "name": "Character_468",
+    "name": "Anime Character 468",
     "location": "Kumo",
     "health": "Critical",
     "power": 4680,
@@ -3746,7 +3746,7 @@
   },
   {
     "id": "dd4lrh",
-    "name": "Character_469",
+    "name": "Anime Character 469",
     "location": "Suna",
     "health": "Healthy",
     "power": 2053,
@@ -3754,7 +3754,7 @@
   },
   {
     "id": "ijp9kf",
-    "name": "Character_470",
+    "name": "Anime Character 470",
     "location": "Kumo",
     "health": "Critical",
     "power": 8034,
@@ -3762,7 +3762,7 @@
   },
   {
     "id": "eqhiob",
-    "name": "Character_471",
+    "name": "Anime Character 471",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6805,
@@ -3770,7 +3770,7 @@
   },
   {
     "id": "yrp3do",
-    "name": "Character_472",
+    "name": "Anime Character 472",
     "location": "Suna",
     "health": "Injured",
     "power": 7280,
@@ -3778,7 +3778,7 @@
   },
   {
     "id": "xm3r61",
-    "name": "Character_473",
+    "name": "Anime Character 473",
     "location": "Kiri",
     "health": "Injured",
     "power": 1935,
@@ -3786,7 +3786,7 @@
   },
   {
     "id": "9n4gih",
-    "name": "Character_474",
+    "name": "Anime Character 474",
     "location": "Kumo",
     "health": "Critical",
     "power": 3397,
@@ -3794,7 +3794,7 @@
   },
   {
     "id": "ytaru7",
-    "name": "Character_475",
+    "name": "Anime Character 475",
     "location": "Suna",
     "health": "Critical",
     "power": 5989,
@@ -3802,7 +3802,7 @@
   },
   {
     "id": "l4inse",
-    "name": "Character_476",
+    "name": "Anime Character 476",
     "location": "Suna",
     "health": "Injured",
     "power": 9603,
@@ -3810,7 +3810,7 @@
   },
   {
     "id": "f3fq39",
-    "name": "Character_477",
+    "name": "Anime Character 477",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6993,
@@ -3818,7 +3818,7 @@
   },
   {
     "id": "2woblf",
-    "name": "Character_478",
+    "name": "Anime Character 478",
     "location": "Suna",
     "health": "Healthy",
     "power": 9081,
@@ -3826,7 +3826,7 @@
   },
   {
     "id": "s1kjiq",
-    "name": "Character_479",
+    "name": "Anime Character 479",
     "location": "Suna",
     "health": "Critical",
     "power": 8429,
@@ -3834,7 +3834,7 @@
   },
   {
     "id": "6nqe11",
-    "name": "Character_480",
+    "name": "Anime Character 480",
     "location": "Kiri",
     "health": "Healthy",
     "power": 997,
@@ -3842,7 +3842,7 @@
   },
   {
     "id": "19kwip",
-    "name": "Character_481",
+    "name": "Anime Character 481",
     "location": "Kiri",
     "health": "Critical",
     "power": 7920,
@@ -3850,7 +3850,7 @@
   },
   {
     "id": "ihcia3",
-    "name": "Character_482",
+    "name": "Anime Character 482",
     "location": "Suna",
     "health": "Healthy",
     "power": 7471,
@@ -3858,7 +3858,7 @@
   },
   {
     "id": "yf9pr5",
-    "name": "Character_483",
+    "name": "Anime Character 483",
     "location": "Kiri",
     "health": "Critical",
     "power": 7305,
@@ -3866,7 +3866,7 @@
   },
   {
     "id": "wpakpt",
-    "name": "Character_484",
+    "name": "Anime Character 484",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5977,
@@ -3874,7 +3874,7 @@
   },
   {
     "id": "ifees8",
-    "name": "Character_485",
+    "name": "Anime Character 485",
     "location": "Konoha",
     "health": "Injured",
     "power": 9251,
@@ -3882,7 +3882,7 @@
   },
   {
     "id": "r7p6e7",
-    "name": "Character_486",
+    "name": "Anime Character 486",
     "location": "Suna",
     "health": "Critical",
     "power": 9308,
@@ -3890,7 +3890,7 @@
   },
   {
     "id": "cey03t",
-    "name": "Character_487",
+    "name": "Anime Character 487",
     "location": "Iwa",
     "health": "Injured",
     "power": 747,
@@ -3898,7 +3898,7 @@
   },
   {
     "id": "ckuggm",
-    "name": "Character_488",
+    "name": "Anime Character 488",
     "location": "Iwa",
     "health": "Injured",
     "power": 6581,
@@ -3906,7 +3906,7 @@
   },
   {
     "id": "w2el4w",
-    "name": "Character_489",
+    "name": "Anime Character 489",
     "location": "Suna",
     "health": "Critical",
     "power": 7483,
@@ -3914,7 +3914,7 @@
   },
   {
     "id": "xfwx3z",
-    "name": "Character_490",
+    "name": "Anime Character 490",
     "location": "Iwa",
     "health": "Injured",
     "power": 3420,
@@ -3922,7 +3922,7 @@
   },
   {
     "id": "6eo8wb",
-    "name": "Character_491",
+    "name": "Anime Character 491",
     "location": "Konoha",
     "health": "Injured",
     "power": 2304,
@@ -3930,7 +3930,7 @@
   },
   {
     "id": "9z1j0e",
-    "name": "Character_492",
+    "name": "Anime Character 492",
     "location": "Iwa",
     "health": "Critical",
     "power": 5891,
@@ -3938,7 +3938,7 @@
   },
   {
     "id": "2hhew1",
-    "name": "Character_493",
+    "name": "Anime Character 493",
     "location": "Kiri",
     "health": "Injured",
     "power": 8469,
@@ -3946,7 +3946,7 @@
   },
   {
     "id": "c8h5hl",
-    "name": "Character_494",
+    "name": "Anime Character 494",
     "location": "Konoha",
     "health": "Critical",
     "power": 2904,
@@ -3954,7 +3954,7 @@
   },
   {
     "id": "p4uy5e",
-    "name": "Character_495",
+    "name": "Anime Character 495",
     "location": "Konoha",
     "health": "Injured",
     "power": 6682,
@@ -3962,7 +3962,7 @@
   },
   {
     "id": "2s94gi",
-    "name": "Character_496",
+    "name": "Anime Character 496",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1635,
@@ -3970,7 +3970,7 @@
   },
   {
     "id": "qzzbb3",
-    "name": "Character_497",
+    "name": "Anime Character 497",
     "location": "Konoha",
     "health": "Critical",
     "power": 3916,
@@ -3978,7 +3978,7 @@
   },
   {
     "id": "v6pe0g",
-    "name": "Character_498",
+    "name": "Anime Character 498",
     "location": "Kumo",
     "health": "Injured",
     "power": 4912,
@@ -3986,7 +3986,7 @@
   },
   {
     "id": "74p0dx",
-    "name": "Character_499",
+    "name": "Anime Character 499",
     "location": "Suna",
     "health": "Injured",
     "power": 6650,
@@ -3994,7 +3994,7 @@
   },
   {
     "id": "0k6lcw",
-    "name": "Character_500",
+    "name": "Anime Character 500",
     "location": "Suna",
     "health": "Healthy",
     "power": 5815,
@@ -4002,7 +4002,7 @@
   },
   {
     "id": "pzb100",
-    "name": "Character_501",
+    "name": "Anime Character 501",
     "location": "Iwa",
     "health": "Critical",
     "power": 666,
@@ -4010,7 +4010,7 @@
   },
   {
     "id": "jtjumy",
-    "name": "Character_502",
+    "name": "Anime Character 502",
     "location": "Suna",
     "health": "Critical",
     "power": 1628,
@@ -4018,7 +4018,7 @@
   },
   {
     "id": "hcy7wq",
-    "name": "Character_503",
+    "name": "Anime Character 503",
     "location": "Kumo",
     "health": "Healthy",
     "power": 3127,
@@ -4026,7 +4026,7 @@
   },
   {
     "id": "fc4oo6",
-    "name": "Character_504",
+    "name": "Anime Character 504",
     "location": "Iwa",
     "health": "Critical",
     "power": 4675,
@@ -4034,7 +4034,7 @@
   },
   {
     "id": "p5d6l5",
-    "name": "Character_505",
+    "name": "Anime Character 505",
     "location": "Konoha",
     "health": "Injured",
     "power": 1196,
@@ -4042,7 +4042,7 @@
   },
   {
     "id": "q7yq6a",
-    "name": "Character_506",
+    "name": "Anime Character 506",
     "location": "Suna",
     "health": "Injured",
     "power": 4273,
@@ -4050,7 +4050,7 @@
   },
   {
     "id": "fb484k",
-    "name": "Character_507",
+    "name": "Anime Character 507",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5900,
@@ -4058,7 +4058,7 @@
   },
   {
     "id": "j4rrzs",
-    "name": "Character_508",
+    "name": "Anime Character 508",
     "location": "Konoha",
     "health": "Injured",
     "power": 9003,
@@ -4066,7 +4066,7 @@
   },
   {
     "id": "fp3gs0",
-    "name": "Character_509",
+    "name": "Anime Character 509",
     "location": "Suna",
     "health": "Critical",
     "power": 1576,
@@ -4074,7 +4074,7 @@
   },
   {
     "id": "jehp2w",
-    "name": "Character_510",
+    "name": "Anime Character 510",
     "location": "Kiri",
     "health": "Healthy",
     "power": 8597,
@@ -4082,7 +4082,7 @@
   },
   {
     "id": "sf9wz8",
-    "name": "Character_511",
+    "name": "Anime Character 511",
     "location": "Kiri",
     "health": "Healthy",
     "power": 9813,
@@ -4090,7 +4090,7 @@
   },
   {
     "id": "g8v7xd",
-    "name": "Character_512",
+    "name": "Anime Character 512",
     "location": "Kumo",
     "health": "Critical",
     "power": 1481,
@@ -4098,7 +4098,7 @@
   },
   {
     "id": "jp9tdk",
-    "name": "Character_513",
+    "name": "Anime Character 513",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7728,
@@ -4106,7 +4106,7 @@
   },
   {
     "id": "3iflg2",
-    "name": "Character_514",
+    "name": "Anime Character 514",
     "location": "Kiri",
     "health": "Critical",
     "power": 9883,
@@ -4114,7 +4114,7 @@
   },
   {
     "id": "857xy0",
-    "name": "Character_515",
+    "name": "Anime Character 515",
     "location": "Kiri",
     "health": "Injured",
     "power": 6957,
@@ -4122,7 +4122,7 @@
   },
   {
     "id": "dvmqty",
-    "name": "Character_516",
+    "name": "Anime Character 516",
     "location": "Suna",
     "health": "Healthy",
     "power": 4682,
@@ -4130,7 +4130,7 @@
   },
   {
     "id": "6pozpk",
-    "name": "Character_517",
+    "name": "Anime Character 517",
     "location": "Kumo",
     "health": "Injured",
     "power": 6333,
@@ -4138,7 +4138,7 @@
   },
   {
     "id": "ko3q1j",
-    "name": "Character_518",
+    "name": "Anime Character 518",
     "location": "Iwa",
     "health": "Injured",
     "power": 423,
@@ -4146,7 +4146,7 @@
   },
   {
     "id": "us56vw",
-    "name": "Character_519",
+    "name": "Anime Character 519",
     "location": "Suna",
     "health": "Critical",
     "power": 3655,
@@ -4154,7 +4154,7 @@
   },
   {
     "id": "mlio2b",
-    "name": "Character_520",
+    "name": "Anime Character 520",
     "location": "Kiri",
     "health": "Injured",
     "power": 8501,
@@ -4162,7 +4162,7 @@
   },
   {
     "id": "e448dk",
-    "name": "Character_521",
+    "name": "Anime Character 521",
     "location": "Kiri",
     "health": "Critical",
     "power": 7887,
@@ -4170,7 +4170,7 @@
   },
   {
     "id": "vc1vl6",
-    "name": "Character_522",
+    "name": "Anime Character 522",
     "location": "Kumo",
     "health": "Critical",
     "power": 7179,
@@ -4178,7 +4178,7 @@
   },
   {
     "id": "dr1n8f",
-    "name": "Character_523",
+    "name": "Anime Character 523",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4711,
@@ -4186,7 +4186,7 @@
   },
   {
     "id": "4rufed",
-    "name": "Character_524",
+    "name": "Anime Character 524",
     "location": "Kiri",
     "health": "Injured",
     "power": 4046,
@@ -4194,7 +4194,7 @@
   },
   {
     "id": "dbekgs",
-    "name": "Character_525",
+    "name": "Anime Character 525",
     "location": "Suna",
     "health": "Healthy",
     "power": 7316,
@@ -4202,7 +4202,7 @@
   },
   {
     "id": "if9j57",
-    "name": "Character_526",
+    "name": "Anime Character 526",
     "location": "Konoha",
     "health": "Critical",
     "power": 6368,
@@ -4210,7 +4210,7 @@
   },
   {
     "id": "x0ncac",
-    "name": "Character_527",
+    "name": "Anime Character 527",
     "location": "Suna",
     "health": "Healthy",
     "power": 4993,
@@ -4218,7 +4218,7 @@
   },
   {
     "id": "t0iwwb",
-    "name": "Character_528",
+    "name": "Anime Character 528",
     "location": "Konoha",
     "health": "Critical",
     "power": 7972,
@@ -4226,7 +4226,7 @@
   },
   {
     "id": "f9e1mk",
-    "name": "Character_529",
+    "name": "Anime Character 529",
     "location": "Kumo",
     "health": "Critical",
     "power": 4963,
@@ -4234,7 +4234,7 @@
   },
   {
     "id": "uruona",
-    "name": "Character_530",
+    "name": "Anime Character 530",
     "location": "Suna",
     "health": "Critical",
     "power": 138,
@@ -4242,7 +4242,7 @@
   },
   {
     "id": "4342s8",
-    "name": "Character_531",
+    "name": "Anime Character 531",
     "location": "Kiri",
     "health": "Critical",
     "power": 8328,
@@ -4250,7 +4250,7 @@
   },
   {
     "id": "w4ytc0",
-    "name": "Character_532",
+    "name": "Anime Character 532",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1224,
@@ -4258,7 +4258,7 @@
   },
   {
     "id": "k4e18w",
-    "name": "Character_533",
+    "name": "Anime Character 533",
     "location": "Kumo",
     "health": "Healthy",
     "power": 2200,
@@ -4266,7 +4266,7 @@
   },
   {
     "id": "zjkeos",
-    "name": "Character_534",
+    "name": "Anime Character 534",
     "location": "Kiri",
     "health": "Critical",
     "power": 5520,
@@ -4274,7 +4274,7 @@
   },
   {
     "id": "i40yl3",
-    "name": "Character_535",
+    "name": "Anime Character 535",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4305,
@@ -4282,7 +4282,7 @@
   },
   {
     "id": "05bof7",
-    "name": "Character_536",
+    "name": "Anime Character 536",
     "location": "Suna",
     "health": "Critical",
     "power": 8928,
@@ -4290,7 +4290,7 @@
   },
   {
     "id": "3tvcji",
-    "name": "Character_537",
+    "name": "Anime Character 537",
     "location": "Kiri",
     "health": "Critical",
     "power": 6636,
@@ -4298,7 +4298,7 @@
   },
   {
     "id": "7h6d0t",
-    "name": "Character_538",
+    "name": "Anime Character 538",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3265,
@@ -4306,7 +4306,7 @@
   },
   {
     "id": "hyz7r2",
-    "name": "Character_539",
+    "name": "Anime Character 539",
     "location": "Kiri",
     "health": "Injured",
     "power": 2189,
@@ -4314,7 +4314,7 @@
   },
   {
     "id": "uaso64",
-    "name": "Character_540",
+    "name": "Anime Character 540",
     "location": "Kiri",
     "health": "Injured",
     "power": 5186,
@@ -4322,7 +4322,7 @@
   },
   {
     "id": "0vm30m",
-    "name": "Character_541",
+    "name": "Anime Character 541",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4803,
@@ -4330,7 +4330,7 @@
   },
   {
     "id": "0s34i5",
-    "name": "Character_542",
+    "name": "Anime Character 542",
     "location": "Konoha",
     "health": "Critical",
     "power": 634,
@@ -4338,7 +4338,7 @@
   },
   {
     "id": "ktbbg1",
-    "name": "Character_543",
+    "name": "Anime Character 543",
     "location": "Konoha",
     "health": "Injured",
     "power": 2501,
@@ -4346,7 +4346,7 @@
   },
   {
     "id": "029xt4",
-    "name": "Character_544",
+    "name": "Anime Character 544",
     "location": "Kumo",
     "health": "Injured",
     "power": 1289,
@@ -4354,7 +4354,7 @@
   },
   {
     "id": "2hdiy1",
-    "name": "Character_545",
+    "name": "Anime Character 545",
     "location": "Konoha",
     "health": "Injured",
     "power": 3732,
@@ -4362,7 +4362,7 @@
   },
   {
     "id": "933i1i",
-    "name": "Character_546",
+    "name": "Anime Character 546",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5942,
@@ -4370,7 +4370,7 @@
   },
   {
     "id": "mfaent",
-    "name": "Character_547",
+    "name": "Anime Character 547",
     "location": "Kiri",
     "health": "Critical",
     "power": 1473,
@@ -4378,7 +4378,7 @@
   },
   {
     "id": "mwl4ev",
-    "name": "Character_548",
+    "name": "Anime Character 548",
     "location": "Iwa",
     "health": "Critical",
     "power": 1576,
@@ -4386,7 +4386,7 @@
   },
   {
     "id": "5vd39q",
-    "name": "Character_549",
+    "name": "Anime Character 549",
     "location": "Konoha",
     "health": "Injured",
     "power": 3917,
@@ -4394,7 +4394,7 @@
   },
   {
     "id": "uuu3e1",
-    "name": "Character_550",
+    "name": "Anime Character 550",
     "location": "Konoha",
     "health": "Critical",
     "power": 4595,
@@ -4402,7 +4402,7 @@
   },
   {
     "id": "wzhu73",
-    "name": "Character_551",
+    "name": "Anime Character 551",
     "location": "Konoha",
     "health": "Critical",
     "power": 6815,
@@ -4410,7 +4410,7 @@
   },
   {
     "id": "yr1w39",
-    "name": "Character_552",
+    "name": "Anime Character 552",
     "location": "Iwa",
     "health": "Critical",
     "power": 5237,
@@ -4418,7 +4418,7 @@
   },
   {
     "id": "tunb2s",
-    "name": "Character_553",
+    "name": "Anime Character 553",
     "location": "Konoha",
     "health": "Critical",
     "power": 4708,
@@ -4426,7 +4426,7 @@
   },
   {
     "id": "z2jifn",
-    "name": "Character_554",
+    "name": "Anime Character 554",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6749,
@@ -4434,7 +4434,7 @@
   },
   {
     "id": "6aagmw",
-    "name": "Character_555",
+    "name": "Anime Character 555",
     "location": "Kumo",
     "health": "Healthy",
     "power": 8248,
@@ -4442,7 +4442,7 @@
   },
   {
     "id": "q7ymww",
-    "name": "Character_556",
+    "name": "Anime Character 556",
     "location": "Suna",
     "health": "Healthy",
     "power": 4613,
@@ -4450,7 +4450,7 @@
   },
   {
     "id": "vjgpbq",
-    "name": "Character_557",
+    "name": "Anime Character 557",
     "location": "Iwa",
     "health": "Injured",
     "power": 4366,
@@ -4458,7 +4458,7 @@
   },
   {
     "id": "0tjnxp",
-    "name": "Character_558",
+    "name": "Anime Character 558",
     "location": "Iwa",
     "health": "Critical",
     "power": 2741,
@@ -4466,7 +4466,7 @@
   },
   {
     "id": "ihqpbi",
-    "name": "Character_559",
+    "name": "Anime Character 559",
     "location": "Kiri",
     "health": "Healthy",
     "power": 5393,
@@ -4474,7 +4474,7 @@
   },
   {
     "id": "5p9tk3",
-    "name": "Character_560",
+    "name": "Anime Character 560",
     "location": "Suna",
     "health": "Injured",
     "power": 9180,
@@ -4482,7 +4482,7 @@
   },
   {
     "id": "wc3qa6",
-    "name": "Character_561",
+    "name": "Anime Character 561",
     "location": "Kumo",
     "health": "Healthy",
     "power": 7104,
@@ -4490,7 +4490,7 @@
   },
   {
     "id": "p0yejx",
-    "name": "Character_562",
+    "name": "Anime Character 562",
     "location": "Kumo",
     "health": "Critical",
     "power": 1083,
@@ -4498,7 +4498,7 @@
   },
   {
     "id": "x91s3l",
-    "name": "Character_563",
+    "name": "Anime Character 563",
     "location": "Suna",
     "health": "Healthy",
     "power": 5576,
@@ -4506,7 +4506,7 @@
   },
   {
     "id": "2lnyo5",
-    "name": "Character_564",
+    "name": "Anime Character 564",
     "location": "Suna",
     "health": "Critical",
     "power": 183,
@@ -4514,7 +4514,7 @@
   },
   {
     "id": "43gf1t",
-    "name": "Character_565",
+    "name": "Anime Character 565",
     "location": "Konoha",
     "health": "Injured",
     "power": 8416,
@@ -4522,7 +4522,7 @@
   },
   {
     "id": "wdabhx",
-    "name": "Character_566",
+    "name": "Anime Character 566",
     "location": "Iwa",
     "health": "Healthy",
     "power": 9237,
@@ -4530,7 +4530,7 @@
   },
   {
     "id": "m2ime1",
-    "name": "Character_567",
+    "name": "Anime Character 567",
     "location": "Iwa",
     "health": "Injured",
     "power": 143,
@@ -4538,7 +4538,7 @@
   },
   {
     "id": "tlc2l0",
-    "name": "Character_568",
+    "name": "Anime Character 568",
     "location": "Konoha",
     "health": "Injured",
     "power": 7657,
@@ -4546,7 +4546,7 @@
   },
   {
     "id": "351b78",
-    "name": "Character_569",
+    "name": "Anime Character 569",
     "location": "Iwa",
     "health": "Critical",
     "power": 3402,
@@ -4554,7 +4554,7 @@
   },
   {
     "id": "oavp38",
-    "name": "Character_570",
+    "name": "Anime Character 570",
     "location": "Kiri",
     "health": "Injured",
     "power": 3445,
@@ -4562,7 +4562,7 @@
   },
   {
     "id": "jpmm8m",
-    "name": "Character_571",
+    "name": "Anime Character 571",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2246,
@@ -4570,7 +4570,7 @@
   },
   {
     "id": "ufcqd7",
-    "name": "Character_572",
+    "name": "Anime Character 572",
     "location": "Kumo",
     "health": "Injured",
     "power": 2976,
@@ -4578,7 +4578,7 @@
   },
   {
     "id": "182tr4",
-    "name": "Character_573",
+    "name": "Anime Character 573",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6340,
@@ -4586,7 +4586,7 @@
   },
   {
     "id": "h4s7a7",
-    "name": "Character_574",
+    "name": "Anime Character 574",
     "location": "Iwa",
     "health": "Critical",
     "power": 2207,
@@ -4594,7 +4594,7 @@
   },
   {
     "id": "n30avo",
-    "name": "Character_575",
+    "name": "Anime Character 575",
     "location": "Kiri",
     "health": "Injured",
     "power": 4921,
@@ -4602,7 +4602,7 @@
   },
   {
     "id": "vgf6vc",
-    "name": "Character_576",
+    "name": "Anime Character 576",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3209,
@@ -4610,7 +4610,7 @@
   },
   {
     "id": "48devp",
-    "name": "Character_577",
+    "name": "Anime Character 577",
     "location": "Kumo",
     "health": "Healthy",
     "power": 7958,
@@ -4618,7 +4618,7 @@
   },
   {
     "id": "a61w24",
-    "name": "Character_578",
+    "name": "Anime Character 578",
     "location": "Suna",
     "health": "Critical",
     "power": 1876,
@@ -4626,7 +4626,7 @@
   },
   {
     "id": "24mgcr",
-    "name": "Character_579",
+    "name": "Anime Character 579",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3468,
@@ -4634,7 +4634,7 @@
   },
   {
     "id": "u271lc",
-    "name": "Character_580",
+    "name": "Anime Character 580",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6030,
@@ -4642,7 +4642,7 @@
   },
   {
     "id": "19h5y9",
-    "name": "Character_581",
+    "name": "Anime Character 581",
     "location": "Iwa",
     "health": "Critical",
     "power": 5143,
@@ -4650,7 +4650,7 @@
   },
   {
     "id": "is3zz8",
-    "name": "Character_582",
+    "name": "Anime Character 582",
     "location": "Suna",
     "health": "Healthy",
     "power": 2991,
@@ -4658,7 +4658,7 @@
   },
   {
     "id": "1mghzo",
-    "name": "Character_583",
+    "name": "Anime Character 583",
     "location": "Kumo",
     "health": "Injured",
     "power": 7429,
@@ -4666,7 +4666,7 @@
   },
   {
     "id": "2unwfp",
-    "name": "Character_584",
+    "name": "Anime Character 584",
     "location": "Kiri",
     "health": "Critical",
     "power": 4653,
@@ -4674,7 +4674,7 @@
   },
   {
     "id": "4id28i",
-    "name": "Character_585",
+    "name": "Anime Character 585",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3353,
@@ -4682,7 +4682,7 @@
   },
   {
     "id": "zqe55a",
-    "name": "Character_586",
+    "name": "Anime Character 586",
     "location": "Iwa",
     "health": "Injured",
     "power": 9423,
@@ -4690,7 +4690,7 @@
   },
   {
     "id": "5x0hy5",
-    "name": "Character_587",
+    "name": "Anime Character 587",
     "location": "Kiri",
     "health": "Injured",
     "power": 1328,
@@ -4698,7 +4698,7 @@
   },
   {
     "id": "dtjzpu",
-    "name": "Character_588",
+    "name": "Anime Character 588",
     "location": "Iwa",
     "health": "Injured",
     "power": 1895,
@@ -4706,7 +4706,7 @@
   },
   {
     "id": "3dp34w",
-    "name": "Character_589",
+    "name": "Anime Character 589",
     "location": "Iwa",
     "health": "Critical",
     "power": 568,
@@ -4714,7 +4714,7 @@
   },
   {
     "id": "ogm6bd",
-    "name": "Character_590",
+    "name": "Anime Character 590",
     "location": "Iwa",
     "health": "Critical",
     "power": 4206,
@@ -4722,7 +4722,7 @@
   },
   {
     "id": "dwid8n",
-    "name": "Character_591",
+    "name": "Anime Character 591",
     "location": "Konoha",
     "health": "Critical",
     "power": 5335,
@@ -4730,7 +4730,7 @@
   },
   {
     "id": "ya800l",
-    "name": "Character_592",
+    "name": "Anime Character 592",
     "location": "Suna",
     "health": "Injured",
     "power": 1684,
@@ -4738,7 +4738,7 @@
   },
   {
     "id": "4ivtqe",
-    "name": "Character_593",
+    "name": "Anime Character 593",
     "location": "Suna",
     "health": "Healthy",
     "power": 1704,
@@ -4746,7 +4746,7 @@
   },
   {
     "id": "b5cojw",
-    "name": "Character_594",
+    "name": "Anime Character 594",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6772,
@@ -4754,7 +4754,7 @@
   },
   {
     "id": "hbqr4g",
-    "name": "Character_595",
+    "name": "Anime Character 595",
     "location": "Kumo",
     "health": "Critical",
     "power": 2314,
@@ -4762,7 +4762,7 @@
   },
   {
     "id": "ljnuow",
-    "name": "Character_596",
+    "name": "Anime Character 596",
     "location": "Konoha",
     "health": "Critical",
     "power": 1039,
@@ -4770,7 +4770,7 @@
   },
   {
     "id": "n6nlro",
-    "name": "Character_597",
+    "name": "Anime Character 597",
     "location": "Konoha",
     "health": "Critical",
     "power": 5142,
@@ -4778,7 +4778,7 @@
   },
   {
     "id": "fbslcq",
-    "name": "Character_598",
+    "name": "Anime Character 598",
     "location": "Konoha",
     "health": "Critical",
     "power": 4314,
@@ -4786,7 +4786,7 @@
   },
   {
     "id": "oyp9r6",
-    "name": "Character_599",
+    "name": "Anime Character 599",
     "location": "Kiri",
     "health": "Critical",
     "power": 8129,
@@ -4794,7 +4794,7 @@
   },
   {
     "id": "145esu",
-    "name": "Character_600",
+    "name": "Anime Character 600",
     "location": "Konoha",
     "health": "Critical",
     "power": 7956,
@@ -4802,7 +4802,7 @@
   },
   {
     "id": "mhzxdi",
-    "name": "Character_601",
+    "name": "Anime Character 601",
     "location": "Konoha",
     "health": "Injured",
     "power": 5248,
@@ -4810,7 +4810,7 @@
   },
   {
     "id": "52cqv8",
-    "name": "Character_602",
+    "name": "Anime Character 602",
     "location": "Kiri",
     "health": "Healthy",
     "power": 9365,
@@ -4818,7 +4818,7 @@
   },
   {
     "id": "8oblcl",
-    "name": "Character_603",
+    "name": "Anime Character 603",
     "location": "Suna",
     "health": "Healthy",
     "power": 7877,
@@ -4826,7 +4826,7 @@
   },
   {
     "id": "uipodu",
-    "name": "Character_604",
+    "name": "Anime Character 604",
     "location": "Iwa",
     "health": "Injured",
     "power": 7098,
@@ -4834,7 +4834,7 @@
   },
   {
     "id": "62wppz",
-    "name": "Character_605",
+    "name": "Anime Character 605",
     "location": "Iwa",
     "health": "Critical",
     "power": 9716,
@@ -4842,7 +4842,7 @@
   },
   {
     "id": "9874ll",
-    "name": "Character_606",
+    "name": "Anime Character 606",
     "location": "Suna",
     "health": "Injured",
     "power": 8287,
@@ -4850,7 +4850,7 @@
   },
   {
     "id": "dug5fi",
-    "name": "Character_607",
+    "name": "Anime Character 607",
     "location": "Iwa",
     "health": "Critical",
     "power": 6697,
@@ -4858,7 +4858,7 @@
   },
   {
     "id": "oxybcw",
-    "name": "Character_608",
+    "name": "Anime Character 608",
     "location": "Kiri",
     "health": "Healthy",
     "power": 8628,
@@ -4866,7 +4866,7 @@
   },
   {
     "id": "vwn66b",
-    "name": "Character_609",
+    "name": "Anime Character 609",
     "location": "Suna",
     "health": "Injured",
     "power": 9951,
@@ -4874,7 +4874,7 @@
   },
   {
     "id": "y93v79",
-    "name": "Character_610",
+    "name": "Anime Character 610",
     "location": "Iwa",
     "health": "Critical",
     "power": 3370,
@@ -4882,7 +4882,7 @@
   },
   {
     "id": "d1o4uz",
-    "name": "Character_611",
+    "name": "Anime Character 611",
     "location": "Konoha",
     "health": "Healthy",
     "power": 193,
@@ -4890,7 +4890,7 @@
   },
   {
     "id": "gvqj9v",
-    "name": "Character_612",
+    "name": "Anime Character 612",
     "location": "Suna",
     "health": "Healthy",
     "power": 5075,
@@ -4898,7 +4898,7 @@
   },
   {
     "id": "fi3hig",
-    "name": "Character_613",
+    "name": "Anime Character 613",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8317,
@@ -4906,7 +4906,7 @@
   },
   {
     "id": "g26ncz",
-    "name": "Character_614",
+    "name": "Anime Character 614",
     "location": "Kumo",
     "health": "Critical",
     "power": 3824,
@@ -4914,7 +4914,7 @@
   },
   {
     "id": "y9pt5e",
-    "name": "Character_615",
+    "name": "Anime Character 615",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2872,
@@ -4922,7 +4922,7 @@
   },
   {
     "id": "1q4vya",
-    "name": "Character_616",
+    "name": "Anime Character 616",
     "location": "Suna",
     "health": "Injured",
     "power": 9786,
@@ -4930,7 +4930,7 @@
   },
   {
     "id": "2fptob",
-    "name": "Character_617",
+    "name": "Anime Character 617",
     "location": "Kumo",
     "health": "Critical",
     "power": 631,
@@ -4938,7 +4938,7 @@
   },
   {
     "id": "35jnk7",
-    "name": "Character_618",
+    "name": "Anime Character 618",
     "location": "Suna",
     "health": "Critical",
     "power": 3045,
@@ -4946,7 +4946,7 @@
   },
   {
     "id": "1r54yq",
-    "name": "Character_619",
+    "name": "Anime Character 619",
     "location": "Suna",
     "health": "Injured",
     "power": 5257,
@@ -4954,7 +4954,7 @@
   },
   {
     "id": "bqom4f",
-    "name": "Character_620",
+    "name": "Anime Character 620",
     "location": "Suna",
     "health": "Critical",
     "power": 3935,
@@ -4962,7 +4962,7 @@
   },
   {
     "id": "nagp9l",
-    "name": "Character_621",
+    "name": "Anime Character 621",
     "location": "Iwa",
     "health": "Critical",
     "power": 7215,
@@ -4970,7 +4970,7 @@
   },
   {
     "id": "03k205",
-    "name": "Character_622",
+    "name": "Anime Character 622",
     "location": "Kiri",
     "health": "Healthy",
     "power": 1813,
@@ -4978,7 +4978,7 @@
   },
   {
     "id": "hpro0q",
-    "name": "Character_623",
+    "name": "Anime Character 623",
     "location": "Suna",
     "health": "Critical",
     "power": 1973,
@@ -4986,7 +4986,7 @@
   },
   {
     "id": "aqitwe",
-    "name": "Character_624",
+    "name": "Anime Character 624",
     "location": "Kiri",
     "health": "Injured",
     "power": 6683,
@@ -4994,7 +4994,7 @@
   },
   {
     "id": "a6c2k1",
-    "name": "Character_625",
+    "name": "Anime Character 625",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4504,
@@ -5002,7 +5002,7 @@
   },
   {
     "id": "6mklp2",
-    "name": "Character_626",
+    "name": "Anime Character 626",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6636,
@@ -5010,7 +5010,7 @@
   },
   {
     "id": "sp9ep1",
-    "name": "Character_627",
+    "name": "Anime Character 627",
     "location": "Iwa",
     "health": "Critical",
     "power": 8527,
@@ -5018,7 +5018,7 @@
   },
   {
     "id": "i1ejn7",
-    "name": "Character_628",
+    "name": "Anime Character 628",
     "location": "Konoha",
     "health": "Injured",
     "power": 5756,
@@ -5026,7 +5026,7 @@
   },
   {
     "id": "8y2z5j",
-    "name": "Character_629",
+    "name": "Anime Character 629",
     "location": "Kumo",
     "health": "Injured",
     "power": 8316,
@@ -5034,7 +5034,7 @@
   },
   {
     "id": "xatwjf",
-    "name": "Character_630",
+    "name": "Anime Character 630",
     "location": "Konoha",
     "health": "Critical",
     "power": 8415,
@@ -5042,7 +5042,7 @@
   },
   {
     "id": "ohzb2x",
-    "name": "Character_631",
+    "name": "Anime Character 631",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4891,
@@ -5050,7 +5050,7 @@
   },
   {
     "id": "o487vl",
-    "name": "Character_632",
+    "name": "Anime Character 632",
     "location": "Suna",
     "health": "Healthy",
     "power": 1778,
@@ -5058,7 +5058,7 @@
   },
   {
     "id": "wuiknr",
-    "name": "Character_633",
+    "name": "Anime Character 633",
     "location": "Kumo",
     "health": "Critical",
     "power": 8764,
@@ -5066,7 +5066,7 @@
   },
   {
     "id": "pec9mp",
-    "name": "Character_634",
+    "name": "Anime Character 634",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2594,
@@ -5074,7 +5074,7 @@
   },
   {
     "id": "ozyfy8",
-    "name": "Character_635",
+    "name": "Anime Character 635",
     "location": "Iwa",
     "health": "Healthy",
     "power": 7987,
@@ -5082,7 +5082,7 @@
   },
   {
     "id": "qf6lpd",
-    "name": "Character_636",
+    "name": "Anime Character 636",
     "location": "Suna",
     "health": "Critical",
     "power": 7329,
@@ -5090,7 +5090,7 @@
   },
   {
     "id": "i7nwpw",
-    "name": "Character_637",
+    "name": "Anime Character 637",
     "location": "Suna",
     "health": "Critical",
     "power": 7420,
@@ -5098,7 +5098,7 @@
   },
   {
     "id": "adz4jo",
-    "name": "Character_638",
+    "name": "Anime Character 638",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4005,
@@ -5106,7 +5106,7 @@
   },
   {
     "id": "1c21mk",
-    "name": "Character_639",
+    "name": "Anime Character 639",
     "location": "Iwa",
     "health": "Injured",
     "power": 233,
@@ -5114,7 +5114,7 @@
   },
   {
     "id": "r8il0w",
-    "name": "Character_640",
+    "name": "Anime Character 640",
     "location": "Kumo",
     "health": "Injured",
     "power": 1380,
@@ -5122,7 +5122,7 @@
   },
   {
     "id": "p3367s",
-    "name": "Character_641",
+    "name": "Anime Character 641",
     "location": "Iwa",
     "health": "Critical",
     "power": 1501,
@@ -5130,7 +5130,7 @@
   },
   {
     "id": "ropn0j",
-    "name": "Character_642",
+    "name": "Anime Character 642",
     "location": "Iwa",
     "health": "Healthy",
     "power": 4483,
@@ -5138,7 +5138,7 @@
   },
   {
     "id": "mp0e1i",
-    "name": "Character_643",
+    "name": "Anime Character 643",
     "location": "Iwa",
     "health": "Critical",
     "power": 6550,
@@ -5146,7 +5146,7 @@
   },
   {
     "id": "e6l990",
-    "name": "Character_644",
+    "name": "Anime Character 644",
     "location": "Kiri",
     "health": "Healthy",
     "power": 1263,
@@ -5154,7 +5154,7 @@
   },
   {
     "id": "zf13jd",
-    "name": "Character_645",
+    "name": "Anime Character 645",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2888,
@@ -5162,7 +5162,7 @@
   },
   {
     "id": "n32u27",
-    "name": "Character_646",
+    "name": "Anime Character 646",
     "location": "Suna",
     "health": "Healthy",
     "power": 6723,
@@ -5170,7 +5170,7 @@
   },
   {
     "id": "t55y8y",
-    "name": "Character_647",
+    "name": "Anime Character 647",
     "location": "Kumo",
     "health": "Injured",
     "power": 4015,
@@ -5178,7 +5178,7 @@
   },
   {
     "id": "tq95lu",
-    "name": "Character_648",
+    "name": "Anime Character 648",
     "location": "Kumo",
     "health": "Critical",
     "power": 7029,
@@ -5186,7 +5186,7 @@
   },
   {
     "id": "lkklpp",
-    "name": "Character_649",
+    "name": "Anime Character 649",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4359,
@@ -5194,7 +5194,7 @@
   },
   {
     "id": "z20typ",
-    "name": "Character_650",
+    "name": "Anime Character 650",
     "location": "Iwa",
     "health": "Critical",
     "power": 8874,
@@ -5202,7 +5202,7 @@
   },
   {
     "id": "3yxtim",
-    "name": "Character_651",
+    "name": "Anime Character 651",
     "location": "Kumo",
     "health": "Healthy",
     "power": 3993,
@@ -5210,7 +5210,7 @@
   },
   {
     "id": "iwp0lv",
-    "name": "Character_652",
+    "name": "Anime Character 652",
     "location": "Iwa",
     "health": "Critical",
     "power": 9934,
@@ -5218,7 +5218,7 @@
   },
   {
     "id": "hjb4vi",
-    "name": "Character_653",
+    "name": "Anime Character 653",
     "location": "Kiri",
     "health": "Critical",
     "power": 4392,
@@ -5226,7 +5226,7 @@
   },
   {
     "id": "kis5am",
-    "name": "Character_654",
+    "name": "Anime Character 654",
     "location": "Suna",
     "health": "Injured",
     "power": 5443,
@@ -5234,7 +5234,7 @@
   },
   {
     "id": "iyxtwn",
-    "name": "Character_655",
+    "name": "Anime Character 655",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2672,
@@ -5242,7 +5242,7 @@
   },
   {
     "id": "dtj0s9",
-    "name": "Character_656",
+    "name": "Anime Character 656",
     "location": "Kiri",
     "health": "Injured",
     "power": 4589,
@@ -5250,7 +5250,7 @@
   },
   {
     "id": "kjewye",
-    "name": "Character_657",
+    "name": "Anime Character 657",
     "location": "Iwa",
     "health": "Injured",
     "power": 7082,
@@ -5258,7 +5258,7 @@
   },
   {
     "id": "zk4t4y",
-    "name": "Character_658",
+    "name": "Anime Character 658",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1920,
@@ -5266,7 +5266,7 @@
   },
   {
     "id": "kkjl7l",
-    "name": "Character_659",
+    "name": "Anime Character 659",
     "location": "Suna",
     "health": "Critical",
     "power": 2293,
@@ -5274,7 +5274,7 @@
   },
   {
     "id": "4cj1ag",
-    "name": "Character_660",
+    "name": "Anime Character 660",
     "location": "Kiri",
     "health": "Critical",
     "power": 1842,
@@ -5282,7 +5282,7 @@
   },
   {
     "id": "wz2o0v",
-    "name": "Character_661",
+    "name": "Anime Character 661",
     "location": "Iwa",
     "health": "Injured",
     "power": 6581,
@@ -5290,7 +5290,7 @@
   },
   {
     "id": "z9h5aq",
-    "name": "Character_662",
+    "name": "Anime Character 662",
     "location": "Iwa",
     "health": "Injured",
     "power": 6468,
@@ -5298,7 +5298,7 @@
   },
   {
     "id": "qpfb8x",
-    "name": "Character_663",
+    "name": "Anime Character 663",
     "location": "Suna",
     "health": "Healthy",
     "power": 3848,
@@ -5306,7 +5306,7 @@
   },
   {
     "id": "mo9xe5",
-    "name": "Character_664",
+    "name": "Anime Character 664",
     "location": "Suna",
     "health": "Injured",
     "power": 7043,
@@ -5314,7 +5314,7 @@
   },
   {
     "id": "mwvguj",
-    "name": "Character_665",
+    "name": "Anime Character 665",
     "location": "Kumo",
     "health": "Injured",
     "power": 690,
@@ -5322,7 +5322,7 @@
   },
   {
     "id": "ray5hw",
-    "name": "Character_666",
+    "name": "Anime Character 666",
     "location": "Suna",
     "health": "Healthy",
     "power": 6409,
@@ -5330,7 +5330,7 @@
   },
   {
     "id": "hj3idm",
-    "name": "Character_667",
+    "name": "Anime Character 667",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4048,
@@ -5338,7 +5338,7 @@
   },
   {
     "id": "3p2f1f",
-    "name": "Character_668",
+    "name": "Anime Character 668",
     "location": "Iwa",
     "health": "Critical",
     "power": 8575,
@@ -5346,7 +5346,7 @@
   },
   {
     "id": "gwq4wz",
-    "name": "Character_669",
+    "name": "Anime Character 669",
     "location": "Suna",
     "health": "Critical",
     "power": 526,
@@ -5354,7 +5354,7 @@
   },
   {
     "id": "wyikyr",
-    "name": "Character_670",
+    "name": "Anime Character 670",
     "location": "Konoha",
     "health": "Critical",
     "power": 5910,
@@ -5362,7 +5362,7 @@
   },
   {
     "id": "k4v517",
-    "name": "Character_671",
+    "name": "Anime Character 671",
     "location": "Kiri",
     "health": "Critical",
     "power": 7358,
@@ -5370,7 +5370,7 @@
   },
   {
     "id": "4jfv06",
-    "name": "Character_672",
+    "name": "Anime Character 672",
     "location": "Suna",
     "health": "Healthy",
     "power": 8524,
@@ -5378,7 +5378,7 @@
   },
   {
     "id": "l4o8n8",
-    "name": "Character_673",
+    "name": "Anime Character 673",
     "location": "Konoha",
     "health": "Critical",
     "power": 8722,
@@ -5386,7 +5386,7 @@
   },
   {
     "id": "fx03vd",
-    "name": "Character_674",
+    "name": "Anime Character 674",
     "location": "Suna",
     "health": "Critical",
     "power": 1266,
@@ -5394,7 +5394,7 @@
   },
   {
     "id": "utnhrh",
-    "name": "Character_675",
+    "name": "Anime Character 675",
     "location": "Kiri",
     "health": "Critical",
     "power": 3102,
@@ -5402,7 +5402,7 @@
   },
   {
     "id": "n2envc",
-    "name": "Character_676",
+    "name": "Anime Character 676",
     "location": "Suna",
     "health": "Injured",
     "power": 6653,
@@ -5410,7 +5410,7 @@
   },
   {
     "id": "qenakk",
-    "name": "Character_677",
+    "name": "Anime Character 677",
     "location": "Kiri",
     "health": "Critical",
     "power": 4677,
@@ -5418,7 +5418,7 @@
   },
   {
     "id": "urzxai",
-    "name": "Character_678",
+    "name": "Anime Character 678",
     "location": "Kumo",
     "health": "Injured",
     "power": 6500,
@@ -5426,7 +5426,7 @@
   },
   {
     "id": "kzgbjl",
-    "name": "Character_679",
+    "name": "Anime Character 679",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5591,
@@ -5434,7 +5434,7 @@
   },
   {
     "id": "6kg3sn",
-    "name": "Character_680",
+    "name": "Anime Character 680",
     "location": "Kumo",
     "health": "Critical",
     "power": 8069,
@@ -5442,7 +5442,7 @@
   },
   {
     "id": "1kqedr",
-    "name": "Character_681",
+    "name": "Anime Character 681",
     "location": "Iwa",
     "health": "Injured",
     "power": 5426,
@@ -5450,7 +5450,7 @@
   },
   {
     "id": "lih3aj",
-    "name": "Character_682",
+    "name": "Anime Character 682",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4035,
@@ -5458,7 +5458,7 @@
   },
   {
     "id": "2ihm8p",
-    "name": "Character_683",
+    "name": "Anime Character 683",
     "location": "Kiri",
     "health": "Injured",
     "power": 7545,
@@ -5466,7 +5466,7 @@
   },
   {
     "id": "qm0dbj",
-    "name": "Character_684",
+    "name": "Anime Character 684",
     "location": "Iwa",
     "health": "Critical",
     "power": 2503,
@@ -5474,7 +5474,7 @@
   },
   {
     "id": "9deiw1",
-    "name": "Character_685",
+    "name": "Anime Character 685",
     "location": "Iwa",
     "health": "Critical",
     "power": 6580,
@@ -5482,7 +5482,7 @@
   },
   {
     "id": "oezwhd",
-    "name": "Character_686",
+    "name": "Anime Character 686",
     "location": "Kiri",
     "health": "Injured",
     "power": 6642,
@@ -5490,7 +5490,7 @@
   },
   {
     "id": "cks7pn",
-    "name": "Character_687",
+    "name": "Anime Character 687",
     "location": "Iwa",
     "health": "Critical",
     "power": 2805,
@@ -5498,7 +5498,7 @@
   },
   {
     "id": "d25ijr",
-    "name": "Character_688",
+    "name": "Anime Character 688",
     "location": "Suna",
     "health": "Injured",
     "power": 2849,
@@ -5506,7 +5506,7 @@
   },
   {
     "id": "7vo9hd",
-    "name": "Character_689",
+    "name": "Anime Character 689",
     "location": "Konoha",
     "health": "Critical",
     "power": 3095,
@@ -5514,7 +5514,7 @@
   },
   {
     "id": "kkjvv2",
-    "name": "Character_690",
+    "name": "Anime Character 690",
     "location": "Kumo",
     "health": "Injured",
     "power": 5768,
@@ -5522,7 +5522,7 @@
   },
   {
     "id": "wno9ev",
-    "name": "Character_691",
+    "name": "Anime Character 691",
     "location": "Konoha",
     "health": "Injured",
     "power": 1285,
@@ -5530,7 +5530,7 @@
   },
   {
     "id": "5y3p3l",
-    "name": "Character_692",
+    "name": "Anime Character 692",
     "location": "Kiri",
     "health": "Critical",
     "power": 4875,
@@ -5538,7 +5538,7 @@
   },
   {
     "id": "g4e1wh",
-    "name": "Character_693",
+    "name": "Anime Character 693",
     "location": "Kumo",
     "health": "Injured",
     "power": 3359,
@@ -5546,7 +5546,7 @@
   },
   {
     "id": "nm3j9c",
-    "name": "Character_694",
+    "name": "Anime Character 694",
     "location": "Iwa",
     "health": "Healthy",
     "power": 6440,
@@ -5554,7 +5554,7 @@
   },
   {
     "id": "0zv70z",
-    "name": "Character_695",
+    "name": "Anime Character 695",
     "location": "Iwa",
     "health": "Critical",
     "power": 6023,
@@ -5562,7 +5562,7 @@
   },
   {
     "id": "vz0o4p",
-    "name": "Character_696",
+    "name": "Anime Character 696",
     "location": "Suna",
     "health": "Healthy",
     "power": 9513,
@@ -5570,7 +5570,7 @@
   },
   {
     "id": "k1bt0t",
-    "name": "Character_697",
+    "name": "Anime Character 697",
     "location": "Suna",
     "health": "Healthy",
     "power": 1960,
@@ -5578,7 +5578,7 @@
   },
   {
     "id": "lyrurp",
-    "name": "Character_698",
+    "name": "Anime Character 698",
     "location": "Iwa",
     "health": "Healthy",
     "power": 2164,
@@ -5586,7 +5586,7 @@
   },
   {
     "id": "478e92",
-    "name": "Character_699",
+    "name": "Anime Character 699",
     "location": "Iwa",
     "health": "Injured",
     "power": 2214,
@@ -5594,7 +5594,7 @@
   },
   {
     "id": "mzrn7r",
-    "name": "Character_700",
+    "name": "Anime Character 700",
     "location": "Kiri",
     "health": "Critical",
     "power": 6388,
@@ -5602,7 +5602,7 @@
   },
   {
     "id": "ynt5mt",
-    "name": "Character_701",
+    "name": "Anime Character 701",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1407,
@@ -5610,7 +5610,7 @@
   },
   {
     "id": "00hwi0",
-    "name": "Character_702",
+    "name": "Anime Character 702",
     "location": "Kumo",
     "health": "Injured",
     "power": 2973,
@@ -5618,7 +5618,7 @@
   },
   {
     "id": "5wg0im",
-    "name": "Character_703",
+    "name": "Anime Character 703",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5389,
@@ -5626,7 +5626,7 @@
   },
   {
     "id": "1vwl9i",
-    "name": "Character_704",
+    "name": "Anime Character 704",
     "location": "Kumo",
     "health": "Injured",
     "power": 751,
@@ -5634,7 +5634,7 @@
   },
   {
     "id": "itvzqx",
-    "name": "Character_705",
+    "name": "Anime Character 705",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5247,
@@ -5642,7 +5642,7 @@
   },
   {
     "id": "r08ku9",
-    "name": "Character_706",
+    "name": "Anime Character 706",
     "location": "Kumo",
     "health": "Critical",
     "power": 1419,
@@ -5650,7 +5650,7 @@
   },
   {
     "id": "nb01x8",
-    "name": "Character_707",
+    "name": "Anime Character 707",
     "location": "Iwa",
     "health": "Critical",
     "power": 656,
@@ -5658,7 +5658,7 @@
   },
   {
     "id": "i7q95o",
-    "name": "Character_708",
+    "name": "Anime Character 708",
     "location": "Suna",
     "health": "Injured",
     "power": 5029,
@@ -5666,7 +5666,7 @@
   },
   {
     "id": "3rj9m4",
-    "name": "Character_709",
+    "name": "Anime Character 709",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9837,
@@ -5674,7 +5674,7 @@
   },
   {
     "id": "bdiyox",
-    "name": "Character_710",
+    "name": "Anime Character 710",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9229,
@@ -5682,7 +5682,7 @@
   },
   {
     "id": "trdkdu",
-    "name": "Character_711",
+    "name": "Anime Character 711",
     "location": "Iwa",
     "health": "Healthy",
     "power": 9793,
@@ -5690,7 +5690,7 @@
   },
   {
     "id": "bh2wjy",
-    "name": "Character_712",
+    "name": "Anime Character 712",
     "location": "Kumo",
     "health": "Healthy",
     "power": 908,
@@ -5698,7 +5698,7 @@
   },
   {
     "id": "qfzb0n",
-    "name": "Character_713",
+    "name": "Anime Character 713",
     "location": "Kiri",
     "health": "Injured",
     "power": 7250,
@@ -5706,7 +5706,7 @@
   },
   {
     "id": "9dmiky",
-    "name": "Character_714",
+    "name": "Anime Character 714",
     "location": "Suna",
     "health": "Injured",
     "power": 3781,
@@ -5714,7 +5714,7 @@
   },
   {
     "id": "1orpkd",
-    "name": "Character_715",
+    "name": "Anime Character 715",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2340,
@@ -5722,7 +5722,7 @@
   },
   {
     "id": "m1f7ek",
-    "name": "Character_716",
+    "name": "Anime Character 716",
     "location": "Iwa",
     "health": "Injured",
     "power": 2605,
@@ -5730,7 +5730,7 @@
   },
   {
     "id": "m7qft3",
-    "name": "Character_717",
+    "name": "Anime Character 717",
     "location": "Kumo",
     "health": "Injured",
     "power": 7483,
@@ -5738,7 +5738,7 @@
   },
   {
     "id": "yhv386",
-    "name": "Character_718",
+    "name": "Anime Character 718",
     "location": "Kiri",
     "health": "Healthy",
     "power": 5988,
@@ -5746,7 +5746,7 @@
   },
   {
     "id": "qe0j4f",
-    "name": "Character_719",
+    "name": "Anime Character 719",
     "location": "Iwa",
     "health": "Injured",
     "power": 6037,
@@ -5754,7 +5754,7 @@
   },
   {
     "id": "0ys09u",
-    "name": "Character_720",
+    "name": "Anime Character 720",
     "location": "Konoha",
     "health": "Critical",
     "power": 3838,
@@ -5762,7 +5762,7 @@
   },
   {
     "id": "zqat84",
-    "name": "Character_721",
+    "name": "Anime Character 721",
     "location": "Iwa",
     "health": "Critical",
     "power": 1116,
@@ -5770,7 +5770,7 @@
   },
   {
     "id": "tqgnl6",
-    "name": "Character_722",
+    "name": "Anime Character 722",
     "location": "Suna",
     "health": "Healthy",
     "power": 7445,
@@ -5778,7 +5778,7 @@
   },
   {
     "id": "9u9mlt",
-    "name": "Character_723",
+    "name": "Anime Character 723",
     "location": "Iwa",
     "health": "Injured",
     "power": 6503,
@@ -5786,7 +5786,7 @@
   },
   {
     "id": "uon37i",
-    "name": "Character_724",
+    "name": "Anime Character 724",
     "location": "Kumo",
     "health": "Injured",
     "power": 9669,
@@ -5794,7 +5794,7 @@
   },
   {
     "id": "iar1hv",
-    "name": "Character_725",
+    "name": "Anime Character 725",
     "location": "Kumo",
     "health": "Critical",
     "power": 5777,
@@ -5802,7 +5802,7 @@
   },
   {
     "id": "aqihku",
-    "name": "Character_726",
+    "name": "Anime Character 726",
     "location": "Suna",
     "health": "Injured",
     "power": 2368,
@@ -5810,7 +5810,7 @@
   },
   {
     "id": "l8h0g1",
-    "name": "Character_727",
+    "name": "Anime Character 727",
     "location": "Kiri",
     "health": "Healthy",
     "power": 3883,
@@ -5818,7 +5818,7 @@
   },
   {
     "id": "bhvnj0",
-    "name": "Character_728",
+    "name": "Anime Character 728",
     "location": "Kiri",
     "health": "Injured",
     "power": 249,
@@ -5826,7 +5826,7 @@
   },
   {
     "id": "k0nbox",
-    "name": "Character_729",
+    "name": "Anime Character 729",
     "location": "Iwa",
     "health": "Injured",
     "power": 4807,
@@ -5834,7 +5834,7 @@
   },
   {
     "id": "2nkh2u",
-    "name": "Character_730",
+    "name": "Anime Character 730",
     "location": "Kumo",
     "health": "Injured",
     "power": 9538,
@@ -5842,7 +5842,7 @@
   },
   {
     "id": "fuuozu",
-    "name": "Character_731",
+    "name": "Anime Character 731",
     "location": "Iwa",
     "health": "Critical",
     "power": 4331,
@@ -5850,7 +5850,7 @@
   },
   {
     "id": "nm6wht",
-    "name": "Character_732",
+    "name": "Anime Character 732",
     "location": "Kiri",
     "health": "Healthy",
     "power": 281,
@@ -5858,7 +5858,7 @@
   },
   {
     "id": "d6ocrq",
-    "name": "Character_733",
+    "name": "Anime Character 733",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9900,
@@ -5866,7 +5866,7 @@
   },
   {
     "id": "ik5bay",
-    "name": "Character_734",
+    "name": "Anime Character 734",
     "location": "Kiri",
     "health": "Injured",
     "power": 8728,
@@ -5874,7 +5874,7 @@
   },
   {
     "id": "n221kl",
-    "name": "Character_735",
+    "name": "Anime Character 735",
     "location": "Kiri",
     "health": "Critical",
     "power": 7958,
@@ -5882,7 +5882,7 @@
   },
   {
     "id": "mnl7ox",
-    "name": "Character_736",
+    "name": "Anime Character 736",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9373,
@@ -5890,7 +5890,7 @@
   },
   {
     "id": "vspk08",
-    "name": "Character_737",
+    "name": "Anime Character 737",
     "location": "Konoha",
     "health": "Injured",
     "power": 1057,
@@ -5898,7 +5898,7 @@
   },
   {
     "id": "65a4vq",
-    "name": "Character_738",
+    "name": "Anime Character 738",
     "location": "Suna",
     "health": "Injured",
     "power": 5439,
@@ -5906,7 +5906,7 @@
   },
   {
     "id": "zfb4ud",
-    "name": "Character_739",
+    "name": "Anime Character 739",
     "location": "Iwa",
     "health": "Injured",
     "power": 1268,
@@ -5914,7 +5914,7 @@
   },
   {
     "id": "950zm5",
-    "name": "Character_740",
+    "name": "Anime Character 740",
     "location": "Kiri",
     "health": "Healthy",
     "power": 5478,
@@ -5922,7 +5922,7 @@
   },
   {
     "id": "dzu1m5",
-    "name": "Character_741",
+    "name": "Anime Character 741",
     "location": "Kumo",
     "health": "Injured",
     "power": 3994,
@@ -5930,7 +5930,7 @@
   },
   {
     "id": "kuprju",
-    "name": "Character_742",
+    "name": "Anime Character 742",
     "location": "Konoha",
     "health": "Healthy",
     "power": 304,
@@ -5938,7 +5938,7 @@
   },
   {
     "id": "aomlp1",
-    "name": "Character_743",
+    "name": "Anime Character 743",
     "location": "Iwa",
     "health": "Injured",
     "power": 3107,
@@ -5946,7 +5946,7 @@
   },
   {
     "id": "lf4v5a",
-    "name": "Character_744",
+    "name": "Anime Character 744",
     "location": "Kiri",
     "health": "Healthy",
     "power": 166,
@@ -5954,7 +5954,7 @@
   },
   {
     "id": "vnsmvq",
-    "name": "Character_745",
+    "name": "Anime Character 745",
     "location": "Konoha",
     "health": "Healthy",
     "power": 7447,
@@ -5962,7 +5962,7 @@
   },
   {
     "id": "9gtppt",
-    "name": "Character_746",
+    "name": "Anime Character 746",
     "location": "Suna",
     "health": "Healthy",
     "power": 3591,
@@ -5970,7 +5970,7 @@
   },
   {
     "id": "793cf4",
-    "name": "Character_747",
+    "name": "Anime Character 747",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1107,
@@ -5978,7 +5978,7 @@
   },
   {
     "id": "ozo7w9",
-    "name": "Character_748",
+    "name": "Anime Character 748",
     "location": "Konoha",
     "health": "Critical",
     "power": 379,
@@ -5986,7 +5986,7 @@
   },
   {
     "id": "d9iqld",
-    "name": "Character_749",
+    "name": "Anime Character 749",
     "location": "Iwa",
     "health": "Critical",
     "power": 2099,
@@ -5994,7 +5994,7 @@
   },
   {
     "id": "lyj7zd",
-    "name": "Character_750",
+    "name": "Anime Character 750",
     "location": "Kiri",
     "health": "Critical",
     "power": 7437,
@@ -6002,7 +6002,7 @@
   },
   {
     "id": "3tvmsb",
-    "name": "Character_751",
+    "name": "Anime Character 751",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5616,
@@ -6010,7 +6010,7 @@
   },
   {
     "id": "voxj12",
-    "name": "Character_752",
+    "name": "Anime Character 752",
     "location": "Kumo",
     "health": "Injured",
     "power": 5557,
@@ -6018,7 +6018,7 @@
   },
   {
     "id": "t1c4oj",
-    "name": "Character_753",
+    "name": "Anime Character 753",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4083,
@@ -6026,7 +6026,7 @@
   },
   {
     "id": "lcbsjj",
-    "name": "Character_754",
+    "name": "Anime Character 754",
     "location": "Iwa",
     "health": "Injured",
     "power": 7270,
@@ -6034,7 +6034,7 @@
   },
   {
     "id": "qrpp6t",
-    "name": "Character_755",
+    "name": "Anime Character 755",
     "location": "Kumo",
     "health": "Critical",
     "power": 9782,
@@ -6042,7 +6042,7 @@
   },
   {
     "id": "m81nxu",
-    "name": "Character_756",
+    "name": "Anime Character 756",
     "location": "Konoha",
     "health": "Injured",
     "power": 155,
@@ -6050,7 +6050,7 @@
   },
   {
     "id": "0upg4x",
-    "name": "Character_757",
+    "name": "Anime Character 757",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8634,
@@ -6058,7 +6058,7 @@
   },
   {
     "id": "qvkamn",
-    "name": "Character_758",
+    "name": "Anime Character 758",
     "location": "Suna",
     "health": "Healthy",
     "power": 2595,
@@ -6066,7 +6066,7 @@
   },
   {
     "id": "1ckc10",
-    "name": "Character_759",
+    "name": "Anime Character 759",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3710,
@@ -6074,7 +6074,7 @@
   },
   {
     "id": "8whi21",
-    "name": "Character_760",
+    "name": "Anime Character 760",
     "location": "Iwa",
     "health": "Injured",
     "power": 4423,
@@ -6082,7 +6082,7 @@
   },
   {
     "id": "rirf11",
-    "name": "Character_761",
+    "name": "Anime Character 761",
     "location": "Kiri",
     "health": "Injured",
     "power": 3204,
@@ -6090,7 +6090,7 @@
   },
   {
     "id": "56rg6u",
-    "name": "Character_762",
+    "name": "Anime Character 762",
     "location": "Iwa",
     "health": "Injured",
     "power": 5497,
@@ -6098,7 +6098,7 @@
   },
   {
     "id": "v4dxr7",
-    "name": "Character_763",
+    "name": "Anime Character 763",
     "location": "Iwa",
     "health": "Critical",
     "power": 3908,
@@ -6106,7 +6106,7 @@
   },
   {
     "id": "2x33ul",
-    "name": "Character_764",
+    "name": "Anime Character 764",
     "location": "Kiri",
     "health": "Critical",
     "power": 3163,
@@ -6114,7 +6114,7 @@
   },
   {
     "id": "yaz0w4",
-    "name": "Character_765",
+    "name": "Anime Character 765",
     "location": "Kiri",
     "health": "Injured",
     "power": 7793,
@@ -6122,7 +6122,7 @@
   },
   {
     "id": "ecjjpz",
-    "name": "Character_766",
+    "name": "Anime Character 766",
     "location": "Suna",
     "health": "Injured",
     "power": 1377,
@@ -6130,7 +6130,7 @@
   },
   {
     "id": "y064xb",
-    "name": "Character_767",
+    "name": "Anime Character 767",
     "location": "Kiri",
     "health": "Healthy",
     "power": 4949,
@@ -6138,7 +6138,7 @@
   },
   {
     "id": "7df4mp",
-    "name": "Character_768",
+    "name": "Anime Character 768",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4906,
@@ -6146,7 +6146,7 @@
   },
   {
     "id": "9kj446",
-    "name": "Character_769",
+    "name": "Anime Character 769",
     "location": "Iwa",
     "health": "Critical",
     "power": 1486,
@@ -6154,7 +6154,7 @@
   },
   {
     "id": "ouer4f",
-    "name": "Character_770",
+    "name": "Anime Character 770",
     "location": "Suna",
     "health": "Injured",
     "power": 4831,
@@ -6162,7 +6162,7 @@
   },
   {
     "id": "qot5lw",
-    "name": "Character_771",
+    "name": "Anime Character 771",
     "location": "Iwa",
     "health": "Critical",
     "power": 6556,
@@ -6170,7 +6170,7 @@
   },
   {
     "id": "ghu3e3",
-    "name": "Character_772",
+    "name": "Anime Character 772",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2059,
@@ -6178,7 +6178,7 @@
   },
   {
     "id": "n9hxvc",
-    "name": "Character_773",
+    "name": "Anime Character 773",
     "location": "Kumo",
     "health": "Healthy",
     "power": 9945,
@@ -6186,7 +6186,7 @@
   },
   {
     "id": "1m7dxj",
-    "name": "Character_774",
+    "name": "Anime Character 774",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3814,
@@ -6194,7 +6194,7 @@
   },
   {
     "id": "1aywd3",
-    "name": "Character_775",
+    "name": "Anime Character 775",
     "location": "Kiri",
     "health": "Injured",
     "power": 7919,
@@ -6202,7 +6202,7 @@
   },
   {
     "id": "uokxaz",
-    "name": "Character_776",
+    "name": "Anime Character 776",
     "location": "Kiri",
     "health": "Injured",
     "power": 9014,
@@ -6210,7 +6210,7 @@
   },
   {
     "id": "627cwn",
-    "name": "Character_777",
+    "name": "Anime Character 777",
     "location": "Konoha",
     "health": "Critical",
     "power": 3488,
@@ -6218,7 +6218,7 @@
   },
   {
     "id": "9c3f06",
-    "name": "Character_778",
+    "name": "Anime Character 778",
     "location": "Konoha",
     "health": "Healthy",
     "power": 2387,
@@ -6226,7 +6226,7 @@
   },
   {
     "id": "yk5f0q",
-    "name": "Character_779",
+    "name": "Anime Character 779",
     "location": "Konoha",
     "health": "Injured",
     "power": 6769,
@@ -6234,7 +6234,7 @@
   },
   {
     "id": "y2lo46",
-    "name": "Character_780",
+    "name": "Anime Character 780",
     "location": "Kiri",
     "health": "Injured",
     "power": 8721,
@@ -6242,7 +6242,7 @@
   },
   {
     "id": "ki7o4l",
-    "name": "Character_781",
+    "name": "Anime Character 781",
     "location": "Konoha",
     "health": "Healthy",
     "power": 6842,
@@ -6250,7 +6250,7 @@
   },
   {
     "id": "a6sab0",
-    "name": "Character_782",
+    "name": "Anime Character 782",
     "location": "Suna",
     "health": "Healthy",
     "power": 6915,
@@ -6258,7 +6258,7 @@
   },
   {
     "id": "tmdcre",
-    "name": "Character_783",
+    "name": "Anime Character 783",
     "location": "Kiri",
     "health": "Injured",
     "power": 8176,
@@ -6266,7 +6266,7 @@
   },
   {
     "id": "ojprg4",
-    "name": "Character_784",
+    "name": "Anime Character 784",
     "location": "Iwa",
     "health": "Critical",
     "power": 4795,
@@ -6274,7 +6274,7 @@
   },
   {
     "id": "13ll1n",
-    "name": "Character_785",
+    "name": "Anime Character 785",
     "location": "Iwa",
     "health": "Critical",
     "power": 1888,
@@ -6282,7 +6282,7 @@
   },
   {
     "id": "vg56mt",
-    "name": "Character_786",
+    "name": "Anime Character 786",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5509,
@@ -6290,7 +6290,7 @@
   },
   {
     "id": "64z7aj",
-    "name": "Character_787",
+    "name": "Anime Character 787",
     "location": "Iwa",
     "health": "Critical",
     "power": 9196,
@@ -6298,7 +6298,7 @@
   },
   {
     "id": "vmgm40",
-    "name": "Character_788",
+    "name": "Anime Character 788",
     "location": "Kiri",
     "health": "Injured",
     "power": 8977,
@@ -6306,7 +6306,7 @@
   },
   {
     "id": "5t15kb",
-    "name": "Character_789",
+    "name": "Anime Character 789",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1674,
@@ -6314,7 +6314,7 @@
   },
   {
     "id": "o0fesr",
-    "name": "Character_790",
+    "name": "Anime Character 790",
     "location": "Suna",
     "health": "Healthy",
     "power": 206,
@@ -6322,7 +6322,7 @@
   },
   {
     "id": "z8cb2d",
-    "name": "Character_791",
+    "name": "Anime Character 791",
     "location": "Suna",
     "health": "Healthy",
     "power": 6117,
@@ -6330,7 +6330,7 @@
   },
   {
     "id": "17ms4r",
-    "name": "Character_792",
+    "name": "Anime Character 792",
     "location": "Suna",
     "health": "Injured",
     "power": 2201,
@@ -6338,7 +6338,7 @@
   },
   {
     "id": "r0cx9w",
-    "name": "Character_793",
+    "name": "Anime Character 793",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4469,
@@ -6346,7 +6346,7 @@
   },
   {
     "id": "nim09e",
-    "name": "Character_794",
+    "name": "Anime Character 794",
     "location": "Kiri",
     "health": "Critical",
     "power": 5352,
@@ -6354,7 +6354,7 @@
   },
   {
     "id": "41ee4s",
-    "name": "Character_795",
+    "name": "Anime Character 795",
     "location": "Kumo",
     "health": "Healthy",
     "power": 2685,
@@ -6362,7 +6362,7 @@
   },
   {
     "id": "1zmtav",
-    "name": "Character_796",
+    "name": "Anime Character 796",
     "location": "Kiri",
     "health": "Injured",
     "power": 5933,
@@ -6370,7 +6370,7 @@
   },
   {
     "id": "8dk34i",
-    "name": "Character_797",
+    "name": "Anime Character 797",
     "location": "Konoha",
     "health": "Critical",
     "power": 9395,
@@ -6378,7 +6378,7 @@
   },
   {
     "id": "8ck1w9",
-    "name": "Character_798",
+    "name": "Anime Character 798",
     "location": "Konoha",
     "health": "Critical",
     "power": 6590,
@@ -6386,7 +6386,7 @@
   },
   {
     "id": "chn2s4",
-    "name": "Character_799",
+    "name": "Anime Character 799",
     "location": "Kiri",
     "health": "Injured",
     "power": 7907,
@@ -6394,7 +6394,7 @@
   },
   {
     "id": "eiv49z",
-    "name": "Character_800",
+    "name": "Anime Character 800",
     "location": "Konoha",
     "health": "Healthy",
     "power": 8411,
@@ -6402,7 +6402,7 @@
   },
   {
     "id": "3rffj5",
-    "name": "Character_801",
+    "name": "Anime Character 801",
     "location": "Suna",
     "health": "Healthy",
     "power": 4849,
@@ -6410,7 +6410,7 @@
   },
   {
     "id": "7lklj9",
-    "name": "Character_802",
+    "name": "Anime Character 802",
     "location": "Suna",
     "health": "Healthy",
     "power": 6212,
@@ -6418,7 +6418,7 @@
   },
   {
     "id": "c02xz8",
-    "name": "Character_803",
+    "name": "Anime Character 803",
     "location": "Kiri",
     "health": "Critical",
     "power": 2212,
@@ -6426,7 +6426,7 @@
   },
   {
     "id": "8w8u56",
-    "name": "Character_804",
+    "name": "Anime Character 804",
     "location": "Iwa",
     "health": "Injured",
     "power": 4205,
@@ -6434,7 +6434,7 @@
   },
   {
     "id": "wrgrhc",
-    "name": "Character_805",
+    "name": "Anime Character 805",
     "location": "Kumo",
     "health": "Critical",
     "power": 5517,
@@ -6442,7 +6442,7 @@
   },
   {
     "id": "r7kqjp",
-    "name": "Character_806",
+    "name": "Anime Character 806",
     "location": "Suna",
     "health": "Critical",
     "power": 2294,
@@ -6450,7 +6450,7 @@
   },
   {
     "id": "707qi8",
-    "name": "Character_807",
+    "name": "Anime Character 807",
     "location": "Konoha",
     "health": "Injured",
     "power": 509,
@@ -6458,7 +6458,7 @@
   },
   {
     "id": "oq6wa7",
-    "name": "Character_808",
+    "name": "Anime Character 808",
     "location": "Suna",
     "health": "Critical",
     "power": 1185,
@@ -6466,7 +6466,7 @@
   },
   {
     "id": "n5raj5",
-    "name": "Character_809",
+    "name": "Anime Character 809",
     "location": "Kiri",
     "health": "Injured",
     "power": 556,
@@ -6474,7 +6474,7 @@
   },
   {
     "id": "g8m67z",
-    "name": "Character_810",
+    "name": "Anime Character 810",
     "location": "Kumo",
     "health": "Critical",
     "power": 9262,
@@ -6482,7 +6482,7 @@
   },
   {
     "id": "xwwgit",
-    "name": "Character_811",
+    "name": "Anime Character 811",
     "location": "Suna",
     "health": "Healthy",
     "power": 8904,
@@ -6490,7 +6490,7 @@
   },
   {
     "id": "c0mgqp",
-    "name": "Character_812",
+    "name": "Anime Character 812",
     "location": "Konoha",
     "health": "Injured",
     "power": 5345,
@@ -6498,7 +6498,7 @@
   },
   {
     "id": "ou8t3q",
-    "name": "Character_813",
+    "name": "Anime Character 813",
     "location": "Iwa",
     "health": "Injured",
     "power": 4021,
@@ -6506,7 +6506,7 @@
   },
   {
     "id": "o7ethj",
-    "name": "Character_814",
+    "name": "Anime Character 814",
     "location": "Iwa",
     "health": "Critical",
     "power": 253,
@@ -6514,7 +6514,7 @@
   },
   {
     "id": "r0ru13",
-    "name": "Character_815",
+    "name": "Anime Character 815",
     "location": "Kiri",
     "health": "Healthy",
     "power": 5719,
@@ -6522,7 +6522,7 @@
   },
   {
     "id": "cyj2xw",
-    "name": "Character_816",
+    "name": "Anime Character 816",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5582,
@@ -6530,7 +6530,7 @@
   },
   {
     "id": "wwf3sh",
-    "name": "Character_817",
+    "name": "Anime Character 817",
     "location": "Kumo",
     "health": "Injured",
     "power": 8052,
@@ -6538,7 +6538,7 @@
   },
   {
     "id": "bwogcn",
-    "name": "Character_818",
+    "name": "Anime Character 818",
     "location": "Suna",
     "health": "Critical",
     "power": 2195,
@@ -6546,7 +6546,7 @@
   },
   {
     "id": "kuk56h",
-    "name": "Character_819",
+    "name": "Anime Character 819",
     "location": "Iwa",
     "health": "Critical",
     "power": 9616,
@@ -6554,7 +6554,7 @@
   },
   {
     "id": "gwujl5",
-    "name": "Character_820",
+    "name": "Anime Character 820",
     "location": "Konoha",
     "health": "Healthy",
     "power": 6252,
@@ -6562,7 +6562,7 @@
   },
   {
     "id": "052w7r",
-    "name": "Character_821",
+    "name": "Anime Character 821",
     "location": "Kumo",
     "health": "Critical",
     "power": 4713,
@@ -6570,7 +6570,7 @@
   },
   {
     "id": "gctybb",
-    "name": "Character_822",
+    "name": "Anime Character 822",
     "location": "Kumo",
     "health": "Critical",
     "power": 5778,
@@ -6578,7 +6578,7 @@
   },
   {
     "id": "gxg5i7",
-    "name": "Character_823",
+    "name": "Anime Character 823",
     "location": "Kiri",
     "health": "Healthy",
     "power": 5864,
@@ -6586,7 +6586,7 @@
   },
   {
     "id": "q77adk",
-    "name": "Character_824",
+    "name": "Anime Character 824",
     "location": "Iwa",
     "health": "Injured",
     "power": 9204,
@@ -6594,7 +6594,7 @@
   },
   {
     "id": "nf0w3d",
-    "name": "Character_825",
+    "name": "Anime Character 825",
     "location": "Kiri",
     "health": "Critical",
     "power": 4116,
@@ -6602,7 +6602,7 @@
   },
   {
     "id": "bcwmdz",
-    "name": "Character_826",
+    "name": "Anime Character 826",
     "location": "Konoha",
     "health": "Critical",
     "power": 2310,
@@ -6610,7 +6610,7 @@
   },
   {
     "id": "0umepk",
-    "name": "Character_827",
+    "name": "Anime Character 827",
     "location": "Iwa",
     "health": "Healthy",
     "power": 5543,
@@ -6618,7 +6618,7 @@
   },
   {
     "id": "nv6kqx",
-    "name": "Character_828",
+    "name": "Anime Character 828",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8102,
@@ -6626,7 +6626,7 @@
   },
   {
     "id": "w1vgqs",
-    "name": "Character_829",
+    "name": "Anime Character 829",
     "location": "Kumo",
     "health": "Injured",
     "power": 3309,
@@ -6634,7 +6634,7 @@
   },
   {
     "id": "d58yji",
-    "name": "Character_830",
+    "name": "Anime Character 830",
     "location": "Kumo",
     "health": "Injured",
     "power": 1928,
@@ -6642,7 +6642,7 @@
   },
   {
     "id": "e7n71g",
-    "name": "Character_831",
+    "name": "Anime Character 831",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1780,
@@ -6650,7 +6650,7 @@
   },
   {
     "id": "1gsddw",
-    "name": "Character_832",
+    "name": "Anime Character 832",
     "location": "Iwa",
     "health": "Critical",
     "power": 9502,
@@ -6658,7 +6658,7 @@
   },
   {
     "id": "uep4u3",
-    "name": "Character_833",
+    "name": "Anime Character 833",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4983,
@@ -6666,7 +6666,7 @@
   },
   {
     "id": "rtov00",
-    "name": "Character_834",
+    "name": "Anime Character 834",
     "location": "Suna",
     "health": "Injured",
     "power": 608,
@@ -6674,7 +6674,7 @@
   },
   {
     "id": "mr6evj",
-    "name": "Character_835",
+    "name": "Anime Character 835",
     "location": "Iwa",
     "health": "Healthy",
     "power": 6110,
@@ -6682,7 +6682,7 @@
   },
   {
     "id": "wuoin1",
-    "name": "Character_836",
+    "name": "Anime Character 836",
     "location": "Kiri",
     "health": "Healthy",
     "power": 8307,
@@ -6690,7 +6690,7 @@
   },
   {
     "id": "i37mu1",
-    "name": "Character_837",
+    "name": "Anime Character 837",
     "location": "Kumo",
     "health": "Injured",
     "power": 2484,
@@ -6698,7 +6698,7 @@
   },
   {
     "id": "gbbplw",
-    "name": "Character_838",
+    "name": "Anime Character 838",
     "location": "Kiri",
     "health": "Injured",
     "power": 2336,
@@ -6706,7 +6706,7 @@
   },
   {
     "id": "5nwa1d",
-    "name": "Character_839",
+    "name": "Anime Character 839",
     "location": "Konoha",
     "health": "Healthy",
     "power": 7903,
@@ -6714,7 +6714,7 @@
   },
   {
     "id": "npg18c",
-    "name": "Character_840",
+    "name": "Anime Character 840",
     "location": "Iwa",
     "health": "Healthy",
     "power": 9825,
@@ -6722,7 +6722,7 @@
   },
   {
     "id": "vjgnwh",
-    "name": "Character_841",
+    "name": "Anime Character 841",
     "location": "Kumo",
     "health": "Injured",
     "power": 9081,
@@ -6730,7 +6730,7 @@
   },
   {
     "id": "lg361f",
-    "name": "Character_842",
+    "name": "Anime Character 842",
     "location": "Kumo",
     "health": "Healthy",
     "power": 1155,
@@ -6738,7 +6738,7 @@
   },
   {
     "id": "29nh9y",
-    "name": "Character_843",
+    "name": "Anime Character 843",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7683,
@@ -6746,7 +6746,7 @@
   },
   {
     "id": "eqboaj",
-    "name": "Character_844",
+    "name": "Anime Character 844",
     "location": "Konoha",
     "health": "Critical",
     "power": 2175,
@@ -6754,7 +6754,7 @@
   },
   {
     "id": "85x3hb",
-    "name": "Character_845",
+    "name": "Anime Character 845",
     "location": "Kiri",
     "health": "Critical",
     "power": 7805,
@@ -6762,7 +6762,7 @@
   },
   {
     "id": "kc6otr",
-    "name": "Character_846",
+    "name": "Anime Character 846",
     "location": "Kiri",
     "health": "Injured",
     "power": 5317,
@@ -6770,7 +6770,7 @@
   },
   {
     "id": "up6a2c",
-    "name": "Character_847",
+    "name": "Anime Character 847",
     "location": "Kiri",
     "health": "Injured",
     "power": 9055,
@@ -6778,7 +6778,7 @@
   },
   {
     "id": "feot12",
-    "name": "Character_848",
+    "name": "Anime Character 848",
     "location": "Konoha",
     "health": "Injured",
     "power": 634,
@@ -6786,7 +6786,7 @@
   },
   {
     "id": "xqttea",
-    "name": "Character_849",
+    "name": "Anime Character 849",
     "location": "Kiri",
     "health": "Injured",
     "power": 6337,
@@ -6794,7 +6794,7 @@
   },
   {
     "id": "jmpi20",
-    "name": "Character_850",
+    "name": "Anime Character 850",
     "location": "Konoha",
     "health": "Injured",
     "power": 9962,
@@ -6802,7 +6802,7 @@
   },
   {
     "id": "lclno0",
-    "name": "Character_851",
+    "name": "Anime Character 851",
     "location": "Iwa",
     "health": "Injured",
     "power": 534,
@@ -6810,7 +6810,7 @@
   },
   {
     "id": "a6wtsw",
-    "name": "Character_852",
+    "name": "Anime Character 852",
     "location": "Iwa",
     "health": "Critical",
     "power": 2483,
@@ -6818,7 +6818,7 @@
   },
   {
     "id": "z5rlzq",
-    "name": "Character_853",
+    "name": "Anime Character 853",
     "location": "Suna",
     "health": "Injured",
     "power": 5566,
@@ -6826,7 +6826,7 @@
   },
   {
     "id": "6orytd",
-    "name": "Character_854",
+    "name": "Anime Character 854",
     "location": "Kiri",
     "health": "Critical",
     "power": 8522,
@@ -6834,7 +6834,7 @@
   },
   {
     "id": "mf1poa",
-    "name": "Character_855",
+    "name": "Anime Character 855",
     "location": "Konoha",
     "health": "Critical",
     "power": 2256,
@@ -6842,7 +6842,7 @@
   },
   {
     "id": "ggrjml",
-    "name": "Character_856",
+    "name": "Anime Character 856",
     "location": "Kumo",
     "health": "Injured",
     "power": 8757,
@@ -6850,7 +6850,7 @@
   },
   {
     "id": "j7i3sb",
-    "name": "Character_857",
+    "name": "Anime Character 857",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4858,
@@ -6858,7 +6858,7 @@
   },
   {
     "id": "ca43pg",
-    "name": "Character_858",
+    "name": "Anime Character 858",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4222,
@@ -6866,7 +6866,7 @@
   },
   {
     "id": "q1gfn0",
-    "name": "Character_859",
+    "name": "Anime Character 859",
     "location": "Iwa",
     "health": "Healthy",
     "power": 334,
@@ -6874,7 +6874,7 @@
   },
   {
     "id": "2y09ai",
-    "name": "Character_860",
+    "name": "Anime Character 860",
     "location": "Konoha",
     "health": "Healthy",
     "power": 3429,
@@ -6882,7 +6882,7 @@
   },
   {
     "id": "9gidw6",
-    "name": "Character_861",
+    "name": "Anime Character 861",
     "location": "Kiri",
     "health": "Healthy",
     "power": 8870,
@@ -6890,7 +6890,7 @@
   },
   {
     "id": "13lj6z",
-    "name": "Character_862",
+    "name": "Anime Character 862",
     "location": "Kumo",
     "health": "Injured",
     "power": 293,
@@ -6898,7 +6898,7 @@
   },
   {
     "id": "u9kwfb",
-    "name": "Character_863",
+    "name": "Anime Character 863",
     "location": "Iwa",
     "health": "Healthy",
     "power": 1957,
@@ -6906,7 +6906,7 @@
   },
   {
     "id": "nrvikw",
-    "name": "Character_864",
+    "name": "Anime Character 864",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6736,
@@ -6914,7 +6914,7 @@
   },
   {
     "id": "0lq4x1",
-    "name": "Character_865",
+    "name": "Anime Character 865",
     "location": "Iwa",
     "health": "Critical",
     "power": 8833,
@@ -6922,7 +6922,7 @@
   },
   {
     "id": "chr8u1",
-    "name": "Character_866",
+    "name": "Anime Character 866",
     "location": "Kumo",
     "health": "Injured",
     "power": 5210,
@@ -6930,7 +6930,7 @@
   },
   {
     "id": "nt7rsb",
-    "name": "Character_867",
+    "name": "Anime Character 867",
     "location": "Kiri",
     "health": "Injured",
     "power": 9677,
@@ -6938,7 +6938,7 @@
   },
   {
     "id": "zvx96i",
-    "name": "Character_868",
+    "name": "Anime Character 868",
     "location": "Kiri",
     "health": "Critical",
     "power": 620,
@@ -6946,7 +6946,7 @@
   },
   {
     "id": "8w5klz",
-    "name": "Character_869",
+    "name": "Anime Character 869",
     "location": "Konoha",
     "health": "Injured",
     "power": 1095,
@@ -6954,7 +6954,7 @@
   },
   {
     "id": "qvuo5a",
-    "name": "Character_870",
+    "name": "Anime Character 870",
     "location": "Konoha",
     "health": "Healthy",
     "power": 9219,
@@ -6962,7 +6962,7 @@
   },
   {
     "id": "vhcvuj",
-    "name": "Character_871",
+    "name": "Anime Character 871",
     "location": "Iwa",
     "health": "Injured",
     "power": 3837,
@@ -6970,7 +6970,7 @@
   },
   {
     "id": "cpnysw",
-    "name": "Character_872",
+    "name": "Anime Character 872",
     "location": "Iwa",
     "health": "Injured",
     "power": 950,
@@ -6978,7 +6978,7 @@
   },
   {
     "id": "w7jocn",
-    "name": "Character_873",
+    "name": "Anime Character 873",
     "location": "Kumo",
     "health": "Healthy",
     "power": 4788,
@@ -6986,7 +6986,7 @@
   },
   {
     "id": "02l9mv",
-    "name": "Character_874",
+    "name": "Anime Character 874",
     "location": "Kiri",
     "health": "Injured",
     "power": 1822,
@@ -6994,7 +6994,7 @@
   },
   {
     "id": "1x7h4r",
-    "name": "Character_875",
+    "name": "Anime Character 875",
     "location": "Kiri",
     "health": "Injured",
     "power": 264,
@@ -7002,7 +7002,7 @@
   },
   {
     "id": "fifurz",
-    "name": "Character_876",
+    "name": "Anime Character 876",
     "location": "Kumo",
     "health": "Critical",
     "power": 2165,
@@ -7010,7 +7010,7 @@
   },
   {
     "id": "fmu10l",
-    "name": "Character_877",
+    "name": "Anime Character 877",
     "location": "Suna",
     "health": "Critical",
     "power": 7731,
@@ -7018,7 +7018,7 @@
   },
   {
     "id": "p7vc6d",
-    "name": "Character_878",
+    "name": "Anime Character 878",
     "location": "Kiri",
     "health": "Critical",
     "power": 5806,
@@ -7026,7 +7026,7 @@
   },
   {
     "id": "e5mxd1",
-    "name": "Character_879",
+    "name": "Anime Character 879",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6980,
@@ -7034,7 +7034,7 @@
   },
   {
     "id": "0gzqvk",
-    "name": "Character_880",
+    "name": "Anime Character 880",
     "location": "Suna",
     "health": "Injured",
     "power": 1733,
@@ -7042,7 +7042,7 @@
   },
   {
     "id": "owbyxp",
-    "name": "Character_881",
+    "name": "Anime Character 881",
     "location": "Iwa",
     "health": "Critical",
     "power": 2469,
@@ -7050,7 +7050,7 @@
   },
   {
     "id": "b6lez9",
-    "name": "Character_882",
+    "name": "Anime Character 882",
     "location": "Kiri",
     "health": "Healthy",
     "power": 597,
@@ -7058,7 +7058,7 @@
   },
   {
     "id": "p4yaf0",
-    "name": "Character_883",
+    "name": "Anime Character 883",
     "location": "Konoha",
     "health": "Injured",
     "power": 3279,
@@ -7066,7 +7066,7 @@
   },
   {
     "id": "4hha42",
-    "name": "Character_884",
+    "name": "Anime Character 884",
     "location": "Konoha",
     "health": "Injured",
     "power": 365,
@@ -7074,7 +7074,7 @@
   },
   {
     "id": "rz156s",
-    "name": "Character_885",
+    "name": "Anime Character 885",
     "location": "Konoha",
     "health": "Critical",
     "power": 3531,
@@ -7082,7 +7082,7 @@
   },
   {
     "id": "7y5d4l",
-    "name": "Character_886",
+    "name": "Anime Character 886",
     "location": "Iwa",
     "health": "Critical",
     "power": 9366,
@@ -7090,7 +7090,7 @@
   },
   {
     "id": "usjz3z",
-    "name": "Character_887",
+    "name": "Anime Character 887",
     "location": "Kumo",
     "health": "Injured",
     "power": 4923,
@@ -7098,7 +7098,7 @@
   },
   {
     "id": "a9cgxh",
-    "name": "Character_888",
+    "name": "Anime Character 888",
     "location": "Suna",
     "health": "Critical",
     "power": 8199,
@@ -7106,7 +7106,7 @@
   },
   {
     "id": "cwjjwv",
-    "name": "Character_889",
+    "name": "Anime Character 889",
     "location": "Iwa",
     "health": "Healthy",
     "power": 6217,
@@ -7114,7 +7114,7 @@
   },
   {
     "id": "xn8ivk",
-    "name": "Character_890",
+    "name": "Anime Character 890",
     "location": "Konoha",
     "health": "Injured",
     "power": 2609,
@@ -7122,7 +7122,7 @@
   },
   {
     "id": "wobfhr",
-    "name": "Character_891",
+    "name": "Anime Character 891",
     "location": "Iwa",
     "health": "Injured",
     "power": 1706,
@@ -7130,7 +7130,7 @@
   },
   {
     "id": "lqohgh",
-    "name": "Character_892",
+    "name": "Anime Character 892",
     "location": "Konoha",
     "health": "Injured",
     "power": 8272,
@@ -7138,7 +7138,7 @@
   },
   {
     "id": "iwqydz",
-    "name": "Character_893",
+    "name": "Anime Character 893",
     "location": "Iwa",
     "health": "Injured",
     "power": 6632,
@@ -7146,7 +7146,7 @@
   },
   {
     "id": "t0ni9i",
-    "name": "Character_894",
+    "name": "Anime Character 894",
     "location": "Iwa",
     "health": "Critical",
     "power": 462,
@@ -7154,7 +7154,7 @@
   },
   {
     "id": "xl6f08",
-    "name": "Character_895",
+    "name": "Anime Character 895",
     "location": "Kumo",
     "health": "Injured",
     "power": 206,
@@ -7162,7 +7162,7 @@
   },
   {
     "id": "0f7ait",
-    "name": "Character_896",
+    "name": "Anime Character 896",
     "location": "Iwa",
     "health": "Critical",
     "power": 4678,
@@ -7170,7 +7170,7 @@
   },
   {
     "id": "xek2mo",
-    "name": "Character_897",
+    "name": "Anime Character 897",
     "location": "Kiri",
     "health": "Critical",
     "power": 5594,
@@ -7178,7 +7178,7 @@
   },
   {
     "id": "f9777i",
-    "name": "Character_898",
+    "name": "Anime Character 898",
     "location": "Konoha",
     "health": "Healthy",
     "power": 5278,
@@ -7186,7 +7186,7 @@
   },
   {
     "id": "20lpcj",
-    "name": "Character_899",
+    "name": "Anime Character 899",
     "location": "Kiri",
     "health": "Injured",
     "power": 6235,
@@ -7194,7 +7194,7 @@
   },
   {
     "id": "yb9x46",
-    "name": "Character_900",
+    "name": "Anime Character 900",
     "location": "Iwa",
     "health": "Healthy",
     "power": 9727,
@@ -7202,7 +7202,7 @@
   },
   {
     "id": "gtvt7g",
-    "name": "Character_901",
+    "name": "Anime Character 901",
     "location": "Kumo",
     "health": "Critical",
     "power": 4056,
@@ -7210,7 +7210,7 @@
   },
   {
     "id": "yywwm2",
-    "name": "Character_902",
+    "name": "Anime Character 902",
     "location": "Iwa",
     "health": "Critical",
     "power": 8764,
@@ -7218,7 +7218,7 @@
   },
   {
     "id": "bf2iq5",
-    "name": "Character_903",
+    "name": "Anime Character 903",
     "location": "Kumo",
     "health": "Healthy",
     "power": 270,
@@ -7226,7 +7226,7 @@
   },
   {
     "id": "7uhcsa",
-    "name": "Character_904",
+    "name": "Anime Character 904",
     "location": "Iwa",
     "health": "Critical",
     "power": 7431,
@@ -7234,7 +7234,7 @@
   },
   {
     "id": "chzyus",
-    "name": "Character_905",
+    "name": "Anime Character 905",
     "location": "Kumo",
     "health": "Critical",
     "power": 9725,
@@ -7242,7 +7242,7 @@
   },
   {
     "id": "0z9tmm",
-    "name": "Character_906",
+    "name": "Anime Character 906",
     "location": "Konoha",
     "health": "Critical",
     "power": 923,
@@ -7250,7 +7250,7 @@
   },
   {
     "id": "m6v2ie",
-    "name": "Character_907",
+    "name": "Anime Character 907",
     "location": "Konoha",
     "health": "Healthy",
     "power": 6250,
@@ -7258,7 +7258,7 @@
   },
   {
     "id": "imphdq",
-    "name": "Character_908",
+    "name": "Anime Character 908",
     "location": "Kumo",
     "health": "Injured",
     "power": 8180,
@@ -7266,7 +7266,7 @@
   },
   {
     "id": "2j4odm",
-    "name": "Character_909",
+    "name": "Anime Character 909",
     "location": "Suna",
     "health": "Healthy",
     "power": 3325,
@@ -7274,7 +7274,7 @@
   },
   {
     "id": "9wsbvl",
-    "name": "Character_910",
+    "name": "Anime Character 910",
     "location": "Kiri",
     "health": "Injured",
     "power": 3421,
@@ -7282,7 +7282,7 @@
   },
   {
     "id": "rkksqb",
-    "name": "Character_911",
+    "name": "Anime Character 911",
     "location": "Kiri",
     "health": "Healthy",
     "power": 2420,
@@ -7290,7 +7290,7 @@
   },
   {
     "id": "jy16za",
-    "name": "Character_912",
+    "name": "Anime Character 912",
     "location": "Kumo",
     "health": "Critical",
     "power": 7589,
@@ -7298,7 +7298,7 @@
   },
   {
     "id": "1bnftd",
-    "name": "Character_913",
+    "name": "Anime Character 913",
     "location": "Iwa",
     "health": "Healthy",
     "power": 6532,
@@ -7306,7 +7306,7 @@
   },
   {
     "id": "r31emc",
-    "name": "Character_914",
+    "name": "Anime Character 914",
     "location": "Kiri",
     "health": "Injured",
     "power": 3350,
@@ -7314,7 +7314,7 @@
   },
   {
     "id": "fe9ua0",
-    "name": "Character_915",
+    "name": "Anime Character 915",
     "location": "Suna",
     "health": "Injured",
     "power": 897,
@@ -7322,7 +7322,7 @@
   },
   {
     "id": "dtt0ic",
-    "name": "Character_916",
+    "name": "Anime Character 916",
     "location": "Konoha",
     "health": "Critical",
     "power": 6809,
@@ -7330,7 +7330,7 @@
   },
   {
     "id": "tp5rlr",
-    "name": "Character_917",
+    "name": "Anime Character 917",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6995,
@@ -7338,7 +7338,7 @@
   },
   {
     "id": "nmiz2b",
-    "name": "Character_918",
+    "name": "Anime Character 918",
     "location": "Suna",
     "health": "Healthy",
     "power": 3065,
@@ -7346,7 +7346,7 @@
   },
   {
     "id": "ppko25",
-    "name": "Character_919",
+    "name": "Anime Character 919",
     "location": "Kiri",
     "health": "Injured",
     "power": 3728,
@@ -7354,7 +7354,7 @@
   },
   {
     "id": "uvc4mr",
-    "name": "Character_920",
+    "name": "Anime Character 920",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3525,
@@ -7362,7 +7362,7 @@
   },
   {
     "id": "5l7lqb",
-    "name": "Character_921",
+    "name": "Anime Character 921",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7361,
@@ -7370,7 +7370,7 @@
   },
   {
     "id": "s2wd05",
-    "name": "Character_922",
+    "name": "Anime Character 922",
     "location": "Kumo",
     "health": "Injured",
     "power": 5293,
@@ -7378,7 +7378,7 @@
   },
   {
     "id": "rc7n3t",
-    "name": "Character_923",
+    "name": "Anime Character 923",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4217,
@@ -7386,7 +7386,7 @@
   },
   {
     "id": "fktyyr",
-    "name": "Character_924",
+    "name": "Anime Character 924",
     "location": "Suna",
     "health": "Healthy",
     "power": 9986,
@@ -7394,7 +7394,7 @@
   },
   {
     "id": "t0kksi",
-    "name": "Character_925",
+    "name": "Anime Character 925",
     "location": "Konoha",
     "health": "Critical",
     "power": 4983,
@@ -7402,7 +7402,7 @@
   },
   {
     "id": "caa4yq",
-    "name": "Character_926",
+    "name": "Anime Character 926",
     "location": "Suna",
     "health": "Injured",
     "power": 4695,
@@ -7410,7 +7410,7 @@
   },
   {
     "id": "mjym5l",
-    "name": "Character_927",
+    "name": "Anime Character 927",
     "location": "Kumo",
     "health": "Injured",
     "power": 2529,
@@ -7418,7 +7418,7 @@
   },
   {
     "id": "zan2e9",
-    "name": "Character_928",
+    "name": "Anime Character 928",
     "location": "Konoha",
     "health": "Critical",
     "power": 450,
@@ -7426,7 +7426,7 @@
   },
   {
     "id": "22x19e",
-    "name": "Character_929",
+    "name": "Anime Character 929",
     "location": "Kumo",
     "health": "Injured",
     "power": 7206,
@@ -7434,7 +7434,7 @@
   },
   {
     "id": "6ji18m",
-    "name": "Character_930",
+    "name": "Anime Character 930",
     "location": "Kiri",
     "health": "Healthy",
     "power": 7190,
@@ -7442,7 +7442,7 @@
   },
   {
     "id": "blu1s7",
-    "name": "Character_931",
+    "name": "Anime Character 931",
     "location": "Iwa",
     "health": "Injured",
     "power": 1836,
@@ -7450,7 +7450,7 @@
   },
   {
     "id": "8r17c9",
-    "name": "Character_932",
+    "name": "Anime Character 932",
     "location": "Iwa",
     "health": "Injured",
     "power": 1874,
@@ -7458,7 +7458,7 @@
   },
   {
     "id": "sttzpg",
-    "name": "Character_933",
+    "name": "Anime Character 933",
     "location": "Konoha",
     "health": "Injured",
     "power": 5730,
@@ -7466,7 +7466,7 @@
   },
   {
     "id": "u2i029",
-    "name": "Character_934",
+    "name": "Anime Character 934",
     "location": "Konoha",
     "health": "Healthy",
     "power": 514,
@@ -7474,7 +7474,7 @@
   },
   {
     "id": "q0au0b",
-    "name": "Character_935",
+    "name": "Anime Character 935",
     "location": "Konoha",
     "health": "Critical",
     "power": 684,
@@ -7482,7 +7482,7 @@
   },
   {
     "id": "zrqxk6",
-    "name": "Character_936",
+    "name": "Anime Character 936",
     "location": "Kumo",
     "health": "Healthy",
     "power": 6869,
@@ -7490,7 +7490,7 @@
   },
   {
     "id": "smhip5",
-    "name": "Character_937",
+    "name": "Anime Character 937",
     "location": "Suna",
     "health": "Injured",
     "power": 1981,
@@ -7498,7 +7498,7 @@
   },
   {
     "id": "4cc4mx",
-    "name": "Character_938",
+    "name": "Anime Character 938",
     "location": "Iwa",
     "health": "Healthy",
     "power": 3496,
@@ -7506,7 +7506,7 @@
   },
   {
     "id": "w7dvsm",
-    "name": "Character_939",
+    "name": "Anime Character 939",
     "location": "Konoha",
     "health": "Healthy",
     "power": 4917,
@@ -7514,7 +7514,7 @@
   },
   {
     "id": "y4zspv",
-    "name": "Character_940",
+    "name": "Anime Character 940",
     "location": "Konoha",
     "health": "Critical",
     "power": 1884,
@@ -7522,7 +7522,7 @@
   },
   {
     "id": "rp63nv",
-    "name": "Character_941",
+    "name": "Anime Character 941",
     "location": "Kumo",
     "health": "Injured",
     "power": 4593,
@@ -7530,7 +7530,7 @@
   },
   {
     "id": "a4jypl",
-    "name": "Character_942",
+    "name": "Anime Character 942",
     "location": "Kumo",
     "health": "Critical",
     "power": 5737,
@@ -7538,7 +7538,7 @@
   },
   {
     "id": "wp5i2c",
-    "name": "Character_943",
+    "name": "Anime Character 943",
     "location": "Kumo",
     "health": "Injured",
     "power": 875,
@@ -7546,7 +7546,7 @@
   },
   {
     "id": "pnsddx",
-    "name": "Character_944",
+    "name": "Anime Character 944",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8183,
@@ -7554,7 +7554,7 @@
   },
   {
     "id": "pjcupn",
-    "name": "Character_945",
+    "name": "Anime Character 945",
     "location": "Suna",
     "health": "Healthy",
     "power": 466,
@@ -7562,7 +7562,7 @@
   },
   {
     "id": "e0qjeo",
-    "name": "Character_946",
+    "name": "Anime Character 946",
     "location": "Suna",
     "health": "Injured",
     "power": 6793,
@@ -7570,7 +7570,7 @@
   },
   {
     "id": "bue3vl",
-    "name": "Character_947",
+    "name": "Anime Character 947",
     "location": "Kumo",
     "health": "Healthy",
     "power": 9866,
@@ -7578,7 +7578,7 @@
   },
   {
     "id": "853xgj",
-    "name": "Character_948",
+    "name": "Anime Character 948",
     "location": "Iwa",
     "health": "Healthy",
     "power": 8747,
@@ -7586,7 +7586,7 @@
   },
   {
     "id": "mnlex3",
-    "name": "Character_949",
+    "name": "Anime Character 949",
     "location": "Konoha",
     "health": "Healthy",
     "power": 1656,
@@ -7594,7 +7594,7 @@
   },
   {
     "id": "uzcckg",
-    "name": "Character_950",
+    "name": "Anime Character 950",
     "location": "Iwa",
     "health": "Critical",
     "power": 8589,
@@ -7602,7 +7602,7 @@
   },
   {
     "id": "t7nogc",
-    "name": "Character_951",
+    "name": "Anime Character 951",
     "location": "Suna",
     "health": "Critical",
     "power": 8789,
@@ -7610,7 +7610,7 @@
   },
   {
     "id": "1yjzy7",
-    "name": "Character_952",
+    "name": "Anime Character 952",
     "location": "Suna",
     "health": "Healthy",
     "power": 3756,
@@ -7618,7 +7618,7 @@
   },
   {
     "id": "uc1d6a",
-    "name": "Character_953",
+    "name": "Anime Character 953",
     "location": "Konoha",
     "health": "Critical",
     "power": 4245,
@@ -7626,7 +7626,7 @@
   },
   {
     "id": "ibsb5e",
-    "name": "Character_954",
+    "name": "Anime Character 954",
     "location": "Kumo",
     "health": "Injured",
     "power": 1435,
@@ -7634,7 +7634,7 @@
   },
   {
     "id": "rqm0ug",
-    "name": "Character_955",
+    "name": "Anime Character 955",
     "location": "Iwa",
     "health": "Critical",
     "power": 7479,
@@ -7642,7 +7642,7 @@
   },
   {
     "id": "qjrma6",
-    "name": "Character_956",
+    "name": "Anime Character 956",
     "location": "Kiri",
     "health": "Critical",
     "power": 1143,
@@ -7650,7 +7650,7 @@
   },
   {
     "id": "rf2w7r",
-    "name": "Character_957",
+    "name": "Anime Character 957",
     "location": "Suna",
     "health": "Critical",
     "power": 5209,
@@ -7658,7 +7658,7 @@
   },
   {
     "id": "ddwjbm",
-    "name": "Character_958",
+    "name": "Anime Character 958",
     "location": "Konoha",
     "health": "Critical",
     "power": 3495,
@@ -7666,7 +7666,7 @@
   },
   {
     "id": "7m8z3r",
-    "name": "Character_959",
+    "name": "Anime Character 959",
     "location": "Suna",
     "health": "Healthy",
     "power": 2002,
@@ -7674,7 +7674,7 @@
   },
   {
     "id": "jfoe8j",
-    "name": "Character_960",
+    "name": "Anime Character 960",
     "location": "Kiri",
     "health": "Injured",
     "power": 9346,
@@ -7682,7 +7682,7 @@
   },
   {
     "id": "3kjpv6",
-    "name": "Character_961",
+    "name": "Anime Character 961",
     "location": "Kiri",
     "health": "Injured",
     "power": 4488,
@@ -7690,7 +7690,7 @@
   },
   {
     "id": "xad91w",
-    "name": "Character_962",
+    "name": "Anime Character 962",
     "location": "Iwa",
     "health": "Critical",
     "power": 2609,
@@ -7698,7 +7698,7 @@
   },
   {
     "id": "z6dwk8",
-    "name": "Character_963",
+    "name": "Anime Character 963",
     "location": "Kumo",
     "health": "Injured",
     "power": 9357,
@@ -7706,7 +7706,7 @@
   },
   {
     "id": "4z2ntd",
-    "name": "Character_964",
+    "name": "Anime Character 964",
     "location": "Konoha",
     "health": "Injured",
     "power": 856,
@@ -7714,7 +7714,7 @@
   },
   {
     "id": "6bhrjb",
-    "name": "Character_965",
+    "name": "Anime Character 965",
     "location": "Kumo",
     "health": "Healthy",
     "power": 498,
@@ -7722,7 +7722,7 @@
   },
   {
     "id": "ex776k",
-    "name": "Character_966",
+    "name": "Anime Character 966",
     "location": "Kiri",
     "health": "Injured",
     "power": 5905,
@@ -7730,7 +7730,7 @@
   },
   {
     "id": "huomv4",
-    "name": "Character_967",
+    "name": "Anime Character 967",
     "location": "Suna",
     "health": "Injured",
     "power": 5457,
@@ -7738,7 +7738,7 @@
   },
   {
     "id": "g2llir",
-    "name": "Character_968",
+    "name": "Anime Character 968",
     "location": "Iwa",
     "health": "Critical",
     "power": 8600,
@@ -7746,7 +7746,7 @@
   },
   {
     "id": "45wrtr",
-    "name": "Character_969",
+    "name": "Anime Character 969",
     "location": "Suna",
     "health": "Injured",
     "power": 9213,
@@ -7754,7 +7754,7 @@
   },
   {
     "id": "9yer69",
-    "name": "Character_970",
+    "name": "Anime Character 970",
     "location": "Kumo",
     "health": "Critical",
     "power": 5650,
@@ -7762,7 +7762,7 @@
   },
   {
     "id": "r8380q",
-    "name": "Character_971",
+    "name": "Anime Character 971",
     "location": "Konoha",
     "health": "Injured",
     "power": 6354,
@@ -7770,7 +7770,7 @@
   },
   {
     "id": "uvrca5",
-    "name": "Character_972",
+    "name": "Anime Character 972",
     "location": "Konoha",
     "health": "Healthy",
     "power": 5668,
@@ -7778,7 +7778,7 @@
   },
   {
     "id": "5zfsr0",
-    "name": "Character_973",
+    "name": "Anime Character 973",
     "location": "Suna",
     "health": "Healthy",
     "power": 2904,
@@ -7786,7 +7786,7 @@
   },
   {
     "id": "hqn3g6",
-    "name": "Character_974",
+    "name": "Anime Character 974",
     "location": "Konoha",
     "health": "Injured",
     "power": 1654,
@@ -7794,7 +7794,7 @@
   },
   {
     "id": "wsxf3w",
-    "name": "Character_975",
+    "name": "Anime Character 975",
     "location": "Kiri",
     "health": "Critical",
     "power": 4595,
@@ -7802,7 +7802,7 @@
   },
   {
     "id": "oui6ka",
-    "name": "Character_976",
+    "name": "Anime Character 976",
     "location": "Konoha",
     "health": "Healthy",
     "power": 115,
@@ -7810,7 +7810,7 @@
   },
   {
     "id": "pnsf4l",
-    "name": "Character_977",
+    "name": "Anime Character 977",
     "location": "Konoha",
     "health": "Critical",
     "power": 8203,
@@ -7818,7 +7818,7 @@
   },
   {
     "id": "9rm4nu",
-    "name": "Character_978",
+    "name": "Anime Character 978",
     "location": "Kiri",
     "health": "Healthy",
     "power": 6389,
@@ -7826,7 +7826,7 @@
   },
   {
     "id": "rlnmul",
-    "name": "Character_979",
+    "name": "Anime Character 979",
     "location": "Kumo",
     "health": "Healthy",
     "power": 7714,
@@ -7834,7 +7834,7 @@
   },
   {
     "id": "txp5iq",
-    "name": "Character_980",
+    "name": "Anime Character 980",
     "location": "Kiri",
     "health": "Critical",
     "power": 6958,
@@ -7842,7 +7842,7 @@
   },
   {
     "id": "rn83vo",
-    "name": "Character_981",
+    "name": "Anime Character 981",
     "location": "Kumo",
     "health": "Injured",
     "power": 8361,
@@ -7850,7 +7850,7 @@
   },
   {
     "id": "cw7ptg",
-    "name": "Character_982",
+    "name": "Anime Character 982",
     "location": "Konoha",
     "health": "Critical",
     "power": 3855,
@@ -7858,7 +7858,7 @@
   },
   {
     "id": "69goer",
-    "name": "Character_983",
+    "name": "Anime Character 983",
     "location": "Kumo",
     "health": "Healthy",
     "power": 2449,
@@ -7866,7 +7866,7 @@
   },
   {
     "id": "9i1mq2",
-    "name": "Character_984",
+    "name": "Anime Character 984",
     "location": "Suna",
     "health": "Critical",
     "power": 2835,
@@ -7874,7 +7874,7 @@
   },
   {
     "id": "rcutxz",
-    "name": "Character_985",
+    "name": "Anime Character 985",
     "location": "Iwa",
     "health": "Injured",
     "power": 7302,
@@ -7882,7 +7882,7 @@
   },
   {
     "id": "wjteos",
-    "name": "Character_986",
+    "name": "Anime Character 986",
     "location": "Kumo",
     "health": "Injured",
     "power": 5219,
@@ -7890,7 +7890,7 @@
   },
   {
     "id": "n0897a",
-    "name": "Character_987",
+    "name": "Anime Character 987",
     "location": "Iwa",
     "health": "Critical",
     "power": 5710,
@@ -7898,7 +7898,7 @@
   },
   {
     "id": "rzuuyy",
-    "name": "Character_988",
+    "name": "Anime Character 988",
     "location": "Suna",
     "health": "Healthy",
     "power": 6774,
@@ -7906,7 +7906,7 @@
   },
   {
     "id": "o6bg6n",
-    "name": "Character_989",
+    "name": "Anime Character 989",
     "location": "Iwa",
     "health": "Injured",
     "power": 2850,
@@ -7914,7 +7914,7 @@
   },
   {
     "id": "16zal6",
-    "name": "Character_990",
+    "name": "Anime Character 990",
     "location": "Kiri",
     "health": "Critical",
     "power": 7184,
@@ -7922,7 +7922,7 @@
   },
   {
     "id": "4afy0c",
-    "name": "Character_991",
+    "name": "Anime Character 991",
     "location": "Konoha",
     "health": "Healthy",
     "power": 6802,
@@ -7930,7 +7930,7 @@
   },
   {
     "id": "s7vav8",
-    "name": "Character_992",
+    "name": "Anime Character 992",
     "location": "Kiri",
     "health": "Injured",
     "power": 2874,
@@ -7938,7 +7938,7 @@
   },
   {
     "id": "lcq43q",
-    "name": "Character_993",
+    "name": "Anime Character 993",
     "location": "Kiri",
     "health": "Critical",
     "power": 5010,
@@ -7946,7 +7946,7 @@
   },
   {
     "id": "58fcei",
-    "name": "Character_994",
+    "name": "Anime Character 994",
     "location": "Suna",
     "health": "Injured",
     "power": 9353,
@@ -7954,7 +7954,7 @@
   },
   {
     "id": "rfzx00",
-    "name": "Character_995",
+    "name": "Anime Character 995",
     "location": "Kiri",
     "health": "Injured",
     "power": 8481,
@@ -7962,7 +7962,7 @@
   },
   {
     "id": "4ev24k",
-    "name": "Character_996",
+    "name": "Anime Character 996",
     "location": "Kiri",
     "health": "Critical",
     "power": 6815,
@@ -7970,7 +7970,7 @@
   },
   {
     "id": "3eulm3",
-    "name": "Character_997",
+    "name": "Anime Character 997",
     "location": "Suna",
     "health": "Injured",
     "power": 445,
@@ -7978,7 +7978,7 @@
   },
   {
     "id": "74el5y",
-    "name": "Character_998",
+    "name": "Anime Character 998",
     "location": "Kumo",
     "health": "Healthy",
     "power": 5860,
@@ -7986,7 +7986,7 @@
   },
   {
     "id": "v1u0dk",
-    "name": "Character_999",
+    "name": "Anime Character 999",
     "location": "Kiri",
     "health": "Injured",
     "power": 7706,
@@ -7994,7 +7994,7 @@
   },
   {
     "id": "jmgudj",
-    "name": "Character_1000",
+    "name": "Anime Character 1000",
     "location": "Kiri",
     "health": "Critical",
     "power": 9188,

@@ -1,41 +1,130 @@
-import { useEffect, useState } from "react";
-import "./App.css";
-import { Table } from "./components/Table";
+import { useEffect, useState, useMemo } from "react";
+import { DataTable } from "./components/Table";
+import {
+  Button,
+  TextField,
+  Box,
+  Typography,
+  IconButton,
+  Tooltip,
+  CircularProgress,
+  InputAdornment,
+} from "@mui/material";
+import VisibilityIcon from "@mui/icons-material/Visibility";
+import SearchIcon from "@mui/icons-material/Search";
 
-type Character = {
+export interface Character {
   id: string;
   name: string;
   location: string;
-  health: string;
+  health: "Healthy" | "Injured" | "Critical";
   power: number;
-  viewed?: boolean;
-  selected?: boolean;
-};
+  selected: boolean;
 
-const columns = [
-  { key: "selected" as const, header: " " },
-  { key: "name" as const, header: "Name" },
-  { key: "location" as const, header: "Location" },
-  { key: "health" as const, header: "Health" },
-  { key: "power" as const, header: "Power" },
-];
+}
 
 function App() {
   const [charData, setCharData] = useState<Character[]>([]);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [selectedRows, setSelectedRows] = useState<Character[]>([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch("http://localhost:3000/characters");
-      const data = await response.json();
-      setCharData(data);
+      try {
+        const response = await fetch("http://localhost:3000/characters");
+        const data = await response.json();
+        setCharData(data);
+      } catch (error) {
+        console.error("Failed to fetch data:", error);
+      } finally {
+        setLoading(false);
+      }
     };
     fetchData();
   }, []);
 
+  const filteredData = useMemo(() => {
+    if (!searchTerm.trim()) return charData;
+    const term = searchTerm.toLowerCase();
+    return charData.filter(
+      (char) =>
+        char.name.toLowerCase().includes(term) ||
+        char.location.toLowerCase().includes(term)
+    );
+  }, [charData, searchTerm]);
+
+  const handleSelectionChange = (selected: Character[]) => {
+    setSelectedRows(selected);
+  };
+
+  const handleToggleViewed = () => {
+    const selectedChars = selectedRows.map((row) => ({
+      id: row.id,
+      name: row.name,
+    }));
+    console.log("Selected Characters:", selectedChars);
+  };
+
+  if (loading) {
+    return (
+      <Box sx={{ display: "flex", justifyContent: "center", mt: 4 }}>
+        <CircularProgress />
+      </Box>
+    );
+  }
+
   return (
-    <>
-      <Table<Character> columns={columns} data={charData} />
-    </>
+    <Box sx={{ p: 3 }}>
+      <Typography variant="h4" gutterBottom>
+        Character Dashboard
+      </Typography>
+
+      <Box sx={{ mb: 3, display: "flex", gap: 2, alignItems: "center" }}>
+        <TextField
+          placeholder="Search by name or location..."
+          variant="outlined"
+          size="small"
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          sx={{ width: 300 }}
+          InputProps={{
+            startAdornment: (
+              <InputAdornment position="start">
+                <SearchIcon sx={{ color: "text.secondary" }} />
+              </InputAdornment>
+            ),
+          }}
+          aria-label="Search characters by name or location"
+        />
+
+        <Tooltip title="Mark selected as viewed">
+          <IconButton
+            color="primary"
+            onClick={handleToggleViewed}
+            disabled={selectedRows.length === 0}
+            aria-label="Mark selected characters as viewed"
+          >
+            <VisibilityIcon />
+          </IconButton>
+        </Tooltip>
+
+        <Button
+          variant="contained"
+          onClick={handleToggleViewed}
+          disabled={selectedRows.length === 0}
+          startIcon={<VisibilityIcon />}
+          aria-label={`Mark ${selectedRows.length} selected characters as viewed`}
+        >
+          Mark Viewed ({selectedRows.length})
+        </Button>
+      </Box>
+
+      <DataTable
+        data={filteredData}
+        onSelectionChange={handleSelectionChange}
+      />
+    </Box>
   );
 }
 
