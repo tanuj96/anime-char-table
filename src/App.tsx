@@ -1,35 +1,42 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useEffect, useState } from "react";
+import "./App.css";
+import { Table } from "./components/Table";
+
+type Character = {
+  id: string;
+  name: string;
+  location: string;
+  health: string;
+  power: number;
+  viewed?: boolean;
+  selected?: boolean;
+};
+
+const columns = [
+  { key: "selected" as const, header: " " },
+  { key: "name" as const, header: "Name" },
+  { key: "location" as const, header: "Location" },
+  { key: "health" as const, header: "Health" },
+  { key: "power" as const, header: "Power" },
+];
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [charData, setCharData] = useState<Character[]>([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const response = await fetch("http://localhost:3000/characters");
+      const data = await response.json();
+      setCharData(data);
+    };
+    fetchData();
+  }, []);
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <Table<Character> columns={columns} data={charData} />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
