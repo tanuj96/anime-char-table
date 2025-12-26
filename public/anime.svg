@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="45" fill="#ff8c00" stroke="#1e90ff" stroke-width="5"/>
+  
+  <!-- Face -->
+  <circle cx="50" cy="45" r="25" fill="#fdbcb4"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="42" cy="40" rx="4" ry="6" fill="#000"/>
+  <ellipse cx="58" cy="40" rx="4" ry="6" fill="#000"/>
+  
+  <!-- Whiskers -->
+  <line x1="30" y1="45" x2="40" y2="42" stroke="#000" stroke-width="2"/>
+  <line x1="30" y1="50" x2="40" y2="50" stroke="#000" stroke-width="2"/>
+  <line x1="30" y1="55" x2="40" y2="58" stroke="#000" stroke-width="2"/>
+  <line x1="70" y1="45" x2="60" y2="42" stroke="#000" stroke-width="2"/>
+  <line x1="70" y1="50" x2="60" y2="50" stroke="#000" stroke-width="2"/>
+  <line x1="70" y1="55" x2="60" y2="58" stroke="#000" stroke-width="2"/>
+  
+  <!-- Mouth -->
+  <path d="M 45 55 Q 50 60 55 55" stroke="#000" stroke-width="2" fill="none"/>
+  
+  <!-- Spiky hair -->
+  <polygon points="35,25 40,15 45,25 50,10 55,25 60,15 65,25" fill="#ff4500"/>
+  
+  <!-- Headband -->
+  <rect x="35" y="30" width="30" height="5" fill="#fff" stroke="#000" stroke-width="1"/>
+  <circle cx="50" cy="32.5" r="3" fill="#fff" stroke="#000" stroke-width="1"/>
+</svg>
