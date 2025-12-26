@@ -75,12 +75,35 @@ function App() {
   }
 
   return (
-    <Box sx={{ p: 3 }}>
-      <Typography variant="h4" gutterBottom>
+    <Box
+      sx={{
+        minHeight: "100vh",
+        backgroundColor: "grey.50",
+        p: 3,
+      }}
+    >
+      <Typography
+        variant="h4"
+        gutterBottom
+        sx={{ textAlign: "center", mb: 4 }}
+        style={{color: "#000000"}}
+      >
         Character Dashboard
       </Typography>
 
-      <Box sx={{ mb: 3, display: "flex", gap: 2, alignItems: "center" }}>
+      <Box
+        sx={{
+          mb: 3,
+          display: "flex",
+          gap: 2,
+          alignItems: "center",
+          justifyContent: "center",
+          p: 2,
+          backgroundColor: "white",
+          borderRadius: 2,
+          boxShadow: 1,
+        }}
+      >
         <TextField
           placeholder="Search by name or location..."
           variant="outlined"
@@ -120,10 +143,12 @@ function App() {
         </Button>
       </Box>
 
-      <DataTable
-        data={filteredData}
-        onSelectionChange={handleSelectionChange}
-      />
+      <Box sx={{ backgroundColor: "white", borderRadius: 2, p: 2, boxShadow: 1 }}>
+        <DataTable
+          data={filteredData}
+          onSelectionChange={handleSelectionChange}
+        />
+      </Box>
     </Box>
   );
 }

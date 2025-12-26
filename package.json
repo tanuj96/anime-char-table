@@ -4,11 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "concurrently \"vite\" \"npm run server\"",
+    "devlocal": "concurrently \"vite\" \"npm run server\"",
+    "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "json-server --watch data/char.json --port 3000",
+     "server": "json-server --watch data/char.json --port 3000",
     "test": "jest"
   },
   "dependencies": {
