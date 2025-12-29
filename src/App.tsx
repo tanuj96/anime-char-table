@@ -28,11 +28,12 @@ function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedRows, setSelectedRows] = useState<Character[]>([]);
   const [loading, setLoading] = useState(true);
+  const URL = "https://anime-char-table-production.up.railway.app/characters";
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("http://localhost:3000/characters");
+        const response = await fetch(URL);
         const data = await response.json();
         setCharData(data);
       } catch (error) {
