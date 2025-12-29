@@ -6,10 +6,11 @@
   "scripts": {
     "devlocal": "concurrently \"vite\" \"npm run server\"",
     "dev": "vite",
+    "start": "json-server --watch data/char.json --port 3000",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "server": "json-server --watch data/char.json --port 3000",
+    "server": "json-server --watch data/char.json --port 3000",
     "test": "jest"
   },
   "dependencies": {
